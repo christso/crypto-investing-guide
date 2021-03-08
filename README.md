@@ -153,7 +153,44 @@ Are on-chain metrics indicating confidence in the project?
 
 # Crypto Twitter
 
-@SpartanBlack
+Bitcoin:
+* [@aantonop](https://twitter.com/aantonop)
+* [@real_vijay](https://twitter.com/real_vijay)
+* [@Breedlove22](https://twitter.com/Breedlove22)
+* [@100trillionUSD](https://twitter.com/100trillionUSD)
+* [@saifedean](https://twitter.com/saifedean)
+* [@JeffBooth](https://twitter.com/JeffBooth)
+* [@danheld](https://twitter.com/danheld)
+* [@matt_odell](https://twitter.com/matt_odell)
+* [@adam3us](https://twitter.com/adam3us)
+* [@PeterMcCormack](https://twitter.com/PeterMcCormack)
+* [@nic__carter](https://twitter.com/nic__carter)
+* [@APompliano](https://twitter.com/APompliano)
+* [@DocumentingBTC](https://twitter.com/DocumentingBTC)
+* [@PrestonPysh](https://twitter.com/PrestonPysh)
+* [@BitcoinMagazine](https://twitter.com/BitcoinMagazine)
+* [@maxkeiser](https://twitter.com/maxkeiser)
+
+Crypto:
+* [@SpartanBlack_1](https://twitter.com/SpartanBlack_1)
+* [@zhusu](https://twitter.com/zhusu)
+* [@Bloqbot](https://twitter.com/Bloqbot)
+* [@glassnode](https://twitter.com/glassnode)
+* [@woonomic](https://twitter.com/woonomic)
+
+Corporate and HNW Investors:
+* [@TimDraper](https://twitter.com/TimDraper)
+* [@michael_saylor](https://twitter.com/michael_saylor)
+* [@novogratz](https://twitter.com/novogratz)
+* [@BarrySilbert](https://twitter.com/BarrySilbert)
+* [@tyler](https://twitter.com/tyler)
+* [@cameron](https://twitter.com/cameron)
+* [@elonmusk](https://twitter.com/elonmusk)
+
+Investing:
+* [@LynAldenContact](https://twitter.com/LynAldenContact)
+* [@GeorgeGammon](https://twitter.com/GeorgeGammon)
+* [@MarkMoss](https://twitter.com/1MarkMoss)
 
 # Additional Resources
 
