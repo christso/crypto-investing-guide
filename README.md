@@ -26,11 +26,11 @@ CBDCs are not cryptocurrencies.
 
 What the FUD articles assume is that there is value in securing a monetary network, and therefore any electricity used for the purpose is wasteful. It also ignores that the majority of Bitcoin mining is being powered by renewal energy or excess energy, and is moving towards that direction.
 
-Setee is a company controlled by Norway's 2nd richest man, Kjell Inge Røkke.
+Setee is a company controlled by Norway's 2nd richest man, Kjell Inge Røkke. This is an excerpt from their [shareholder letter](https://www.seetee.io/static/shareholder_letter-6ae7e85717c28831bf1c0eca1d632722.pdf):
 
 > Sec­ond, See­tee will es­tab­lish min­ing op­er­a­tions that trans­fer strand­ed or in­ter­mit­tent elec­tric­i­ty with­out sta­ble de­mand lo­cal­ly—wind, so­lar, hy­dro pow­er— to eco­nom­ic as­sets that can be used any­where. Bit­coin is, in our eyes, a load-bal­anc­ing eco­nom­ic bat­tery, and bat­ter­ies are es­sen­tial to the en­er­gy tran­si­tion re­quired to reach the tar­gets of the Paris Agreement. Our am­bi­tion is to be a valu­able part­ner in new re­new­able projects.
 
-https://www.seetee.io/static/shareholder_letter-6ae7e85717c28831bf1c0eca1d632722.pdf
+
 
 ## The other coins are more affordable
 
