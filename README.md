@@ -24,6 +24,14 @@ CBDCs are not cryptocurrencies.
 
 [Bitcoin uses more electricity than Argentina - 9News](https://www.9news.com.au/technology/bitcoin-uses-more-electricity-than-argentina-norway-study-finds/eb51703b-db82-4fd3-ab2a-c79b96523455)
 
+What the FUD articles assume is that there is value in securing a monetary network, and therefore any electricity used for the purpose is wasteful. It also ignores that the majority of Bitcoin mining is being powered by renewal energy or excess energy, and is moving towards that direction.
+
+Setee is a company controlled by Norway's 2nd richest man, Kjell Inge Røkke.
+
+> Sec­ond, See­tee will es­tab­lish min­ing op­er­a­tions that trans­fer strand­ed or in­ter­mit­tent elec­tric­i­ty with­out sta­ble de­mand lo­cal­ly—wind, so­lar, hy­dro pow­er— to eco­nom­ic as­sets that can be used any­where. Bit­coin is, in our eyes, a load-bal­anc­ing eco­nom­ic bat­tery, and bat­ter­ies are es­sen­tial to the en­er­gy tran­si­tion re­quired to reach the tar­gets of the Paris Agreement. Our am­bi­tion is to be a valu­able part­ner in new re­new­able projects.
+
+https://www.seetee.io/static/shareholder_letter-6ae7e85717c28831bf1c0eca1d632722.pdf
+
 ## The other coins are more affordable
 
 [The next Bitcoin? Investors flock to new cryptocurrency 'ADA' - 9News](https://www.9news.com.au/national/bitcoin-news-investors-hunt-for-next-big-cryptocurrency-as-ada-explodes/5cf444f8-c01f-4059-a9a5-ec673d6a6999)
@@ -118,7 +126,7 @@ This is my portfolio allocation. I hold the majority in Bitcoin. I would only bu
 * Polkadot (DOT)
 * Binance Coin (BNB) - fuel for Binance Smart Chain (BSC)
 
-I occassionally trade a small amount of "questionable" coins, which Bitcoin maxis commonly refer to as "shitcoins". I do not recommend holding these coins for longer than a month or holding any amount that you cannot afford to lose completely. The price is driven by pure speculation rather than a working decentralized product.
+I occassionally trade a small amount of "questionable" coins, which Bitcoin maxis commonly refer to as "shitcoins". I do not recommend holding these coins for longer than a month or holding any amount that you cannot afford to lose completely. The price is driven mostly by speculation rather than any working decentralized product.
 
 * Dogecoin (DOGE)
 * Litecoin (LTC)
@@ -151,6 +159,10 @@ Are on-chain metrics indicating confidence in the project?
 
 [Glassnode](https://glassnode.com/) - on-chain market intelligence
 
+# Price Forecast
+
+[Don't Get Rekt - The anatomy of the next #Bitcoin bear market - Andy Edstrom (Mar 8, 2021)](https://www.btctimes.com/insight/dont-get-rekt)
+
 # Crypto Twitter
 
 Bitcoin:
@@ -167,9 +179,14 @@ Bitcoin:
 * [@nic__carter](https://twitter.com/nic__carter)
 * [@APompliano](https://twitter.com/APompliano)
 * [@DocumentingBTC](https://twitter.com/DocumentingBTC)
+* [@BTC_Archive](https://twitter.com/BTC_Archive)
 * [@PrestonPysh](https://twitter.com/PrestonPysh)
 * [@BitcoinMagazine](https://twitter.com/BitcoinMagazine)
 * [@maxkeiser](https://twitter.com/maxkeiser)
+* [@coryklippsten](https://twitter.com/coryklippsten)
+* [@alistairmilne](https://twitter.com/alistairmilne)
+* [@CoinCornerDanny](https://twitter.com/CoinCornerDanny)
+* [@_benkaufman](https://twitter.com/_benkaufman)
 
 Crypto:
 * [@SpartanBlack_1](https://twitter.com/SpartanBlack_1)
@@ -177,6 +194,7 @@ Crypto:
 * [@Bloqbot](https://twitter.com/Bloqbot)
 * [@glassnode](https://twitter.com/glassnode)
 * [@woonomic](https://twitter.com/woonomic)
+* [@ki_young_ju](https://twitter.com/ki_young_ju)
 
 Corporate and HNW Investors:
 * [@TimDraper](https://twitter.com/TimDraper)
