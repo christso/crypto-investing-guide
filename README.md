@@ -30,8 +30,6 @@ Setee is a company controlled by Norway's 2nd richest man, Kjell Inge Røkke. Th
 
 > Sec­ond, See­tee will es­tab­lish min­ing op­er­a­tions that trans­fer strand­ed or in­ter­mit­tent elec­tric­i­ty with­out sta­ble de­mand lo­cal­ly—wind, so­lar, hy­dro pow­er— to eco­nom­ic as­sets that can be used any­where. Bit­coin is, in our eyes, a load-bal­anc­ing eco­nom­ic bat­tery, and bat­ter­ies are es­sen­tial to the en­er­gy tran­si­tion re­quired to reach the tar­gets of the Paris Agreement. Our am­bi­tion is to be a valu­able part­ner in new re­new­able projects.
 
-
-
 ## The other coins are more affordable
 
 [The next Bitcoin? Investors flock to new cryptocurrency 'ADA' - 9News](https://www.9news.com.au/national/bitcoin-news-investors-hunt-for-next-big-cryptocurrency-as-ada-explodes/5cf444f8-c01f-4059-a9a5-ec673d6a6999)
@@ -63,7 +61,9 @@ P2P non-KYC/AML Fiat/Crypto Exchanges
 * [SushiSwap](https://www.sushi.com/)
 * [Bancor Network](https://app.bancor.network/eth/swap)
 
-# Cold Storage Solutions
+# Hardware Wallets
+
+Hardware wallets are the preferred cold storage solution. They store your seed and allow you to verify the transaction that you are signing on a separate device.
 
 [Ledger](https://www.ledger.com/)
 
@@ -72,6 +72,13 @@ P2P non-KYC/AML Fiat/Crypto Exchanges
 [Coldcard](https://coldcardwallet.com/) - This supports Bitcoin only.
 
 Note - The derivation path for each hardware wallet may be different.
+
+# Wallet Software
+
+[Specter Wallet](https://specter.solutions/)
+
+[Electrum](https://electrum.org/)
+
 
 # Seed Storage Solutions
 
@@ -82,6 +89,8 @@ Note - The derivation path for each hardware wallet may be different.
 You can create a "multishard seed", where your seed is split into 3 shards, such that any 2 parts can reconstruct your complete seed. Each shard allows you to store up to 16 words of your seed phrase, and each unit tells you which 16 out of the 24 total words to load up. Shard One houses words 1 to 16, Shard Two houses words 9 to 24 and Shard 3 houses words 1 to 8 and 17 to 24. Once this process is complete, you will have effectively backed up each seed word twice.
 
 # Bitcoin Lightning Wallets
+
+The [Lightning Network](https://en.wikipedia.org/wiki/Lightning_Network) is a layer on top of Bitcoin that enables faster and smaller P2P transactions. Treat your lightning wallet the same as your cash wallet you take with you on the go. It's expected that most Bitcoin transactions will eventually happen off-chain, and the only transactions on-chain will mainly be large value settlements between insititutions and other high net worth entities.
 
 * [Wallet of Satoshi](https://www.walletofsatoshi.com/) - easiest to use custodial wallet
 * [Muun wallet](https://muun.com/) - non-custodial wallet
@@ -126,7 +135,7 @@ This is my portfolio allocation. I hold the majority in Bitcoin. I would only bu
 * Polkadot (DOT)
 * Binance Coin (BNB) - fuel for Binance Smart Chain (BSC)
 
-I occassionally trade a small amount of "questionable" coins, which Bitcoin maxis commonly refer to as "shitcoins". I do not recommend holding these coins for longer than a month or holding any amount that you cannot afford to lose completely. The price is driven mostly by speculation rather than any working decentralized product.
+I occassionally trade a small amount of "questionable" coins, which Bitcoin maxis commonly refer to as "shitcoins". I do not recommend holding these coins for longer than a month or holding any amount that you cannot afford to lose completely. The price is driven mostly by speculation and marketing rather than any working decentralized product. However, sometimes technological progress follows after speculation, so it's still worth keeping an eye on shitcoins. Also, the growth of shitcoins are a good indicator of new retail investors entering the market.
 
 * Dogecoin (DOGE)
 * Litecoin (LTC)
@@ -137,11 +146,11 @@ I occassionally trade a small amount of "questionable" coins, which Bitcoin maxi
 
 # Project Evaluation
 
-Is product already working?
+Is the product already working?
 
 How strong is the ecosystem (developers, businesses, and users)?
 
-What differentiates it from its competitors?
+What is the unique selling proposition (USP), and how is it different from its competitors?
 
 Does the monetary policy reward long-term holders?
 
@@ -160,6 +169,14 @@ Are on-chain metrics indicating confidence in the project?
 [Glassnode](https://glassnode.com/) - on-chain market intelligence
 
 # Price Forecast
+
+Bitcoin has a 4 year halving cycle, with 2 years of bull market and 2 years of bear market. As with any asset class, it is not immune to speculative mania and leverage, which causes the its price to overextend before a steep correction.
+
+"New orange dot: Feb close $45,240! (Jan was $33,141 and current price is $46,500)" - [@100trillionUSD on 2021-03-01](https://twitter.com/100trillionUSD/status/1366300758036131840).
+![](images/btc-s2fx-20210301.png)
+
+1+ year hodlers: selling. 2+ year hodlers: selling. 3+ year hodlers aka "been in a bull market before and know how this works": stacking sats.
+![](images/glassnode-supply-last-active-20210310.png)
 
 [Don't Get Rekt - The anatomy of the next #Bitcoin bear market - Andy Edstrom (Mar 8, 2021)](https://www.btctimes.com/insight/dont-get-rekt)
 
