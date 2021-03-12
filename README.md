@@ -316,8 +316,14 @@ Investing:
 
 [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.amazon.com.au/Bitcoin-Standard-Decentralized-Alternative-Central-ebook/dp/B07BPM3GZQ) - book explaining the evolution of money over millenia and the social implications of Bitcoin.
 
+[Mastering Bitcoin, by Andreas M. Antonopoulos](https://github.com/bitcoinbook/bitcoinbook) - technical book on Bitcoin.
+
+[Mastering Ethereum, by Andreas M. Antonopoulos](https://github.com/ethereumbook/ethereumbook) - technical book on Ethereum.
+
 [Satoshi Nakamoto Institute](https://nakamotoinstitute.org/) - primary source literature with archives of many posts by Bitcoin's early creators.
 
 [The Changing World Order - an online series by Ray Dalio](https://www.principles.com/the-changing-world-order/) - a study on the rises and declines of leading empires.
+
+[Bitcoin for Everybody - Saylor Academy](https://learn.saylor.org/course/PRDV151) - free Bitcoin course provided the foundation owned by Michael Saylor, who is the CEO of MicroStrategy.
 
 [Binance Academy](https://academy.binance.com/) - guide on trading and staking on Binance.
