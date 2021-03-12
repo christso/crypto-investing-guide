@@ -28,8 +28,10 @@ I predict that by 2030:
 * Most Western democracies will no longer pretend to be a democracy, and will openly embrace socialism. I expect most national governments including the U.S. government will adopt similar social and economic policies that China has already adopted.
 * Physical cash will be replaced by CBDCs (central bank digital currencies). However, CBDCs will still be inferior to cryptocurrencies, since CBDCs are still fiat currencies but provides even more control to governments over its users. For example.
 * Nations will lose control of some states, and some states will lose control of cities. We've already seen cities pushing for crypto-friendly and free-market policies, which is very different to the policies of national governments. It's likely that these cities will declare independence from any government and we start seeing the disintegration of nation states into a decentralised network of cities. The main struggle will be between centralised entities and decentralised networks, rather than between nations. The "threat" to nation states is no longer another nation, but its own citizens who decide to take the crypto lifeboat and become "sovereign individuals".
+* Housing will become more affordable, and the stock market will return to more reasonable valuations. This is because Bitcoin will be the best store-of-value to protect against inflation. Historically, investors have pushed up the prices of real estate and other higher yielding assets when interest rates were low. Now, investors can simply store their wealth in Bitcoin, and only invest in real estate and the stock market if those assets are likely to offer a higher return than Bitcoin.
+* Governments will be pressured to reduce taxes to attract people to create value in the nation's economy, since people now have more bargaining power since they can easily transport their wealth across borders.
 
-These predictions are not conspiracies. It's actually in the works already and is public information. We will have another 1971-style reset, lead by the World Economic Forum (WEF).
+We will have another 1971-style reset, lead by the World Economic Forum (WEF).
 
 [Welcome To 2030: I Own Nothing, Have No Privacy And Life Has Never Been Better](https://www.forbes.com/sites/worldeconomicforum/2016/11/10/shopping-i-cant-really-remember-what-that-is-or-how-differently-well-live-in-2030)
 
@@ -44,6 +46,8 @@ You have 2 choices:
 * personal taxation is a temporary measure to fund the war.
 * money printing was a temporary measure to fund the war.
 * mandatory lockdowns was a temporary measure to fight COVID.
+
+You choice, along with everyone else, will shape the world our children will live in. It's either going to be a world where people are victims who require ongoing government support, or where people are powerful and governments serve the people, or... a world split into the super-wealthy and the super-poor. Either way, you will be glad you took the lifeboat while everyone was still supporting the sinking ship.
 
 # The decentralized financial system
 
