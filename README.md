@@ -14,6 +14,8 @@ The CPI is usually kept below 3% per year because because the way that CPI is re
 
 [Shadow Government Statistics](http://www.shadowstats.com/) provides statistics using pre-1980 methodology, which shows that the pre-1980 CPI is double than of the official CPI. For a detailed primary on measuring CPI, see [No. 515—PUBLIC COMMENT ON INFLATION MEASUREMENT AND THE CHAINED-CPI (C-CPI)](http://www.shadowstats.com/article/no-438-public-comment-on-inflation-measurement).
 
+All currencies began as warehouse receipts for the same type of thing—namely, monetary metal (usually gold). Today, national currencies are not redeemable for gold, and are instead liquid equity units in a pyramid scheme called fiat currency: a hierarchy of thievery built on top of the freely selected money of the world (gold) which their issuers (central banks) hoard to manipulate its price, insulate their inferior fiat currencies from competitive threats, and perpetually extract wealth from those lower down the pyramid. (credit: [Robert Breedlove](https://breedlove22.medium.com/the-number-zero-and-bitcoin-4c193336db5b)).
+
 From 1945 until 1971, the U.S. dollar was backed by gold as part of the Bretton Woods agreement. On August 1971, the United States terminated convertibility of the US dollar to gold, effectively bringing the Bretton Woods system to an end and rendering the dollar a fiat currency. At the same time, many fixed currencies (such as the pound sterling) also became free-floating. After 1971, it became normal for the cost of living to outpace real wages, wealth and income concentrating to the top 1%, currency devaluations around the world, banking crisis, ballooning debt-to-GDP, government deficits, asset price bubbles, more polarized ideologies, low interest rates and slowdown in technological progress. [WTF Happened In 1971?](https://wtfhappenedin1971.com/) curates some interesting charts to which clearly shows the effect of the Gold Standard pre-1971 versus the Fiat Standard post-1971.
 
 The fiat monetary system is based on Keynesian economics, which is based on [Hitler's Economics](https://mises.org/library/hitlers-economics). What were Hitler's economic policies?
@@ -77,6 +79,10 @@ The captain also distracts you by pointing to the other fiat currency ships, and
 
 # Common misconceptions about Bitcoin
 
+It's important to understand the common misconceptions about Bitcoin, as these are what drives a lot of the FUD (fear, uncertainty and doubt) in mainstream media, which causes uninformed investors to sell their Bitcoin at a steep discount, and avoid Bitcoin until the end of the bull run when those investors are optimistic again and end up buying at a too high price. Following mainstream media is the quickest way to lose money.
+
+All of the misconceptions have been debunked either through common sense, or directly by people such as Lyn Alden's newsletter - [7 Misconceptions About Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/).
+
 ## Bitcoin uses too much energy
 
 [Bitcoin uses more electricity than Argentina - 9News](https://www.9news.com.au/technology/bitcoin-uses-more-electricity-than-argentina-norway-study-finds/eb51703b-db82-4fd3-ab2a-c79b96523455)
@@ -90,6 +96,8 @@ Setee is a company controlled by Norway's 2nd richest man, Kjell Inge Røkke. Th
 
 > Sec­ond, See­tee will es­tab­lish min­ing op­er­a­tions that trans­fer strand­ed or in­ter­mit­tent elec­tric­i­ty with­out sta­ble de­mand lo­cal­ly—wind, so­lar, hy­dro pow­er— to eco­nom­ic as­sets that can be used any­where. Bit­coin is, in our eyes, a load-bal­anc­ing eco­nom­ic bat­tery, and bat­ter­ies are es­sen­tial to the en­er­gy tran­si­tion re­quired to reach the tar­gets of the Paris Agreement. Our am­bi­tion is to be a valu­able part­ner in new re­new­able projects.
 
+Tyrannies are less energy-efficient than free markets because they require tyrants to expend resources enforcing compliance with their imposed rulesets and protecting their turf. Voluntary games (free market capitalism) outcompete involuntary games (centrally planned socialism) as they do not accrue these enforcement and protection costs: hence the reason capitalism (freedom) outcompetes socialism (slavery) in the long run. Bitcoin does not require enforced compliance. Economic actors are incentivized to choose the money that best holds its value across time, is most widely accepted, and most clearly conveys market pricing information. Holding the scarcest money is the most energy-efficient strategy a player can employ.
+
 ## Bitcoin has no intrinsic value
 
 ## The other coins are more affordable
@@ -98,7 +106,52 @@ Setee is a company controlled by Norway's 2nd richest man, Kjell Inge Røkke. Th
 
 ## Bitcoin could dissappear like MySpace
 
-"Blockchain not Bitcoin".
+A similar misconception is that "Bitcoin is not scarce. Anyone can create their own cryptocurrency which can potentially replace Bitcoin if the technology is superior."
+
+### Absolute scarcity can only be discovered once
+
+Absolute scarcity can only be discovered once. Just like the Internet can only be discovered once. The Internet is a set of protocols that people around the world agree to use. It is not a product, like MySpace, where it can easily be replaced.
+
+[The Number Zero and Bitcoin - Robert Breedlove](https://breedlove22.medium.com/the-number-zero-and-bitcoin-4c193336db5b)
+ explains this clearly.
+
+The invention fo Zero changed our understanding of the universe, and had superior arithmetic utility for merchants and banks in the 13th century.
+
+> As with many profound innovations, zero faced vehement resistance from entrenched power structures that were threatened by its existence. Carrying on lawlessly, Italian merchants continued to use the zero-based numeral system, and even began using it to transmit encrypted messages. Zero was essential to these early encryption systems—which is why the word cipher, which originally meant zero, came to mean “secret code.” The criticality of zero to ancient encryption systems is yet another aspect of its contribution to Bitcoin’s ancestral heritage.
+
+> In modernity, zero has become a celebrated tool in our mathematical arsenal. As the binary numerical system now forms the foundation of modern computer programming, zero was essential to the development of digital tools like the personal computer, the internet, and Bitcoin.
+
+> Like the invention of zero, which led to the discovery of “nothing as something” in mathematics and other domains, Bitcoin is the catalyst of a worldwide paradigmatic phase change (which some have started calling The Great Awakening). What numeral is to number, and zero is to the void for mathematics, Bitcoin is to absolute scarcity for money: each is a symbol that allows mankind to apprehend a latent reality (in the case of money, time).
+
+> Path-dependence entails that the sequence of events matters as much as the events themselves: as a simple example, you get a dramatically different result if you shower and then dry yourself off versus if you dry yourself off first and then shower.
+
+> Imagine if the world tried to standardize to a different size electrical outlet: consumers, manufacturers, and suppliers would all resist this costly change unless there was a gigantic prospective gain.
+
+> Bitcoin was launched into the world as a one of a kind technology: a non-state digital money that is issued on a perfectly fixed, diminishing, and predictable schedule. It was strategically released into the wild (into an online group of cryptographers) at a time when no comparative technology existed. Bitcoin’s organic adoption path and mining network expansion are a non-repeatable sequence of events. As a thought experiment, consider that if a “New Bitcoin” was launched today, it would exhibit weak chain security early on, as its mining network and hash rate would have to start from scratch. Today, in a world that is aware of Bitcoin, this “New Bitcoin” with comparatively weak chain security would inevitably be attacked—whether these were incumbent projects seeking to defend their head start, international banking cartels, or even nation-states.
+
+> Path-dependence protects Bitcoin from disruption, as the organic sequence of events which led to its release and assimilation into the marketplace cannot be replicated. Further, Bitcoin’s money supply is absolutely scarce; a totally unique and one-time discovery for money. Even if “New Bitcoin” was released with an absolutely scarce money supply, its holders would be incentivized to hold the money with the greatest liquidity, network effects, and chain security. This would cause them to dump “New Bitcoin” for the original Bitcoin. More realistically, instead of launching “New Bitcoin,” those seeking to compete with Bitcoin would take a social contract attack-vector by initiating a hard fork. An attempt like this was already made with the “Bitcoin Cash” fork, which tried to increase block sizes to (ostensibly) improve its utility for payments. This chain fork was an abject failure and a real world reinforcement of the importance of Bitcoin’s path-dependent emergence.
+
+### The base layer of the financial system should be stable
+
+Bitcoin is a base layer protocol which requires it to be stable, which serves as a foundation for the upper layers which are more experimental and therefore less stable.
+
+For example, Ethereum is seen as superior technology than Bitcoin because it supports an unlimited number of use cases by allowing anyone to build decentralized applications on the platform. It's also a faster payment method than Bitcoin, and with Ethereum 2.0 it is likely to consume less energy and have better scalability. However, Bitcoin remains as the preferred store-of-value. We're also seeing the growth of Bitcoin tokens on Ethereum, Polkadot, Ren and other protocols. So, even if another cryptocurrency can improve upon Bitcoin's technology, it cannot copy the network effects.
+
+[Bitcoin vs Ethereum - Dan Held](https://danheld.substack.com/p/bitcoin-vs-ethereum)
+
+### Culture of decentralization is an emergent property
+
+"Satoshi left because he didn’t want its influence to affect the protocol development creating a single point of failure. The very idea of “Satoshi Vision” itself is against Satoshi’s vision for Bitcoin" — Frederico Tenga
+
+Ethereum, in contrast, has a leader, Vitalik Buterin, who influences the development and monetary policy of the network. This leaves Ethereum open to a political attack vector as Vitalik is a human, has human flaws, and is potentially corruptible.
+
+The monetary policy of Bitcoin is easily verified by anyone. It has a fixed maximum supply a predetermined issuance schedule and difficulty adjustment. Also, being able to verify all transactions and supply from your home computer ensures that the rules of Bitcoin are being followed at any given moment. This makes Bitcoin nodes highly decentralized.
+
+With Ethereum, the community has embraced accelerating costs of running nodes, which pushes developers and users to be increasingly reliant on trusted 3rd party node operates such as Infura.
+
+You cannot build a decentralised culture with code or with a worshipped leader. The culture needs to emerge by itself. We can say that Bitcoin was actually not invented... it was discovered.
+
+[Bitcoin vs Ethereum - Dan Held](https://danheld.substack.com/p/bitcoin-vs-ethereum)
 
 ## Bitcoin is too volatile
 
@@ -110,9 +163,13 @@ Setee is a company controlled by Norway's 2nd richest man, Kjell Inge Røkke. Th
 
 ## Bitcoin might have undiscovered vulnerabilities which can cause catastrophic failure
 
-inflation bug
+Bitcoin is 40 years in the making, and has been running live since January 2009 with no downtime.
 
-double-spend
+![](images/bitcoin-prehistory.jpg)
+
+Meanwhile, the Fedwire payment system that allows banks to send money between each other went down for several hours on 24th February 2021.
+
+Also, in January 2021, [Bitcoin Did Not Experience a Double-Spend: The Blockchain Worked as Intended](https://www.cryptoglobe.com/latest/2021/01/bitcoin-did-not-experience-a-double-spend-the-blockchain-worked-as-intended/). However, the news was believable enough that it caused Canadian virtual reality company NexTech AR Solutions to 130 bitcoins valued at around $4.2 million (which is $32,308 per bitcoin).
 
 ## Bitcoin will be banned
 
@@ -297,19 +354,31 @@ The other outcome (but unlikely until 2027) is there is no bear market, and we a
 
 [Hyperbitcoinization - The path to becoming the world’s dominant form of money](https://www.bitrawr.com/hyperbitcoinization).
 
+Bitcoin is going after the "store of value" total addressable market (TAM) which will capture some % of the following:
+* Gold ($10T)
+* Real Estate ($200T)
+* Bonds ($100T)
+* Equities ($30T)
+* Broad Money ($100T)
+* Fine Art/collectibles ($20T)
+
+[Compiled by Brandon Quittem](https://twitter.com/Bquittem/status/1365122245895483394?s=20)
+
 My base scenario is that Bitcoin peaks at US$400k, crashes to US$100k, and goes sideways for 2 years around $200-$300k. Then in 2025-26, after the next halving, I expect Bitcoin to hover around US$5 million and achieve hyperbitcoinization.
 
 # Crypto Twitter
 
 Bitcoin:
-* [@aantonop](https://twitter.com/aantonop) - Bitcoin expert and author of Mastering Bitcoin
-* [@real_vijay](https://twitter.com/real_vijay)
-* [@Breedlove22](https://twitter.com/Breedlove22)
-* [@100trillionUSD](https://twitter.com/100trillionUSD)
-* [@ecoinometrics](https://twitter.com/ecoinometrics) - data and insights
-* [@saifedean](https://twitter.com/saifedean)
+* Andreas M. Antonopoulos - [@aantonop](https://twitter.com/aantonop) - Bitcoin expert and author of Mastering Bitcoin
+* Vijay Boyapati - [@real_vijay](https://twitter.com/real_vijay)
+* Robert Breedlove - [@Breedlove22](https://twitter.com/Breedlove22)
+* Plan B = [@100trillionUSD](https://twitter.com/100trillionUSD)
+* Saifedean Ammous - [@saifedean](https://twitter.com/saifedean)
+* Stephan Livera - [@stephanlivera](https://twitter.com/stephanlivera)
+* Jameson Lopp - [@lopp](https://twitter.com/lopp)
 * [@JeffBooth](https://twitter.com/JeffBooth)
 * [@danheld](https://twitter.com/danheld)
+* [@ecoinometrics](https://twitter.com/ecoinometrics) - data and insights
 * [@matt_odell](https://twitter.com/matt_odell)
 * [@adam3us](https://twitter.com/adam3us)
 * [@PeterMcCormack](https://twitter.com/PeterMcCormack)
