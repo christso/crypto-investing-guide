@@ -35,7 +35,7 @@ We have "crypto enablement" which consists of centralized and regulated entities
 
 Bitcoin is digital money that preserves its value across space and time. This contrasts with gold and fiat money. Gold is difficult to transport over space and difficult to verify its authenticity. Fiat loses value over time because central banks have a history of losing their independence and debasing their currency.
 
-Lifeboat.
+Bitcoin is used as a "lifeboat" by people to escape from the fiat system which is a "sinking ship". This analogy of a lifeboat is elegantly explained by Andreas Antonopoulos on his YouTube video: [Cryptocurrency Explained: All the ships are sinking (Currency Wars II)](https://youtu.be/stN03wk_Wzs).
 
 # Common misconceptions about Bitcoin
 
