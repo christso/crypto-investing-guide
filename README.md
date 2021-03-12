@@ -14,15 +14,11 @@ The CPI is usually kept below 3% per year because because the way that CPI is re
 
 [Shadow Government Statistics](http://www.shadowstats.com/) provides statistics using pre-1980 methodology, which shows that the pre-1980 CPI is double than of the official CPI. For a detailed primary on measuring CPI, see [No. 515—PUBLIC COMMENT ON INFLATION MEASUREMENT AND THE CHAINED-CPI (C-CPI)](http://www.shadowstats.com/article/no-438-public-comment-on-inflation-measurement).
 
-[WTF Happened In 1971?](https://wtfhappenedin1971.com/)
+From 1945 until 1971, the U.S. dollar was backed by gold as part of the Bretton Woods agreement. On August 1971, the United States terminated convertibility of the US dollar to gold, effectively bringing the Bretton Woods system to an end and rendering the dollar a fiat currency. At the same time, many fixed currencies (such as the pound sterling) also became free-floating. After 1971, it became normal for the cost of living to outpace real wages, wealth and income concentrating to the top 1%, currency devaluations around the world, banking crisis, ballooning debt-to-GDP, government deficits, asset price bubbles, more polarized ideologies, low interest rates and slowdown in technological progress. [WTF Happened In 1971?](https://wtfhappenedin1971.com/) curates some interesting charts to which clearly shows the effect of the Gold Standard pre-1971 versus the Fiat Standard post-1971.
 
 [Hitler's Economics, Mises Institute (2003)](https://mises.org/library/hitlers-economics)
 
 Tax and money printing was a temporary measure.
-
-Gold Standard prior to 1971.
-
-Fiat Standard
 
 CBDCs are not cryptocurrencies.
 
