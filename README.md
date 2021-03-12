@@ -16,8 +16,8 @@ CBDCs are not cryptocurrencies.
 
 # The decentralized financial system
 
-[Ash Egan - Crypto Market Map](https://medium.com/@Ashaegan/market-mapping-crypto-f2c138130356)
-![](images/crypto-market-map.jpeg), published in 2019 provides a good overview of the crypto ecosystem. It's a bit outdated now since there's been a lot of changes over the past 2 years. However, the key components remain the same.
+[Ash Egan - Crypto Market Map](https://medium.com/@Ashaegan/market-mapping-crypto-f2c138130356), published in 2019 provides a good overview of the crypto ecosystem. It's a bit outdated now since there's been a lot of changes over the past 2 years. However, the key components remain the same.
+![](images/crypto-market-map.jpeg)
 
 We have "crypto enablement" which consists of centralized and regulated entities that funnel new users from the traditional fiat system. Eventually, those users discover that there is more to converting fiat to crypto with a company. That they can bypass intermediaries and perform all financial activities natively on the protocol.
 
