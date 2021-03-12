@@ -1,10 +1,10 @@
 # CRYPTO INVESTING GUIDE
 
-This is a quick reference guide for crypto investors.
+This is a quick reference guide for crypto investors. I've prepared this guide to help educate my friends about how the financial system is evolving, so they can use this knowledge to protect their wealth. The financial system is changing rapidly since 2016, and it's difficult to keep pace. I will continue to update this guide with my learnings. You will still need to do your own research (DYOR) as this guide is intended to point you to the source of information, rather than be your primary source of information.
 
 # The traditional financial system
 
-M2 money supply historically has increased around 7% per year, until 2019 when the growth rate was above 15%. In 2020, the growth rate was at 25%. Assuming the money supply continues to increase by 20% over the next 10 years, your real wealth (purchasing power) would reduce by over 80%, even though the dollar value in your bank account remains the same.
+M2 money supply historically has increased around 6% per year, until 2019 when the growth rate was above 15%. In 2020, the growth rate was at 25%. Assuming the money supply continues to increase by 20% over the next 10 years, your real wealth (purchasing power) would reduce by over 80%, even though the dollar value in your bank account remains the same.
 
 ![](images/fed-m2-money-stock-20210312.png)
 
@@ -16,11 +16,36 @@ The CPI is usually kept below 3% per year because because the way that CPI is re
 
 From 1945 until 1971, the U.S. dollar was backed by gold as part of the Bretton Woods agreement. On August 1971, the United States terminated convertibility of the US dollar to gold, effectively bringing the Bretton Woods system to an end and rendering the dollar a fiat currency. At the same time, many fixed currencies (such as the pound sterling) also became free-floating. After 1971, it became normal for the cost of living to outpace real wages, wealth and income concentrating to the top 1%, currency devaluations around the world, banking crisis, ballooning debt-to-GDP, government deficits, asset price bubbles, more polarized ideologies, low interest rates and slowdown in technological progress. [WTF Happened In 1971?](https://wtfhappenedin1971.com/) curates some interesting charts to which clearly shows the effect of the Gold Standard pre-1971 versus the Fiat Standard post-1971.
 
-[Hitler's Economics, Mises Institute (2003)](https://mises.org/library/hitlers-economics)
+The fiat monetary system is based on Keynesian economics, which is based on [Hitler's Economics](https://mises.org/library/hitlers-economics). What were Hitler's economic policies?
+> He suspended the gold standard, embarked on huge public-works programs like autobahns, protected industry from foreign competition, expanded credit, instituted jobs programs, bullied the private sector on prices and production decisions, vastly expanded the military, enforced capital controls, instituted family planning, penalized smoking, brought about national healthcare and unemployment insurance, imposed education standards, and eventually ran huge deficits. The Nazi interventionist program was essential to the regime's rejection of the market economy and its embrace of socialism in one country.
 
-Tax and money printing was a temporary measure.
+We are nearing the end of the long-term cycle in 2020 (refer [The Changing World Order - Ray Dalio](https://www.linkedin.com/pulse/big-cycles-over-last-500-years-ray-dalio/)).
 
-CBDCs are not cryptocurrencies.
+I predict that by 2030:
+* The global monetary system will be completely reset, after continued devaluations of fiat currencies around the world.
+* The U.S. dollar will either lose its status as a global reserve currency, and/or transform into a different type of currency, such as one backed by gold, commodities, Bitcoin and crypto.
+* Bitcoin will be used as a store of value (like gold), and a global settlement network (like FedWire, SWIFT and CHIPS) for most large transactions between untrusted parties. The world will be on a "Bitcoin Standard".
+* Most Western democracies will no longer pretend to be a democracy, and will openly embrace socialism. I expect most national governments including the U.S. government will adopt similar social and economic policies that China has already adopted.
+* Physical cash will be replaced by CBDCs (central bank digital currencies). However, CBDCs will still be inferior to cryptocurrencies, since CBDCs are still fiat currencies but provides even more control to governments over its users. For example.
+* Nations will lose control of some states, and some states will lose control of cities. We've already seen cities pushing for crypto-friendly and free-market policies, which is very different to the policies of national governments. It's likely that these cities will declare independence from any government and we start seeing the disintegration of nation states into a decentralised network of cities. The main struggle will be between centralised entities and decentralised networks, rather than between nations. The "threat" to nation states is no longer another nation, but its own citizens who decide to take the crypto lifeboat and become "sovereign individuals".
+
+These predictions are not conspiracies. It's actually in the works already and is public information. We will have another 1971-style reset, lead by the World Economic Forum (WEF).
+
+[Welcome To 2030: I Own Nothing, Have No Privacy And Life Has Never Been Better](https://www.forbes.com/sites/worldeconomicforum/2016/11/10/shopping-i-cant-really-remember-what-that-is-or-how-differently-well-live-in-2030)
+
+![](images/wef-own-nothing.jpg)
+
+You have 2 choices:
+
+1. WEF: you'll own nothing and you'll be happy
+2. Crypto: no one will own you and you'll define your own happiness
+
+Remember, 
+* personal taxation is a temporary measure to fund the war.
+* money printing was a temporary measure to fund the war.
+* mandatory lockdowns was a temporary measure to fight COVID.
+
+"Nothing is so permanent as a temporary government program." ― Milton Friedman
 
 # The decentralized financial system
 
