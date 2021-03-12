@@ -54,7 +54,7 @@ You choice, along with everyone else, will shape the world our children will liv
 [Ash Egan - Crypto Market Map](https://medium.com/@Ashaegan/market-mapping-crypto-f2c138130356), published in 2019 provides a good overview of the crypto ecosystem. It's a bit outdated now since there's been a lot of changes over the past 2 years. However, the key components remain the same.
 ![](images/crypto-market-map.jpeg)
 
-We have "crypto enablement" which consists of centralized and regulated entities (mostly exchanges and crypto banks) that funnel new users from the traditional fiat system. Eventually, those users discover that there is more to converting fiat to crypto and leaving their crypto on the exchange and hoping to sell at a higher price. They discover that they can bypass intermediaries and perform all financial activities natively on the protocol, including self-custody, earning passive income, and sending and receiving digital assets peer-to-peer.
+We have "crypto enablement" which consists of centralized and regulated entities (mostly exchanges and crypto banks) that funnel new users from the traditional fiat system. Eventually, those users discover that there is more to converting fiat to crypto and leaving their crypto on the exchange and hoping to sell at a higher price so they can buy a nice car or house. They discover that they can bypass intermediaries and perform all financial activities natively on the protocol, including self-custody, earning passive income, and sending and receiving digital assets peer-to-peer.
 
 # Why does Bitcoin exist?
 
@@ -86,6 +86,18 @@ Setee is a company controlled by Norway's 2nd richest man, Kjell Inge Røkke. Th
 ## Bitcoin could dissappear like MySpace
 
 "Blockchain not Bitcoin".
+
+## Bitcoin is too volatile
+
+## Bitcoin's wealth distribution is too concentrated
+
+## Bitcoin does not scale
+
+## Bitcoin might have undiscovered vulnerabilities which can cause catastrophic failure
+
+inflation bug
+
+double-spend
 
 ## Bitcoin will be banned
 
