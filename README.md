@@ -17,13 +17,17 @@ CBDCs are not cryptocurrencies.
 
 # Why does Bitcoin exist?
 
+Digital Gold.
+
+Lifeboat.
+
 # Common misconceptions about Bitcoin
 
 ## Bitcoin uses too much energy
 
 [Bitcoin uses more electricity than Argentina - 9News](https://www.9news.com.au/technology/bitcoin-uses-more-electricity-than-argentina-norway-study-finds/eb51703b-db82-4fd3-ab2a-c79b96523455)
 
-What the FUD articles assume is that there is value in securing a monetary network, and therefore any electricity used for the purpose is wasteful. It also ignores that the majority of Bitcoin mining is being powered by renewal energy or excess energy, and is moving towards that direction.
+What the FUD articles assume is that there is zero value in securing a monetary network, and therefore any electricity used for the purpose is wasteful. It also ignores that the majority of Bitcoin mining is being powered by renewal energy or excess energy, and is moving towards that direction.
 
 Setee is a company controlled by Norway's 2nd richest man, Kjell Inge Røkke. This is an excerpt from their [shareholder letter](https://www.seetee.io/static/shareholder_letter-6ae7e85717c28831bf1c0eca1d632722.pdf):
 
@@ -184,6 +188,8 @@ Are on-chain metrics indicating confidence in the project?
 
 [DeFi Pulse](https://defipulse.com/) - directory of DeFi protocols.
 
+[DeFi Market Cap](https://defimarketcap.io/) - directory of DeFi tokens.
+
 [Glassnode](https://glassnode.com/) - on-chain market intelligence
 
 [Bitcoin Treasuries](https://bitcointreasuries.org/) - list of publicly traded companies that are known to hold Bitcoin.
@@ -195,7 +201,12 @@ Bitcoin has a 4 year halving cycle, with 2 years of bull market and 2 years of b
 "New orange dot: Feb close $45,240! (Jan was $33,141 and current price is $46,500)" - [@100trillionUSD on 2021-03-01](https://twitter.com/100trillionUSD/status/1366300758036131840).
 ![](images/btc-s2fx-20210301.png)
 
-1+ year hodlers: selling. 2+ year hodlers: selling. 3+ year hodlers aka "been in a bull market before and know how this works": stacking sats.
+[@n3ocortex](https://twitter.com/n3ocortex/status/1369680780855816196)
+```
+1+ year hodlers: selling.
+2+ year hodlers: selling.
+3+ year hodlers aka "been in a bull market before and know how this works": stacking sats.
+```
 ![](images/glassnode-supply-last-active-20210310.png)
 
 [Don't Get Rekt - The anatomy of the next #Bitcoin bear market - Andy Edstrom (Mar 8, 2021)](https://www.btctimes.com/insight/dont-get-rekt)
