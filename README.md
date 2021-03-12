@@ -4,12 +4,19 @@ This is a quick reference guide for crypto investors.
 
 # The traditional financial system
 
+M2 money supply historically has increased around 7% per year, until 2019 when the growth rate was above 15%. In 2020, the growth rate was at 25%. Assuming the money supply continues to increase by 20% over the next 10 years, your real wealth (purchasing power) would reduce by over 80%, even though the dollar value in your bank account remains the same.
 
 ![](images/fed-m2-money-stock-20210312.png)
 
-[Shadow Government Statistics](http://www.shadowstats.com/)
+Lyn Alden provides a good explanation of inflation - [November 2020 Newsletter: Defining Inflation](https://www.lynalden.com/november-2020-newsletter/).
+
+The CPI is usually kept below 3% per year because because the way that CPI is reported was changed since the early-1980's. Instead of measuring the cost of maintaining a constant standard of living, we now measure the cost of maintaining a constant level of satisfaction.
+
+[Shadow Government Statistics](http://www.shadowstats.com/) provides statistics using pre-1980 methodology, which shows that the pre-1980 CPI is double than of the official CPI.
 
 [WTF Happened In 1971?](https://wtfhappenedin1971.com/)
+
+Tax and money printing was a temporary measure.
 
 Gold Standard prior to 1971.
 
@@ -22,7 +29,7 @@ CBDCs are not cryptocurrencies.
 [Ash Egan - Crypto Market Map](https://medium.com/@Ashaegan/market-mapping-crypto-f2c138130356), published in 2019 provides a good overview of the crypto ecosystem. It's a bit outdated now since there's been a lot of changes over the past 2 years. However, the key components remain the same.
 ![](images/crypto-market-map.jpeg)
 
-We have "crypto enablement" which consists of centralized and regulated entities (mostly exchanges) that funnel new users from the traditional fiat system. Eventually, those users discover that there is more to converting fiat to crypto and leaving their crypto on the exchange and hoping to sell at a higher price. They discover that they can bypass intermediaries and perform all financial activities natively on the protocol, including self-custody, earning passive income, sending and receiving crypto P2P and using decentralized applications (dApps) with various use cases.
+We have "crypto enablement" which consists of centralized and regulated entities (mostly exchanges) that funnel new users from the traditional fiat system. Eventually, those users discover that there is more to converting fiat to crypto and leaving their crypto on the exchange and hoping to sell at a higher price. They discover that they can bypass intermediaries and perform all financial activities natively on the protocol, including self-custody, earning passive income, and sending and receiving digital assets peer-to-peer.
 
 # Why does Bitcoin exist?
 
@@ -270,7 +277,7 @@ Corporate and HNW Investors:
 * [@BarrySilbert](https://twitter.com/BarrySilbert)
 * [@tyler](https://twitter.com/tyler)
 * [@cameron](https://twitter.com/cameron)
-* [@elonmusk](https://twitter.com/elonmusk)
+* [@RaoulGMI](https://twitter.com/RaoulGMI)
 
 Investing:
 * [@LynAldenContact](https://twitter.com/LynAldenContact)
@@ -279,4 +286,10 @@ Investing:
 
 # Additional Resources
 
-[Binance Academy](https://academy.binance.com/)
+[The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.amazon.com.au/Bitcoin-Standard-Decentralized-Alternative-Central-ebook/dp/B07BPM3GZQ) - book explaining the evolution of money over millenia and the social implications of Bitcoin.
+
+[Satoshi Nakamoto Institute](https://nakamotoinstitute.org/) - primary source literature with archives of many posts by Bitcoin's early creators.
+
+[The Changing World Order - an online series by Ray Dalio](https://www.principles.com/the-changing-world-order/) - a study on the rises and declines of leading empires.
+
+[Binance Academy](https://academy.binance.com/) - guide on trading and staking on Binance.
