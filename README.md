@@ -4,6 +4,9 @@ This is a quick reference guide for crypto investors.
 
 # The traditional financial system
 
+
+![](images/fed-m2-money-stock-20210312.png)
+
 [Shadow Government Statistics](http://www.shadowstats.com/)
 
 [WTF Happened In 1971?](https://wtfhappenedin1971.com/)
@@ -19,11 +22,11 @@ CBDCs are not cryptocurrencies.
 [Ash Egan - Crypto Market Map](https://medium.com/@Ashaegan/market-mapping-crypto-f2c138130356), published in 2019 provides a good overview of the crypto ecosystem. It's a bit outdated now since there's been a lot of changes over the past 2 years. However, the key components remain the same.
 ![](images/crypto-market-map.jpeg)
 
-We have "crypto enablement" which consists of centralized and regulated entities that funnel new users from the traditional fiat system. Eventually, those users discover that there is more to converting fiat to crypto with a company. That they can bypass intermediaries and perform all financial activities natively on the protocol.
+We have "crypto enablement" which consists of centralized and regulated entities (mostly exchanges) that funnel new users from the traditional fiat system. Eventually, those users discover that there is more to converting fiat to crypto and leaving their crypto on the exchange and hoping to sell at a higher price. They discover that they can bypass intermediaries and perform all financial activities natively on the protocol, including self-custody, earning passive income, sending and receiving crypto P2P and using decentralized applications (dApps) with various use cases.
 
 # Why does Bitcoin exist?
 
-Bitcoin is digital money that preserves its value across space and time. This contrasts with gold and fiat money. Gold is difficult to transport over space. Fiat loses value over time because central banks have a history of debasing their currency.
+Bitcoin is digital money that preserves its value across space and time. This contrasts with gold and fiat money. Gold is difficult to transport over space and difficult to verify its authenticity. Fiat loses value over time because central banks have a history of losing their independence and debasing their currency.
 
 Lifeboat.
 
@@ -50,6 +53,10 @@ Setee is a company controlled by Norway's 2nd richest man, Kjell Inge Røkke. Th
 "Blockchain not Bitcoin".
 
 ## Bitcoin will be banned
+
+Bitcoin has flourished in countries where it is banned. For example, in Nigeria where use of crypto is banned, people continue to use it, and crypto adoption in the country is at 32% which is the highest in any country in the world. Bitcoin is a decentralized network. There is no entity to shut down, and any effort to shut it down is likely to bring more attention to crypto and reveal more problems about the Nigeria's dire economic situation.
+
+[Why We Can Be Certain Bitcoin Will Never Be Shut Down - OriginCryptoGuy](https://medium.com/original-crypto-guy/why-we-can-be-certain-bitcoin-will-never-be-shut-down-8a37c50c357a)
 
 # Converting Fiat to Bitcoin
 
@@ -208,18 +215,19 @@ Are on-chain metrics indicating confidence in the project?
 
 Bitcoin has a 4 year halving cycle, with 2 years of bull market and 2 years of bear market. As with any asset class, it is not immune to speculative mania and leverage, which causes the its price to overextend before a steep correction.
 
-"New orange dot: Feb close $45,240! (Jan was $33,141 and current price is $46,500)" - [@100trillionUSD on 2021-03-01](https://twitter.com/100trillionUSD/status/1366300758036131840).
 ![](images/btc-s2fx-20210301.png)
+"New orange dot: Feb close $45,240! (Jan was $33,141 and current price is $46,500)" - [@100trillionUSD on 2021-03-01](https://twitter.com/100trillionUSD/status/1366300758036131840).
 
-[@n3ocortex](https://twitter.com/n3ocortex/status/1369680780855816196)
-```
-1+ year hodlers: selling.
-2+ year hodlers: selling.
-3+ year hodlers aka "been in a bull market before and know how this works": stacking sats.
-```
-![](images/glassnode-supply-last-active-20210310.png)
+[Money, Bitcoin and Time: Part 1 of 3](https://breedlove22.medium.com/money-bitcoin-and-time-part-1-of-3-b4f6bb036c04) explains Bitcoin in terms of "hard" and "soft" money.
 
-[Don't Get Rekt - The anatomy of the next #Bitcoin bear market - Andy Edstrom (Mar 8, 2021)](https://www.btctimes.com/insight/dont-get-rekt)
+Hard money is more trustworthy as a store of value precisely because it resists intentional debasements of its value by others and therefore maintains salability across time. The hardness of a monetary good, also known as its soundness, is determined by the stock-to-flow ratio:
+
+* 'Stock' is the existing supply of monetary units
+* 'Flow' is the newly created supply over a specified time period, usually one year
+* Dividing the stock of a monetary good by its flow equals its stock-to-flow ratio
+* The higher the stock-to-flow ratio, the greater the hardness (or soundness) of money
+
+This article explains what is likely to happen at the end of the 2021-2022 bull market: [Don't Get Rekt - The anatomy of the next #Bitcoin bear market - Andy Edstrom (Mar 8, 2021)](https://www.btctimes.com/insight/dont-get-rekt)
 
 # Crypto Twitter
 
