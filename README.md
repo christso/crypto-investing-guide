@@ -4,7 +4,11 @@ This is a quick reference guide for crypto investors.
 
 # The traditional financial system
 
-Gold Standard prior to 1971
+[Shadow Government Statistics](http://www.shadowstats.com/)
+
+[WTF Happened In 1971?](https://wtfhappenedin1971.com/)
+
+Gold Standard prior to 1971.
 
 Fiat Standard
 
@@ -13,11 +17,13 @@ CBDCs are not cryptocurrencies.
 # The decentralized financial system
 
 [Ash Egan - Crypto Market Map](https://medium.com/@Ashaegan/market-mapping-crypto-f2c138130356)
-![](images/crypto-market-map.jpeg)
+![](images/crypto-market-map.jpeg), published in 2019 provides a good overview of the crypto ecosystem. It's a bit outdated now since there's been a lot of changes over the past 2 years. However, the key components remain the same.
+
+We have "crypto enablement" which consists of centralized and regulated entities that funnel new users from the traditional fiat system. Eventually, those users discover that there is more to converting fiat to crypto with a company. That they can bypass intermediaries and perform all financial activities natively on the protocol.
 
 # Why does Bitcoin exist?
 
-Digital Gold.
+Bitcoin is digital money that preserves its value across space and time. This contrasts with gold and fiat money. Gold is difficult to transport over space. Fiat loses value over time because central banks have a history of debasing their currency.
 
 Lifeboat.
 
@@ -32,6 +38,8 @@ What the FUD articles assume is that there is zero value in securing a monetary 
 Setee is a company controlled by Norway's 2nd richest man, Kjell Inge Røkke. This is an excerpt from their [shareholder letter](https://www.seetee.io/static/shareholder_letter-6ae7e85717c28831bf1c0eca1d632722.pdf):
 
 > Sec­ond, See­tee will es­tab­lish min­ing op­er­a­tions that trans­fer strand­ed or in­ter­mit­tent elec­tric­i­ty with­out sta­ble de­mand lo­cal­ly—wind, so­lar, hy­dro pow­er— to eco­nom­ic as­sets that can be used any­where. Bit­coin is, in our eyes, a load-bal­anc­ing eco­nom­ic bat­tery, and bat­ter­ies are es­sen­tial to the en­er­gy tran­si­tion re­quired to reach the tar­gets of the Paris Agreement. Our am­bi­tion is to be a valu­able part­ner in new re­new­able projects.
+
+## Bitcoin has no intrinsic value
 
 ## The other coins are more affordable
 
@@ -63,6 +71,8 @@ P2P non-KYC/AML Fiat/Crypto Exchanges
 * [Uniswap](https://uniswap.org/)
 * [SushiSwap](https://www.sushi.com/)
 * [Bancor Network](https://app.bancor.network/eth/swap)
+* [Curve](https://www.curve.fi/) - exchange designed for stablecoins and bitcoin tokens on Ethereum
+* [PancakeSwap](https://pancakeswap.finance/) - yield farm on Binance Smart Chain
 
 # Hardware Wallets
 
@@ -214,10 +224,11 @@ Bitcoin has a 4 year halving cycle, with 2 years of bull market and 2 years of b
 # Crypto Twitter
 
 Bitcoin:
-* [@aantonop](https://twitter.com/aantonop)
+* [@aantonop](https://twitter.com/aantonop) - Bitcoin expert and author of Mastering Bitcoin
 * [@real_vijay](https://twitter.com/real_vijay)
 * [@Breedlove22](https://twitter.com/Breedlove22)
 * [@100trillionUSD](https://twitter.com/100trillionUSD)
+* [@ecoinometrics](https://twitter.com/ecoinometrics) - data and insights
 * [@saifedean](https://twitter.com/saifedean)
 * [@JeffBooth](https://twitter.com/JeffBooth)
 * [@danheld](https://twitter.com/danheld)
