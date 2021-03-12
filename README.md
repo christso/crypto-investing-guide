@@ -12,9 +12,8 @@ CBDCs are not cryptocurrencies.
 
 # The decentralized financial system
 
-[Electric Capital - Crypto Market Map](https://medium.com/electric-capital/electric-capital-crypto-market-map-community-edition-e7d96ecb552d)
-
 [Ash Egan - Crypto Market Map](https://medium.com/@Ashaegan/market-mapping-crypto-f2c138130356)
+![](images/crypto-market-map.jpeg)
 
 # Why does Bitcoin exist?
 
@@ -75,18 +74,27 @@ Note - The derivation path for each hardware wallet may be different.
 
 # Wallet Software
 
-[Specter Wallet](https://specter.solutions/)
+[Metamask](https://metamask.io/) - Ethereum wallet
 
-[Electrum](https://electrum.org/)
+[Specter Wallet](https://specter.solutions/) - Bitcoin wallet which can run a full-node
 
+[Electrum](https://electrum.org/) - Bitcoin wallet which connects to the Electrum node.
 
-# Seed Storage Solutions
+# Seed Backup Solutions
 
 [Billfodl](https://privacypros.io/)
 
 [Seedplate](https://store.coinkite.com/store/seedplate)
 
 You can create a "multishard seed", where your seed is split into 3 shards, such that any 2 parts can reconstruct your complete seed. Each shard allows you to store up to 16 words of your seed phrase, and each unit tells you which 16 out of the 24 total words to load up. Shard One houses words 1 to 16, Shard Two houses words 9 to 24 and Shard 3 houses words 1 to 8 and 17 to 24. Once this process is complete, you will have effectively backed up each seed word twice.
+
+# Crypto Custody Solutions
+
+[What are cryptocurrency custody solutions - Investopedia](https://www.investopedia.com/news/what-are-cryptocurrency-custody-solutions/)
+
+[Coinbase Custody](https://custody.coinbase.com/)
+
+[Independent Reserve High Net Worth](https://www.independentreserve.com/products/high-net-worth)
 
 # Bitcoin Lightning Wallets
 
@@ -96,19 +104,29 @@ The [Lightning Network](https://en.wikipedia.org/wiki/Lightning_Network) is a la
 * [Muun wallet](https://muun.com/) - non-custodial wallet
 * [Blue Wallet](https://bluewallet.io/) - non-custodial wallet
 
-# Lending
+# Lending and Staking
 
-Traditional apps:
+Centralized finance (CeFi) platforms allow people to earn interest with Bitcoin directly, however, the funds are held in custodial fashion, unlike DeFi.
+
+[StakingRewards](https://www.stakingrewards.com/) - passive income opportunities with digital assets.
+
+[DeFi Rate](https://defirate.com/) - interest rates from the top crypto lending protocols and crypto banks.
+
+Centralized platforms:
 * [BlockFi](https://www.blockfi.com/)
 * [Celsius Network](https://celsius.network/)
 * [Nexo Finance](https://nexo.io/)
 * [Binance Earn](https://www.binance.com/en/earn)
 * [Bitfinex Lend and Earn](https://www.bitfinex.com/lending-products-start/)
 
-Decentralized apps:
+Decentralized platforms:
 * [AAVE](https://aave.com/)
 * [Compound](https://compound.finance/)
 * [dYdX](https://dydx.exchange/)
+
+On-chain staking:
+* [Stacks 2.0](https://stacks.org/) - Stacks (STX) are used as fuel for smart contract execution, transaction processing, and digital asset registrations on the Stacks 2.0 blockchain. It's used as fuel for blockchain transactions and enables holders to earn Bitcoin with Stacking. Stacks enables new use cases like Bitcoin NFTs and stablecoins that settle on Bitcoin.
+* [Ethereum 2.0](https://ethereum.org/en/eth2/staking/) - You can earn rewards by running a eth2 validator node. You will need to lock up 32 ETH, and you cannot withdraw both your deposit and rewards until Phase 1.5 (which can take 1-2 years or longer). Alternatively, you can deposit into a staking pool, custodian or convert to a staking token such as [Binance ETH 2.0 (BETH)](https://www.binance.com/en/eth2). See [Ethereum 2.0 Staking Guide](https://www.stakingrewards.com/journal/ultimate-ethereum-2-0-staking-guide).
 
 # Altcoin Trading
 
@@ -160,13 +178,15 @@ Are on-chain metrics indicating confidence in the project?
 
 # Data Analysis Tools
 
-[CoinMarketCap](https://coinmarketcap.com/)
-
-[DeFi Pulse](https://defipulse.com/)
+[CoinMarketCap](https://coinmarketcap.com/) - directory of cryptocurrencies.
 
 [TradingView](https://www.tradingview.com/) - price charts
 
+[DeFi Pulse](https://defipulse.com/) - directory of DeFi protocols.
+
 [Glassnode](https://glassnode.com/) - on-chain market intelligence
+
+[Bitcoin Treasuries](https://bitcointreasuries.org/) - list of publicly traded companies that are known to hold Bitcoin.
 
 # Price Forecast
 
