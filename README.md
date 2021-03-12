@@ -62,6 +62,9 @@ Bitcoin is digital money that preserves its value across space and time. This co
 
 Bitcoin is used as a "lifeboat" by people to escape from the fiat system which is a "sinking ship". This analogy of a lifeboat is elegantly explained by Andreas Antonopoulos on his YouTube video: [Cryptocurrency Explained: All the ships are sinking (Currency Wars II)](https://youtu.be/stN03wk_Wzs).
 
+
+![](images/bitcoin-inflation-vs-time.png)
+
 # Common misconceptions about Bitcoin
 
 ## Bitcoin uses too much energy
@@ -91,7 +94,9 @@ Setee is a company controlled by Norway's 2nd richest man, Kjell Inge Røkke. Th
 
 ## Bitcoin's wealth distribution is too concentrated
 
-## Bitcoin does not scale
+## Bitcoin does not scale and transaction fees will be too expensive
+
+## When all 21M bitcoins are mined, the network will collapse
 
 ## Bitcoin might have undiscovered vulnerabilities which can cause catastrophic failure
 
@@ -258,6 +263,8 @@ Are on-chain metrics indicating confidence in the project?
 
 [Bitcoin Treasuries](https://bitcointreasuries.org/) - list of publicly traded companies that are known to hold Bitcoin.
 
+[Blockchain.com](https://www.blockchain.com/explorer) - Bitcoin and Ethereum blockchain explorer.
+
 # Price Forecast
 
 Bitcoin has a 4 year halving cycle, with 2 years of bull market and 2 years of bear market. As with any asset class, it is not immune to speculative mania and leverage, which causes the its price to overextend before a steep correction.
@@ -275,6 +282,10 @@ Hard money is more trustworthy as a store of value precisely because it resists 
 * The higher the stock-to-flow ratio, the greater the hardness (or soundness) of money
 
 This article explains what is likely to happen at the end of the 2021-2022 bull market: [Don't Get Rekt - The anatomy of the next #Bitcoin bear market - Andy Edstrom (Mar 8, 2021)](https://www.btctimes.com/insight/dont-get-rekt)
+
+The other outcome (but unlikely until 2027) is there is no bear market, and we achieve "hyperbitcoinization" in the current cycle. This involves the majority of corporations holding their cash reserves in Bitcoin instead of bonds and money market funds, mainstream infrastructure such as Visa and Mastercard or other provider making it easy for merchants and customers to transact in Bitcoin, and possibly central banks and governments adopting Bitcoin. This would place the price of one Bitcoin above US$10 million.
+
+[Hyperbitcoinization - The path to becoming the world’s dominant form of money](https://www.bitrawr.com/hyperbitcoinization)
 
 # Crypto Twitter
 
@@ -326,6 +337,8 @@ Investing:
 
 # Additional Resources
 
+[Bitcoin.org](https://bitcoin.org/en/) - originally registered and owned by Bitcoin's first two developers. This provides a good beginners guide whether you're an individual, business or a developer.
+
 [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.amazon.com.au/Bitcoin-Standard-Decentralized-Alternative-Central-ebook/dp/B07BPM3GZQ) - book explaining the evolution of money over millenia and the social implications of Bitcoin.
 
 [Mastering Bitcoin, by Andreas M. Antonopoulos](https://github.com/bitcoinbook/bitcoinbook) - technical book on Bitcoin.
@@ -333,6 +346,8 @@ Investing:
 [Mastering Ethereum, by Andreas M. Antonopoulos](https://github.com/ethereumbook/ethereumbook) - technical book on Ethereum.
 
 [Satoshi Nakamoto Institute](https://nakamotoinstitute.org/) - primary source literature with archives of many posts by Bitcoin's early creators.
+
+[Robert Breedlove - Medium](https://breedlove22.medium.com/) - explains the concept of money, Bitcoin and time in a series of essays.
 
 [The Changing World Order - an online series by Ray Dalio](https://www.principles.com/the-changing-world-order/) - a study on the rises and declines of leading empires.
 
