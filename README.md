@@ -12,9 +12,11 @@ Lyn Alden provides a good explanation of inflation - [November 2020 Newsletter: 
 
 The CPI is usually kept below 3% per year because because the way that CPI is reported was changed since the early-1980's. Instead of measuring the cost of maintaining a constant standard of living, we now measure the cost of maintaining a constant level of satisfaction.
 
-[Shadow Government Statistics](http://www.shadowstats.com/) provides statistics using pre-1980 methodology, which shows that the pre-1980 CPI is double than of the official CPI.
+[Shadow Government Statistics](http://www.shadowstats.com/) provides statistics using pre-1980 methodology, which shows that the pre-1980 CPI is double than of the official CPI. For a detailed primary on measuring CPI, see [No. 515—PUBLIC COMMENT ON INFLATION MEASUREMENT AND THE CHAINED-CPI (C-CPI)](http://www.shadowstats.com/article/no-438-public-comment-on-inflation-measurement).
 
 [WTF Happened In 1971?](https://wtfhappenedin1971.com/)
+
+[Hitler's Economics, Mises Institute (2003)](https://mises.org/library/hitlers-economics)
 
 Tax and money printing was a temporary measure.
 
@@ -29,7 +31,7 @@ CBDCs are not cryptocurrencies.
 [Ash Egan - Crypto Market Map](https://medium.com/@Ashaegan/market-mapping-crypto-f2c138130356), published in 2019 provides a good overview of the crypto ecosystem. It's a bit outdated now since there's been a lot of changes over the past 2 years. However, the key components remain the same.
 ![](images/crypto-market-map.jpeg)
 
-We have "crypto enablement" which consists of centralized and regulated entities (mostly exchanges) that funnel new users from the traditional fiat system. Eventually, those users discover that there is more to converting fiat to crypto and leaving their crypto on the exchange and hoping to sell at a higher price. They discover that they can bypass intermediaries and perform all financial activities natively on the protocol, including self-custody, earning passive income, and sending and receiving digital assets peer-to-peer.
+We have "crypto enablement" which consists of centralized and regulated entities (mostly exchanges and crypto banks) that funnel new users from the traditional fiat system. Eventually, those users discover that there is more to converting fiat to crypto and leaving their crypto on the exchange and hoping to sell at a higher price. They discover that they can bypass intermediaries and perform all financial activities natively on the protocol, including self-custody, earning passive income, and sending and receiving digital assets peer-to-peer.
 
 # Why does Bitcoin exist?
 
@@ -44,6 +46,9 @@ Bitcoin is used as a "lifeboat" by people to escape from the fiat system which i
 [Bitcoin uses more electricity than Argentina - 9News](https://www.9news.com.au/technology/bitcoin-uses-more-electricity-than-argentina-norway-study-finds/eb51703b-db82-4fd3-ab2a-c79b96523455)
 
 What the FUD articles assume is that there is zero value in securing a monetary network, and therefore any electricity used for the purpose is wasteful. It also ignores that the majority of Bitcoin mining is being powered by renewal energy or excess energy, and is moving towards that direction.
+
+[The Last Word on Bitcoin’s Energy Consumption, Nic Carter](https://www.coindesk.com/the-last-word-on-bitcoins-energy-consumption) explains why Bitcoin consumes so much energy.
+> Part of the reason Bitcoin consumes so much electricity is because China lowered the clearing price of energy by overbuilding hydro capacity due to sloppy central planning. In a non-Bitcoin world, this excess energy would either have been used to smelt aluminum or would simply have been wasted.
 
 Setee is a company controlled by Norway's 2nd richest man, Kjell Inge Røkke. This is an excerpt from their [shareholder letter](https://www.seetee.io/static/shareholder_letter-6ae7e85717c28831bf1c0eca1d632722.pdf):
 
