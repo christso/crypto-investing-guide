@@ -40,12 +40,10 @@ You have 2 choices:
 1. WEF: you'll own nothing and you'll be happy
 2. Crypto: no one will own you and you'll define your own happiness
 
-Remember, 
+"Nothing is so permanent as a temporary government program." ― Milton Friedman
 * personal taxation is a temporary measure to fund the war.
 * money printing was a temporary measure to fund the war.
 * mandatory lockdowns was a temporary measure to fight COVID.
-
-"Nothing is so permanent as a temporary government program." ― Milton Friedman
 
 # The decentralized financial system
 
