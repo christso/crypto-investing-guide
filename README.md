@@ -60,10 +60,20 @@ We have "crypto enablement" which consists of centralized and regulated entities
 
 Bitcoin is digital money that preserves its value across space and time. This contrasts with gold and fiat money. Gold is difficult to transport over space and difficult to verify its authenticity. Fiat loses value over time because central banks have a history of losing their independence and debasing their currency.
 
-Bitcoin is used as a "lifeboat" by people to escape from the fiat system which is a "sinking ship". This analogy of a lifeboat is elegantly explained by Andreas Antonopoulos on his YouTube video: [Cryptocurrency Explained: All the ships are sinking (Currency Wars II)](https://youtu.be/stN03wk_Wzs).
-
-
+The Bitcoin supply curve looks like the inverse of the M2 money supply curve.
 ![](images/bitcoin-inflation-vs-time.png)
+
+# Bitcoin is a lifeboat
+
+Bitcoin is used as a "lifeboat" by people to escape from the fiat system which is a "sinking ship". This metaphor of a lifeboat is elegantly explained by Andreas Antonopoulos on his YouTube video: [Cryptocurrency Explained: All the ships are sinking (Currency Wars II)](https://youtu.be/stN03wk_Wzs).
+
+![](images/bitcoin-lifeboat.jpg)
+
+If Bitcoin acts like a lifeboat, then national currencies act like a cruise ship. Think of yourself as being on one of these big cruise ships. You're noticing an increasing number of people congregating around lifeboats and some are even jumping into one and never returning. Then suddenly, the captain central banker announces, "Please return to your cabins! The ship is not sinking. We have everything under control and the 2% angle of the decks is not only normal, but necessary for growth and forward movement.".
+
+However, you notice that sometimes the angle increases even further. You're even hearing the same kind of messages from other ships too because they're all sinking. The captain of the Indian ship is saying "a 25% deck angle is perfectly normal". The captain of the Venezuelan ship is saying "a 98% angle is perfectly normal". The captain says that lifeboats are dangerous, only pirates use lifeboats, lifeboats are unstable and not backed by anything, they have no crew and no captain, etc. The captain wants you to not focus on the sinking ship, and instead focus on how deficient the lifeboats are, and will discourage you from using lifeboats.
+
+The captain also distracts you by pointing to the other fiat currency ships, and says "look, our decks are higher than theirs". 
 
 # Common misconceptions about Bitcoin
 
@@ -285,7 +295,9 @@ This article explains what is likely to happen at the end of the 2021-2022 bull 
 
 The other outcome (but unlikely until 2027) is there is no bear market, and we achieve "hyperbitcoinization" in the current cycle. This involves the majority of corporations holding their cash reserves in Bitcoin instead of bonds and money market funds, mainstream infrastructure such as Visa and Mastercard or other provider making it easy for merchants and customers to transact in Bitcoin, and possibly central banks and governments adopting Bitcoin. This would place the price of one Bitcoin above US$10 million.
 
-[Hyperbitcoinization - The path to becoming the world’s dominant form of money](https://www.bitrawr.com/hyperbitcoinization)
+[Hyperbitcoinization - The path to becoming the world’s dominant form of money](https://www.bitrawr.com/hyperbitcoinization).
+
+My base scenario is that Bitcoin peaks at US$400k, crashes to US$100k, and goes sideways for 2 years around $200-$300k. Then in 2025-26, after the next halving, I expect Bitcoin to hover around US$5 million and achieve hyperbitcoinization.
 
 # Crypto Twitter
 
