@@ -177,6 +177,8 @@ Bitcoin has flourished in countries where it is banned. For example, in Nigeria 
 
 [Why We Can Be Certain Bitcoin Will Never Be Shut Down - OriginCryptoGuy](https://medium.com/original-crypto-guy/why-we-can-be-certain-bitcoin-will-never-be-shut-down-8a37c50c357a)
 
+[Bitcoin is Antifragile - Unchained Capital](https://unchained-capital.com/blog/bitcoin-is-antifragile/)
+
 # Converting Fiat to Bitcoin
 
 Regulated Fiat/Crypto Exchanges
