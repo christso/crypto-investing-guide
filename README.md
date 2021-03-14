@@ -122,7 +122,58 @@ The captain also distracts you by pointing to the other fiat currency ships, and
 
 # How does the Bitcoin blockchain work?
 
-Imagine
+[Bitcoin: A Peer-to-Peer Electronic Cash System](https://nakamotoinstitute.org/bitcoin/) is a whitepaper published by Satoshi Nakamoto in October 2008, which explains how Bitcoin works.
+
+First, we should understand what problem that Bitcoin solves.
+
+Imagine that I want to transfer $1,000 to Alice. I send the request to the bank. The bank validates that I have $1,000 in my account and that I have not exceed my daily transfer limit, then creates an entry in the ledger:
+
+| Date       | Sending Account | Receiving Account | Amount |
+|------------| --------------- | ----------------- | ------ |
+| 2021-03-14 | Bob             | Alice             | $1,000 |
+
+Now, Alice's account has an additional $1,000 which she can withdraw.
+
+What just happened? Both Alice and I trusted the bank to keep records of all the transactions. There was no movement of physical cash to transfer the money. All that was needed was an entry in the ledger. The ledger is owned by the bank, not me or Alice.
+
+And this is the problem. To establish trust between ourselves, we depend on a third party. What if ledger that recorded the $1,000 transfer was corrupted or destroyed? 
+* Perhaps there was a natural disaster which destroyed the computers, or a cyber-attack corrupted the ledger. 
+* Perhaps you run a business, and Alice claimed she never purchased the product from you (even though she did), and the bank simply refunded the $1,000 to Alice without further investigation.
+* Perhaps the government does not like Alice, and confiscated the $1,000 from Alice's account.
+* Perhaps the government did not want to increase taxes, and instead asked the bank to double the money supply, and credit the newly created money to the government's account. This means that the $1,000 that you transferred is now only worth $500 at the time of the transfer. The government in effect taxed everyone else who saved in dollars.
+
+For decades, we've trusted banks with custodying and transferring our money. Is there a system where we can transfer money without needing a bank? In other words, is there a way to maintain a ledger among ourselves instead of someone else doing it for us?
+
+The answer is Yes! It's called a distributed ledger. A blockchain is a form of distributed ledger technology (DLT). Bitcoin uses blockchain as its DLT to achieve global consensus on the state of the ledger.
+
+Imagine that we have 10 people who do not trust banks. We all agree to keep records of each others accounts at the same time. And none of us know each other's identity. Everyone starts with an empty folder (which is the blockchain or ledger), a blank page (a block) and has a pen, ready to write down any transactions that occur on the page.
+
+Now, if person #A wants to send $1,000 to person #B, then #A announces to everyone, "I want to transfer $1,000 to #B". Everyone checks whether #A has enough balance to transfer $1,000 to #2. If #A has enough balance, then everyone writes down the transaction on their blank page. The transaction is now considered complete.
+
+As time passes, more people announce their transactions to everyone else. This continues until everyone runs out of space in the current page. Now, the page needs to be "sealed" with a unique key so that it cannot be changed later. In accounting, we call it "closing the books". If everyone trusts the seal, then everyone trusts the contents on the page. In Bitcoin, this is called "proof-of-work" or "mining". The unique key that is generated in the mining process is called a "block hash".
+
+How do you seal a page (i.e. mine a block)? Suppose, you enter the word "apple" into the [SHA-256 hash calculator](https://xorbin.com/tools/sha256-hash-calculator). The calculator outputs "3a7bd3". However, given the output "3a7bd3", it is impossible to know that the input was "apple". But every time you enter "apple" into the calculator, it will always output the same hash, "3a7bd3". In a blockchain, the input is the hash of the previous block, the transactions in the current block, and a nonce. If you modify any of the inputs, the block hash will be completely different. This prevents anyone from changing the history without everyone else knowing. If someone changes the history, then it will be different to everyone else, and the ledger with the different history will be rejected. This makes the Bitcoin ledger "immutable".
+
+![](images/proof-of-work.svg)
+
+Why would anyone want to mine blocks? The Bitcoin software rewards the first person to mine the block with bitcoins. It also rewards the miner with transaction fees which is paid by the person who announced the transaction.
+
+For example, block 674570 was mined on 14th March, and the miner was rewarded with 6.25 bitcoins as a subsidy, and 0.718 bitcoins in transaction fees. The block reward (subsidy) is halved every 210,000 blocks (or every 4 years), until the maximum of 21 million bitcoins are mined. Eventually, the block subsidy will become zero, but miners will always receive transaction fees for mining a block.
+
+![](images/block-674570.png)
+[source: blockchain.com](https://www.blockchain.com/btc/block/674570)
+
+What happens when more people mine Bitcoin, and buy more powerful computers? Does that mean more Bitcoins will be mined at a faster rate? No. The Bitcoin software ensures that every 2016 blocks (or 2 weeks), the average time to mine a block is 10 minutes. The purpose of the Bitcoin network is to record time, not energy consumed. If it takes less than 10 minutes to mine blocks, then the network will make it more difficult to mine blocks. This is called "difficulty retargeting". If the time to produce 2016 blocks is less than 20160 minutes, the difficulty is increased, otherwise, it stays the same or is decreased.
+
+[Bitcoinity](https://data.bitcoinity.org/) shows the average time to mine a block in real time.
+![](images/time-to-mine-block-minutes.png)
+
+It also shows that mining difficulty is increasing, which correlates closely with the Bitcoin price.
+![](images/bitcoin-mining-difficulty.png)
+
+How does difficulty retargeting work? It works by requiring a nonce as one of the inputs to generate a block hash. A nonce is any number that is added to the inputs, such that the calculator outputs a hash that starts with a required number leading zeros. The more leading zeros required in the hash, the more difficult it is to find a nonce that outputs the valid hash.
+
+In block 674570, the difficulty was 21.4 trillion, and a nonce of 560,033,564 was added to the inputs to generate a valid block hash with 20 leading zeros.
 
 # Common misconceptions about Bitcoin
 
@@ -415,6 +466,8 @@ Are on-chain metrics indicating confidence in the project?
 
 [Blockchain.com](https://www.blockchain.com/explorer) - Bitcoin and Ethereum blockchain explorer.
 
+[Bitcoinity](https://data.bitcoinity.org/) - Bitcoin blockchain and market data.
+
 # Bitcoin Price Forecast
 
 Bitcoin has a 4 year halving cycle, with 2 years of bull market and 2 years of bear market. As with any asset class, it is not immune to speculative mania and leverage, which causes the its price to overextend before a steep correction.
@@ -472,11 +525,11 @@ You can see clearly on the log chart that Bitcoin has trending upwards and has 4
 
 If we are in the 2020-2023 cycle, then the earlier you buy in the cycle, the lower your risk of a drawdown (i.e. the market price of Bitcoin drops below your purchase price). The risk would be highest in the second half of 2021, since you could potentially experience a 80% drawdown.
 
-There are two factors to consider when accumulating Bitcoin.
+There are two variables to consider when accumulating Bitcoin.
 
-First, decide how much of your savings that you can afford a 30% or 80% drawdown (30% if you're early in the cycle, or 80% if you're late in the cycle). This could be 1% of your wealth, 10%, or 50%. It is the percentage that allows you to sleep at night without worrying about the daily price movements. And if the price drops, you would not be worried whether the price will drop further. If it drops further, you will be happy to buy more Bitcoin. If it does not drop and the price keeps multiplying, you're glad that you invested in Bitcoin. This percentage will be different for everyone. But as a minimum, I recommend 1% as an initial investment. Would you pay a one-off 1% as a ongoing insurance against your wealth being inflated away at 10-20% per year? It's a no-brainer to have a non-zero position in Bitcoin regardless of your views on it.
+First, decide how much of your savings that you can afford to hold for at least 2 years, and potentially have a 30% or 80% loss if you sell early (30% if you're early in the cycle, or 80% if you're late in the cycle). This could be 1% of your wealth, 10%, or 50%. It is the percentage that allows you to sleep at night without worrying about the daily price movements. And if the price drops, you would not be worried whether the price will drop further. If it drops further, you will be happy to buy more Bitcoin at a discount. If it does not drop and the price keeps going up, then you're glad that you invested in Bitcoin. This percentage will be different for everyone. But as a minimum, I recommend 1% as an initial investment. Would you pay a one-off 1% as an insurance against your wealth being inflated away at 10-20% per year? It's a no-brainer to have a non-zero position in Bitcoin regardless of your views on it.
 
-Secondly, you should use ["dollar cost averaging"](https://dcabtc.com/) when determining when to buy and the amount of Bitcoin to buy each time. This is because no one can perfectly time the market. This minimises your risk of buying at the market top, since your purchase price will be the average of all the prices you bought Bitcoin over a period of time. In a bull market (e.g. first half of the cycle), you can be more aggressive and buy your initial budget (e.g. 10% of your wealth) within 4 weeks. In a sideways or bear market, there's no rush to buy, so you can buy over 12 months.
+Secondly, you can use ["dollar cost averaging"](https://dcabtc.com/) when determining when to buy and the amount of Bitcoin to buy each time. This is because no one can perfectly time the market. This minimises your risk of buying at the market top, since your purchase price will be the average of all the prices you bought Bitcoin over a period of time. In a bull market (e.g. first half of the cycle), you can be more aggressive and buy your initial budget (e.g. 10% of your wealth) within 4 weeks. In a sideways or bear market, there's no rush to buy, so you can buy over 24 months.
 
 # Crypto Influencers
 
