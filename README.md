@@ -29,7 +29,7 @@ If you would like to request any changes to the document, please go to [Issues](
 
 # The traditional financial system
 
-M2 money supply historically has increased around 6% per year, until 2020 when the growth rate was at 23%. Assuming the money supply continues to increase by 20% over the next 10 years, your real wealth (purchasing power) would reduce by 90%, even though the dollar value in your bank account remains the same. The inflation is usually higher near the end of the long term debt cycle, which is where we are now. If by some miracle that we revert to 6% inflation per year, your wealth should reduce by around 50% in 10 years.
+M2 money supply historically has increased around 6% per year, until 2020 when the growth rate was at 23%. Assuming the money supply continues to increase by 20% over the next 10 years, your real wealth (purchasing power) would reduce by 90%, even though the dollar value in your bank account remains the same. The inflation rate is usually higher near the end of the long term debt cycle, which is where we are now. If by some miracle that we revert to 6% inflation per year, your wealth should reduce by around 50% in 10 years.
 
 ![](images/fed-m2-money-stock-20210312.png)
 
