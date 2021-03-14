@@ -2,10 +2,15 @@
 
 This is a quick reference guide for crypto investors. I've prepared this guide to help educate my friends about how the financial system is evolving, so they can use this knowledge to protect their wealth. The financial system is changing rapidly since 2016, and it's difficult to keep pace. I will continue to update this guide with my learnings. You will still need to do your own research (DYOR) as this guide is intended to point you to the source of information, rather than be your primary source of information.
 
+If you would like to discuss anything crypto-related, please go to [Discussions](https://github.com/christso/crypto-investing-guide/discussions/).
+
+If you would like to request any changes to the document, please go to [Issues](https://github.com/christso/crypto-investing-guide/issues) and create an issue.
+
 ## Contents
 * [The traditional financial system](#The-traditional-financial-system)
 * [The decentralized financial system](#The-decentralized-financial-system)
 * [Why does Bitcoin exist?](#Why-does-Bitcoin-exist)
+* [How does the Bitcoin blockchain work?](#How-does-the-Bitcoin-blockchain-work)
 * [Common misconceptions about Bitcoin](#Common-misconceptions-about-Bitcoin)
 * [Converting Fiat to Bitcoin](#Converting-Fiat-to-Bitcoin)
 * [Crypto-to-Crypto Decentralized Exchanges](#Crypto-to-Crypto-Decentralized-Exchanges)
@@ -91,7 +96,7 @@ It takes on average 10 minutes to mine a single block, which means it takes on a
 
 ![](images/bitcoin-inflation-vs-time.png)
 
-In 2020, the inflation rate of Bitcoin is 1.74%. In 2024, the inflation rate will be 0.82, and so on, until the last fraction of bitcoin is mined in 2140. A bitcoin can only be divided into 8 decimal places, or 100 million satoshis which are the smallest unit of bitcoin. This is what we mean when we say no more Bitcoin is mined. We've mined all the satoshis.
+In 2020, the inflation rate of Bitcoin is 1.74%. In 2024, the inflation rate will be 0.82%, and so on, until the last fraction of bitcoin is mined in 2140. A bitcoin can only be divided into 8 decimal places, or 100 million satoshis which are the smallest unit of bitcoin. This is what we mean when we say no more Bitcoin is mined. We've mined all the satoshis.
 
 ![](images/bitcoin-supply-forecast-2008.png)
 
@@ -114,6 +119,10 @@ If Bitcoin acts like a lifeboat, then national currencies act like a cruise ship
 However, you notice that sometimes the angle increases even further. You're even hearing the same kind of messages from other ships too because they're all sinking. The captain of the Indian ship is saying "a 25% deck angle is perfectly normal". The captain of the Venezuelan ship is saying "a 98% angle is perfectly normal". The captain says that lifeboats are dangerous, only pirates use lifeboats, lifeboats are unstable and not backed by anything, they have no crew and no captain, etc. The captain wants you to not focus on the sinking ship, and instead focus on how deficient the lifeboats are, and will discourage you from using lifeboats.
 
 The captain also distracts you by pointing to the other fiat currency ships, and says "look, our decks are higher than theirs". 
+
+# How does the Bitcoin blockchain work?
+
+Imagine
 
 # Common misconceptions about Bitcoin
 
