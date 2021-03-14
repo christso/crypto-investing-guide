@@ -18,7 +18,7 @@ This is a quick reference guide for crypto investors. I've prepared this guide t
 * [Altcoin Investing](#Altcoin-Investing)
 * [Project Evaluation](#Project-Evaluation)
 * [Bitcoin Price Forecast](#Bitcoin-Price-Forecast)
-* [What price to buy Bitcoin?](#What-price-to-buy-Bitcoin)
+* [What price to buy Bitcoin and what amount?](#What-price-to-buy-Bitcoin-and-what-amount)
 * [Crypto Influencers](#Crypto-Influencers)
 * [Additional Resources](#Additional-Resources)
 
@@ -410,10 +410,12 @@ Are on-chain metrics indicating confidence in the project?
 
 Bitcoin has a 4 year halving cycle, with 2 years of bull market and 2 years of bear market. As with any asset class, it is not immune to speculative mania and leverage, which causes the its price to overextend before a steep correction.
 
+The Stock-To-Flow (S2F) ratio provides a fundamental basis in which to value Bitcoin.
+
 ![](images/btc-s2fx-20210301.png)
 "New orange dot: Feb close $45,240! (Jan was $33,141 and current price is $46,500)" - [@100trillionUSD on 2021-03-01](https://twitter.com/100trillionUSD/status/1366300758036131840).
 
-[Money, Bitcoin and Time: Part 1 of 3](https://breedlove22.medium.com/money-bitcoin-and-time-part-1-of-3-b4f6bb036c04) explains Bitcoin in terms of "hard" and "soft" money.
+[Money, Bitcoin and Time: Part 1 of 3](https://breedlove22.medium.com/money-bitcoin-and-time-part-1-of-3-b4f6bb036c04) explains S2F in terms of "hard" and "soft" money.
 
 Hard money is more trustworthy as a store of value precisely because it resists intentional debasements of its value by others and therefore maintains salability across time. The hardness of a monetary good, also known as its soundness, is determined by the stock-to-flow ratio:
 
@@ -422,13 +424,11 @@ Hard money is more trustworthy as a store of value precisely because it resists 
 * Dividing the stock of a monetary good by its flow equals its stock-to-flow ratio
 * The higher the stock-to-flow ratio, the greater the hardness (or soundness) of money
 
-This article explains what is likely to happen at the end of the 2021-2022 bull market: [Don't Get Rekt - The anatomy of the next #Bitcoin bear market - Andy Edstrom (Mar 8, 2021)](https://www.btctimes.com/insight/dont-get-rekt)
+Taking the growth range of the previous cycles, we can expect the Bitcoin price to peak in mid-2021 at US$387,000, then consolidate around US$286,000.
 
-The other outcome (but unlikely until 2027) is there is no bear market, and we achieve "hyperbitcoinization" in the current cycle. This involves the majority of corporations holding their cash reserves in Bitcoin instead of bonds and money market funds, mainstream infrastructure such as Visa and Mastercard or other provider making it easy for merchants and customers to transact in Bitcoin, and possibly central banks and governments adopting Bitcoin. This would place the price of one Bitcoin above US$10 million.
+![](images/bitcoin-after-the-3rd-halving.png)
 
-[Hyperbitcoinization - The path to becoming the world’s dominant form of money](https://www.bitrawr.com/hyperbitcoinization).
-
-Bitcoin is going after the "store of value" total addressable market (TAM) which will capture some % of the following:
+Bitcoin ($1T market value as of March 2021) is going after the "store of value" total addressable market (TAM) which will capture some % of the following:
 * Gold ($10T)
 * Real Estate ($200T)
 * Bonds ($100T)
@@ -436,16 +436,38 @@ Bitcoin is going after the "store of value" total addressable market (TAM) which
 * Broad Money ($100T)
 * Fine Art/collectibles ($20T)
 
-[Compiled by Brandon Quittem](https://twitter.com/Bquittem/status/1365122245895483394?s=20)
+[Credit: Brandon Quittem](https://twitter.com/Bquittem/status/1365122245895483394?s=20)
 
-It's difficult the average person to dismiss Bitcoin's price is driven purely by emotions. 
+This article explains what is likely to happen at the end of the 2021-2022 bull market: [Don't Get Rekt - The anatomy of the next #Bitcoin bear market - Andy Edstrom (Mar 8, 2021)](https://www.btctimes.com/insight/dont-get-rekt)
 
-My base scenario is that Bitcoin peaks at US$400k, crashes to US$100k, and goes sideways for 2 years around $200-$300k. Then in 2025-26, after the next halving, I expect Bitcoin to hover around US$5 million and achieve hyperbitcoinization.
+The other outcome (but unlikely until 2027) is there is no bear market, and we achieve "hyperbitcoinization" in the current cycle. This involves the majority of corporations holding at least 1% of their cash reserves in Bitcoin instead of bonds and money market funds, traditional infrastructure such as Visa and Mastercard or other provider making it easy for merchants and customers to transact in Bitcoin, and possibly central banks and governments holding and transacting in Bitcoin. This would place the price of one Bitcoin above US$10 million.
 
-# What price to buy Bitcoin?
+[Hyperbitcoinization - The path to becoming the world’s dominant form of money](https://www.bitrawr.com/hyperbitcoinization).
+
+# What price to buy Bitcoin and what amount?
 
 "Linear price charts will fool people (w/out a background), into thinking the price move is emotional. It's not, it's a mathematical supply suffocation provided by the protocol."
 [@PrestonPysh](https://twitter.com/PrestonPysh/status/1370077694323490828)
+
+In a linear price chart, each unit in the Y axis is proportional to the dollar value of the asset. However, asset prices do not change in absolute dollars. It changes in percentage returns. Whether a asset's price is $10 or $100 is irrelevant. What matters is the percentage return on investment. When you're investing in an asset, you're looking at the interest rate. When you're investing in a company, you're looking at the dividend yield. Unfortunately, mainstream media often quotes changes in asset prices in dollar value terms. It makes a better headline when "Bitcoin price crashes by $2000" instead of "Bitcoin price crashes by 4%".
+
+In the linear chart below, Bitcoin looks like a bubble about to crash.
+
+![](images/btcusd-linear-20210314.png)
+
+But in a log chart, each unit in the Y axis is proportion to the percentage change in the asset. So, instead of each unit of the axis representing $4,000, it represents a percentage increase from the previous price point. in the chart below, this is a 50-60% increase. In Plan B's S2FX model, each Y-axis unit represents a 900% increase (which is 10x the previous price).
+
+You can see clearly on the log chart that Bitcoin has trending upwards and has 4 year cycles. The price increases about 100x from the bottom to the top, and decreases 80% from the top to the next bottom. This correlates closely with Bitcoin's pre-programmed halving event every 210,000 blocks (which is on average 4 years).
+
+![](images/btcusd-log-20200314.png)
+
+If we are in the 2020-2023 cycle, then the earlier you buy in the cycle, the lower your risk of a drawdown (i.e. the market price of Bitcoin drops below your purchase price). The risk would be highest in the second half of 2021, since you could potentially experience a 80% drawdown.
+
+There are two factors to consider when accumulating Bitcoin.
+
+First, decide how much of your savings that you can afford a 30% or 80% drawdown (30% if you're early in the cycle, or 80% if you're late in the cycle). This could be 1% of your wealth, 10%, or 50%. It is the percentage that allows you to sleep at night without worrying about the daily price movements. And if the price drops, you would not be worried whether the price will drop further. If it drops further, you will be happy to buy more Bitcoin. If it does not drop and the price keeps multiplying, you're glad that you invested in Bitcoin. This percentage will be different for everyone. But as a minimum, I recommend 1% as an initial investment. Would you pay a one-off 1% as a ongoing insurance against your wealth being inflated away at 10-20% per year? It's a no-brainer to have a non-zero position in Bitcoin regardless of your views on it.
+
+Secondly, you should use ["dollar cost averaging"](https://dcabtc.com/) when determining when to buy and the amount of Bitcoin to buy each time. This is because no one can perfectly time the market. This minimises your risk of buying at the market top, since your purchase price will be the average of all the prices you bought Bitcoin over a period of time. In a bull market (e.g. first half of the cycle), you can be more aggressive and buy your initial budget (e.g. 10% of your wealth) within 4 weeks. In a sideways or bear market, there's no rush to buy, so you can buy over 12 months.
 
 # Crypto Influencers
 
