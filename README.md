@@ -5,7 +5,7 @@ This is a quick reference guide for crypto investors. I've prepared this guide t
 ## Contents
 * [The traditional financial system](#The-traditional-financial-system)
 * [The decentralized financial system](#The-decentralized-financial-system)
-* [Why does Bitcoin exist](#Why-does-Bitcoin-exist)
+* [Why does Bitcoin exist?](#Why-does-Bitcoin-exist)
 * [Common misconceptions about Bitcoin](#Common-misconceptions-about-Bitcoin)
 * [Converting Fiat to Bitcoin](#Converting-Fiat-to-Bitcoin)
 * [Crypto-to-Crypto Decentralized Exchanges](#Crypto-to-Crypto-Decentralized-Exchanges)
@@ -18,6 +18,7 @@ This is a quick reference guide for crypto investors. I've prepared this guide t
 * [Altcoin Investing](#Altcoin-Investing)
 * [Project Evaluation](#Project-Evaluation)
 * [Bitcoin Price Forecast](#Bitcoin-Price-Forecast)
+* [What price to buy Bitcoin?](#What-price-to-buy-Bitcoin)
 * [Crypto Influencers](#Crypto-Influencers)
 * [Additional Resources](#Additional-Resources)
 
@@ -217,7 +218,7 @@ Bitcoin is 40 years in the making, and has been running live since January 2009 
 
 Meanwhile, the Fedwire payment system that allows banks to send money between each other went down for several hours on 24th February 2021.
 
-Also, in January 2021, [Bitcoin Did Not Experience a Double-Spend: The Blockchain Worked as Intended](https://www.cryptoglobe.com/latest/2021/01/bitcoin-did-not-experience-a-double-spend-the-blockchain-worked-as-intended/). However, the news was believable enough that it caused Canadian virtual reality company NexTech AR Solutions to 130 bitcoins valued at around $4.2 million (which is $32,308 per bitcoin).
+Also, in January 2021, [Bitcoin Did Not Experience a Double-Spend: The Blockchain Worked as Intended](https://www.cryptoglobe.com/latest/2021/01/bitcoin-did-not-experience-a-double-spend-the-blockchain-worked-as-intended/). However, the news was believable enough that it caused Canadian virtual reality company NexTech AR Solutions to sell 130 bitcoins valued at around $4.2 million (which is $32,308 per bitcoin).
 
 ## Bitcoin will be banned
 
@@ -294,9 +295,13 @@ If your hardware wallet is lost or broken, you can restore access to all your cr
 
 [What are cryptocurrency custody solutions - Investopedia](https://www.investopedia.com/news/what-are-cryptocurrency-custody-solutions/)
 
-[Coinbase Custody](https://custody.coinbase.com/)
+If you are an insitutional investor who does not want to deal with the complexities of self-custody, you can use a regulated custodian.
 
-[Independent Reserve High Net Worth](https://www.independentreserve.com/products/high-net-worth)
+[Coinbase](https://custody.coinbase.com/)
+
+[NYDIG](https://nydig.com/)
+
+[Independent Reserve](https://www.independentreserve.com/products/high-net-worth)
 
 # Bitcoin Lightning Wallets
 
@@ -437,6 +442,11 @@ It's difficult the average person to dismiss Bitcoin's price is driven purely by
 
 My base scenario is that Bitcoin peaks at US$400k, crashes to US$100k, and goes sideways for 2 years around $200-$300k. Then in 2025-26, after the next halving, I expect Bitcoin to hover around US$5 million and achieve hyperbitcoinization.
 
+# What price to buy Bitcoin?
+
+"Linear price charts will fool people (w/out a background), into thinking the price move is emotional. It's not, it's a mathematical supply suffocation provided by the protocol."
+[@PrestonPysh](https://twitter.com/PrestonPysh/status/1370077694323490828)
+
 # Crypto Influencers
 
 The majority of the crypto community discourse happens on Twitter, also known as Crypto Twitter (CT). It was started by Hal Finney [@halfin](https://twitter.com/halfin) when he first began running his Bitcoin node in January 2009.
@@ -483,6 +493,7 @@ Corporate and HNW Investors:
 * Jack Dorsey, CEO of Twitter - [@jack](https://twitter.com/jack)
 * Dan Tapiero, Co-Founder-10T Holdings (2020), DTAP Capital (2004) - [@DTAPCAP](https://twitter.com/DTAPCAP)
 * Michael Saylor, CEO of Microstrategy - [@michael_saylor](https://twitter.com/michael_saylor)
+* Chamath Palihapitiya - [@chamath](https://twitter.com/chamath)
 * Michael Novogratz, CEO of Galaxy Investment Partners - [@novogratz](https://twitter.com/novogratz)
 * Barry Silbert, Founder and CEO of Digital Currency Group - [@BarrySilbert](https://twitter.com/BarrySilbert)
 * Tyler Winklevoss, Gemini co-founder - [@tyler](https://twitter.com/tyler)
