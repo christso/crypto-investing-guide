@@ -2,6 +2,25 @@
 
 This is a quick reference guide for crypto investors. I've prepared this guide to help educate my friends about how the financial system is evolving, so they can use this knowledge to protect their wealth. The financial system is changing rapidly since 2016, and it's difficult to keep pace. I will continue to update this guide with my learnings. You will still need to do your own research (DYOR) as this guide is intended to point you to the source of information, rather than be your primary source of information.
 
+## Contents
+* [The traditional financial system](#The-traditional-financial-system)
+* [The decentralized financial system](#The-decentralized-financial-system)
+* [Why does Bitcoin exist?](#Why-does-Bitcoin-exist?)
+* [Common misconceptions about Bitcoin](#Common-misconceptions-about-Bitcoin)
+* [Converting Fiat to Bitcoin](#Converting-Fiat-to-Bitcoin)
+* [Crypto-to-Crypto Decentralized Exchanges](#Crypto-to-Crypto-Decentralized-Exchanges)
+* [Hardware Wallets](#Hardware-Wallets)
+* [Software Wallets](#Software-Wallets)
+* [Seed Backup Solutions](#Seed-Backup-Solutions)
+* [Crypto Custody Solutions](#Crypto-Custody-Solutions)
+* [Bitcoin Lightning Wallets](#Bitcoin-Lightning-Wallets)
+* [Lending and Staking](#Lending-and-Staking)
+* [Altcoin Investing](#Altcoin-Investing)
+* [Project Evaluation](#Project-Evaluation)
+* [Bitcoin Price Forecast](#Bitcoin-Price-Forecast)
+* [Crypto Influencers](#Crypto-Influencers)
+* [Additional Resources](#Additional-Resources)
+
 # The traditional financial system
 
 M2 money supply historically has increased around 6% per year, until 2019 when the growth rate was above 15%. In 2020, the growth rate was at 25%. Assuming the money supply continues to increase by 20% over the next 10 years, your real wealth (purchasing power) would reduce by over 80%, even though the dollar value in your bank account remains the same.
@@ -65,7 +84,7 @@ Bitcoin is digital money that preserves its value across space and time. This co
 The Bitcoin supply curve looks like the inverse of the M2 money supply curve.
 ![](images/bitcoin-inflation-vs-time.png)
 
-# Bitcoin is a lifeboat
+## Bitcoin is a lifeboat
 
 Bitcoin is used as a "lifeboat" by people to escape from the fiat system which is a "sinking ship". This metaphor of a lifeboat is elegantly explained by Andreas Antonopoulos on his YouTube video: [Cryptocurrency Explained: All the ships are sinking (Currency Wars II)](https://youtu.be/stN03wk_Wzs).
 
@@ -214,9 +233,13 @@ Hardware wallets are the preferred cold storage solution. They store your seed a
 
 Note - The derivation path for each hardware wallet may be different.
 
-# Wallet Software
+# Software Wallets
+
+These software wallets can also connect to your hardware wallet.
 
 [Metamask](https://metamask.io/) - Ethereum wallet
+
+[MyEtherWallet](https://www.myetherwallet.com/) - Ethereum wallet
 
 [Specter Wallet](https://specter.solutions/) - Bitcoin wallet which can run a full-node
 
@@ -224,11 +247,19 @@ Note - The derivation path for each hardware wallet may be different.
 
 # Seed Backup Solutions
 
-[Billfodl](https://privacypros.io/)
+Please do not store your seed on any device that may connect to the Internet, even if your file is encrypted. If anyone else knows your seed, then they can access all your crypto wallets that were generated from that seed. I recommend backing up your seed offline in a secure medium.
 
-[Seedplate](https://store.coinkite.com/store/seedplate)
+[Billfodl](https://privacypros.io/) - This is a re-usable seed backup solution. The most cost effective product is the [Billfodl Multishard](https://privacypros.io/products/multishard/), which is a bundle of 3 Billfodls.
 
-You can create a "multishard seed", where your seed is split into 3 shards, such that any 2 parts can reconstruct your complete seed. Each shard allows you to store up to 16 words of your seed phrase, and each unit tells you which 16 out of the 24 total words to load up. Shard One houses words 1 to 16, Shard Two houses words 9 to 24 and Shard 3 houses words 1 to 8 and 17 to 24. Once this process is complete, you will have effectively backed up each seed word twice.
+You can create a "multishard seed", where your seed is split into 3 shards, such that any 2 parts can reconstruct your complete seed. Each shard allows you to store up to 16 words of your seed phrase. Shard One houses words 1 to 16, Shard Two houses words 9 to 24 and Shard 3 houses words 1 to 8 and 17 to 24. Once this process is complete, you will have effectively backed up each seed word twice.
+
+[VIDEO: REVIEWING THE BILLFODL MULTISHARD](https://bitcoinmagazine.com/reviews/video-reviewing-the-billfodl-multishard)
+
+I recommend putting each shard in a separate location. If you are using a 25th word (or passphrase), store the passphrase separately as well.
+
+It's ok to store your hardware wallet PIN in your password manager (such as Bitwarden, 1password or encrypted file). In the worst case that your password manager is compromised, the attacker must have BOTH your PIN and hardware wallet device.
+
+If your hardware wallet is lost or broken, you can restore access to all your crypto accounts by entering your 24-word seed and passphrase into the same brand of hardware wallet or a software wallet. If you want to change to a different brand of hardware wallet (e.g. from Ledger to Trezor), you might find that some crypto assets are not visible. This is because different manufacturers may use different derivation paths. If that is the case, you will need to first enter your seed into a software wallet, then transfer your crypto assets into an address that is visible to your new hardware wallet.
 
 # Crypto Custody Solutions
 
@@ -270,7 +301,7 @@ On-chain staking:
 * [Stacks 2.0](https://stacks.org/) - Stacks (STX) are used as fuel for smart contract execution, transaction processing, and digital asset registrations on the Stacks 2.0 blockchain. It's used as fuel for blockchain transactions and enables holders to earn Bitcoin with Stacking. Stacks enables new use cases like Bitcoin NFTs and stablecoins that settle on Bitcoin.
 * [Ethereum 2.0](https://ethereum.org/en/eth2/staking/) - You can earn rewards by running a eth2 validator node. You will need to lock up 32 ETH, and you cannot withdraw both your deposit and rewards until Phase 1.5 (which can take 1-2 years or longer). Alternatively, you can deposit into a staking pool, custodian or convert to a staking token such as [Binance ETH 2.0 (BETH)](https://www.binance.com/en/eth2). See [Ethereum 2.0 Staking Guide](https://www.stakingrewards.com/journal/ultimate-ethereum-2-0-staking-guide).
 
-# Altcoin Trading
+# Altcoin Investing
 
 ## Portfolio Allocation
 
@@ -291,6 +322,7 @@ This is my portfolio allocation. I hold the majority in Bitcoin. I would only bu
 * yearn.finance (YFI)
 * Ren (REN)
 * Hegic (HEGIC)
+* Aave (AAVE)
 * Uniswap (UNI)
 * Polkadot (DOT)
 * Binance Coin (BNB) - fuel for Binance Smart Chain (BSC)
@@ -303,6 +335,12 @@ I occassionally trade a small amount of "questionable" coins, which Bitcoin maxi
 * Hedera Hashgraph (HBAR)
 * Nano (NANO)
 * Ripple (XRP)
+
+# Crypto Derivatives Trading Platforms
+
+[Derebit](https://www.deribit.com/) - options and futures trading for BTC and ETH
+
+[Bybit](https://www.bybit.com/en-US/) - Futures Trading for BTC, ETH, LINK, XTZ, LTC and other cryptos.
 
 # Project Evaluation
 
@@ -334,7 +372,7 @@ Are on-chain metrics indicating confidence in the project?
 
 [Blockchain.com](https://www.blockchain.com/explorer) - Bitcoin and Ethereum blockchain explorer.
 
-# Price Forecast
+# Bitcoin Price Forecast
 
 Bitcoin has a 4 year halving cycle, with 2 years of bull market and 2 years of bear market. As with any asset class, it is not immune to speculative mania and leverage, which causes the its price to overextend before a steep correction.
 
@@ -368,10 +406,14 @@ Bitcoin is going after the "store of value" total addressable market (TAM) which
 
 My base scenario is that Bitcoin peaks at US$400k, crashes to US$100k, and goes sideways for 2 years around $200-$300k. Then in 2025-26, after the next halving, I expect Bitcoin to hover around US$5 million and achieve hyperbitcoinization.
 
-# Crypto Twitter
+# Crypto Influencers
+
+The majority of the crypto community discourse happens on Twitter, also known as Crypto Twitter (CT). It was started by Hal Finney [@halfin](https://twitter.com/halfin) when he first began running his Bitcoin node in January 2009.
+
+![](images/halfin-running-bitcoin.png)
 
 Bitcoin:
-* Andreas M. Antonopoulos - [@aantonop](https://twitter.com/aantonop) - Bitcoin expert and author of Mastering Bitcoin
+* Andreas M. Antonopoulos - [@aantonop](https://twitter.com/aantonop) - Bitcoin expert and author of Mastering Bitcoin.
 * Vijay Boyapati - [@real_vijay](https://twitter.com/real_vijay)
 * Robert Breedlove - [@Breedlove22](https://twitter.com/Breedlove22)
 * Plan B = [@100trillionUSD](https://twitter.com/100trillionUSD)
