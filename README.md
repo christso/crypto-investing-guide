@@ -447,13 +447,18 @@ Crypto:
 * [@ki_young_ju](https://twitter.com/ki_young_ju)
 
 Corporate and HNW Investors:
-* [@TimDraper](https://twitter.com/TimDraper)
-* [@michael_saylor](https://twitter.com/michael_saylor)
-* [@novogratz](https://twitter.com/novogratz)
-* [@BarrySilbert](https://twitter.com/BarrySilbert)
-* [@tyler](https://twitter.com/tyler)
-* [@cameron](https://twitter.com/cameron)
-* [@RaoulGMI](https://twitter.com/RaoulGMI)
+* Tim Draper - venture capitalist - [@TimDraper](https://twitter.com/TimDraper)
+* Stanley Druckenmiller, former Chairman and CEO of Duquesne Family Office
+* Jack Dorsey, CEO of Twitter - [@jack](https://twitter.com/jack)
+* Dan Tapiero, Co-Founder-10T Holdings (2020), DTAP Capital (2004) - [@DTAPCAP](https://twitter.com/DTAPCAP)
+* Michael Saylor, CEO of Microstrategy - [@michael_saylor](https://twitter.com/michael_saylor)
+* Michael Novogratz, CEO of Galaxy Investment Partners - [@novogratz](https://twitter.com/novogratz)
+* Barry Silbert, Founder and CEO of Digital Currency Group - [@BarrySilbert](https://twitter.com/BarrySilbert)
+* Tyler Winklevoss, Gemini co-founder - [@tyler](https://twitter.com/tyler)
+* Cameron Winklevoss, Gemini co-founder - [@cameron](https://twitter.com/cameron)
+* Raoul Pal, CEO of RealVision Group - [@RaoulGMI](https://twitter.com/RaoulGMI)
+* Tahinis Restaurants - [@TheRealTahinis](https://twitter.com/TheRealTahinis)
+* Mark Cuban - [@mcuban](https://twitter.com/mcuban)
 
 Investing:
 * [@LynAldenContact](https://twitter.com/LynAldenContact)
