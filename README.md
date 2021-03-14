@@ -66,7 +66,10 @@ You have 2 choices:
 "Nothing is so permanent as a temporary government program." ― Milton Friedman
 * personal taxation is a temporary measure to fund the war.
 * money printing was a temporary measure to fund the war.
-* mandatory lockdowns was a temporary measure to fight COVID.
+* suspension of the gold standard was temporary to stop gold outflows from the U.S.
+* bailouts and stimulus checks were temporary to help the economy recover.
+* the USA Patriot Act which granted law enforcement wide-reaching surveillance powers was a temporary measure to fight terrorism.
+* the power to declare mandatory lockdowns was a temporary measure to fight COVID.
 
 You choice, along with everyone else, will shape the world our children will live in. It's either going to be a world where people are victims who require ongoing government support, or where people are powerful and governments serve the people, or... a world split into the super-wealthy and the super-poor. Either way, you will be glad you took the lifeboat while everyone was still supporting the sinking ship.
 
@@ -126,11 +129,22 @@ What the FUD articles assume is that there is zero value in securing a monetary 
 [The Last Word on Bitcoin’s Energy Consumption, Nic Carter](https://www.coindesk.com/the-last-word-on-bitcoins-energy-consumption) explains why Bitcoin consumes so much energy.
 > Part of the reason Bitcoin consumes so much electricity is because China lowered the clearing price of energy by overbuilding hydro capacity due to sloppy central planning. In a non-Bitcoin world, this excess energy would either have been used to smelt aluminum or would simply have been wasted.
 
+[PoW is Efficient, Dan Held](https://www.danheld.com/blog/2019/1/5/pow-is-efficent) explains that securing economic history is an important public good, and is worth the mining costs. In fact, a side-effect of Bitcoin is that it will encourage a shift towards renewal energy sources that have predictable capacity that is otherwise wasted, like hydro and flared methane.
+
+> Bitcoin’s PoW is the buyer of last resort for all electricity, creating a floor that incentivizes the building of new energy producing plants around disparate energy sources that would have otherwise been left untapped.
+
+> Everything requires energy (first law of thermodynamics). Claiming that one usage of energy is more or less wasteful than another is completely subjective since all users have paid market rate to utilize that electricity.
+
+> Bitcoin’s utilization of the excess electrical capacity consumes magnitudes less electricity than existing fiat systems which not only have power requirements banking infrastructure, but the military and political machina. The energy tradeoff for the utilization of that electricity to secure the financial system backbone is a “net positive” outcome. Below I make a rough comparison to the existing financial, military, and political systems 
+
+![](images/bitcoin-energy-costs-201901.jfif)
+
 Setee is a company controlled by Norway's 2nd richest man, Kjell Inge Røkke. This is an excerpt from their [shareholder letter](https://www.seetee.io/static/shareholder_letter-6ae7e85717c28831bf1c0eca1d632722.pdf):
 
 > Sec­ond, See­tee will es­tab­lish min­ing op­er­a­tions that trans­fer strand­ed or in­ter­mit­tent elec­tric­i­ty with­out sta­ble de­mand lo­cal­ly—wind, so­lar, hy­dro pow­er— to eco­nom­ic as­sets that can be used any­where. Bit­coin is, in our eyes, a load-bal­anc­ing eco­nom­ic bat­tery, and bat­ter­ies are es­sen­tial to the en­er­gy tran­si­tion re­quired to reach the tar­gets of the Paris Agreement. Our am­bi­tion is to be a valu­able part­ner in new re­new­able projects.
 
-Tyrannies are less energy-efficient than free markets because they require tyrants to expend resources enforcing compliance with their imposed rulesets and protecting their turf. Voluntary games (free market capitalism) outcompete involuntary games (centrally planned socialism) as they do not accrue these enforcement and protection costs: hence the reason capitalism (freedom) outcompetes socialism (slavery) in the long run. Bitcoin does not require enforced compliance. Economic actors are incentivized to choose the money that best holds its value across time, is most widely accepted, and most clearly conveys market pricing information. Holding the scarcest money is the most energy-efficient strategy a player can employ.
+[The Number Zero and Bitcoin, Robert Breedlove](https://breedlove22.medium.com/the-number-zero-and-bitcoin-4c193336db5b)
+> Tyrannies are less energy-efficient than free markets because they require tyrants to expend resources enforcing compliance with their imposed rulesets and protecting their turf. Voluntary games (free market capitalism) outcompete involuntary games (centrally planned socialism) as they do not accrue these enforcement and protection costs: hence the reason capitalism (freedom) outcompetes socialism (slavery) in the long run. Bitcoin does not require enforced compliance. Economic actors are incentivized to choose the money that best holds its value across time, is most widely accepted, and most clearly conveys market pricing information. Holding the scarcest money is the most energy-efficient strategy a player can employ.
 
 ## Bitcoin has no intrinsic value
 
@@ -418,6 +432,8 @@ Bitcoin is going after the "store of value" total addressable market (TAM) which
 * Fine Art/collectibles ($20T)
 
 [Compiled by Brandon Quittem](https://twitter.com/Bquittem/status/1365122245895483394?s=20)
+
+It's difficult the average person to dismiss Bitcoin's price is driven purely by emotions. 
 
 My base scenario is that Bitcoin peaks at US$400k, crashes to US$100k, and goes sideways for 2 years around $200-$300k. Then in 2025-26, after the next halving, I expect Bitcoin to hover around US$5 million and achieve hyperbitcoinization.
 
