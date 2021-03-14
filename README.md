@@ -79,10 +79,25 @@ We have "crypto enablement" which consists of centralized and regulated entities
 
 # Why does Bitcoin exist?
 
-Bitcoin is digital money that preserves its value across space and time. This contrasts with gold and fiat money. Gold is difficult to transport over space and difficult to verify its authenticity. Fiat loses value over time because central banks have a history of losing their independence and debasing their currency.
+Bitcoin is digital money that preserves its value across space and time. This contrasts with gold and fiat money. Gold is difficult to transport over space and difficult to verify its authenticity. Fiat loses value over time because central banks have a history of losing their independence and debasing their currency. This makes Bitcoin a superior form of money compared with gold and fiat. The Bitcoin network cannot be corrupted without utilizing more energy than an entire country. Also, the blockchain is publicly visible to everyone across the world, and network participants are immediately alerted to any major discrepancies.
 
-The Bitcoin supply curve looks like the inverse of the M2 money supply curve.
+The Bitcoin supply curve looks like the inverse of the M2 money supply curve. As of March 2021, 18.6 million bitcoins have been mined. The maximum bitcoins that will ever be mined is 21 million. The only way bitcoins are created is through mining new blocks. When a new block is mined, the miner is rewarded with new bitcoins. As of May 2020, each block would reward the miner with 6.25 bitcoins. This reward will be halved to 3.125 bitcoins after the next 210,000 blocks are mined.
+
+It takes on average 10 minutes to mine a single block, which means it takes on average 4 years to mine 210,000 blocks. This means every 4 years, the block reward is halved. In monetary terms, we can say the inflation rate is halved every 4 years.
+
 ![](images/bitcoin-inflation-vs-time.png)
+
+In 2020, the inflation rate of Bitcoin is 1.74%. In 2024, the inflation rate will be 0.82, and so on, until the last fraction of bitcoin is mined in 2140. A bitcoin can only be divided into 8 decimal places, or 100 million satoshis which are the smallest unit of bitcoin. This is what we mean when we say no more Bitcoin is mined. We've mined all the satoshis.
+
+![](images/bitcoin-supply-forecast-2008.png)
+
+The monetary policy of Bitcoin cannot be changed without the agreement of all network participants. Let's say you want to change the rules in the Bitcoin software, such as removing the block reward halving, or increasing the size of each block. You would need to copy the Bitcoin source code, change it, and run the software. Let's call it Shitcoin. Any transaction that your Shitcoin software validates will be rejected by the rest of the Bitcoin network, because it uses different rules. You would be the only Shitcoin miner, which makes youre Shitcoin network vulnerable to attacks if someone else decides to mine Shitcoins as well and have more computing power than you. Assuming the Shitcoin network did not get attacked, then you need to convince all the Bitcoin investors to sell Bitcoin and buy Shitcoin. You might be partially successful, in that Shitcoin takes 1% market share of Bitcoin. But this method of forking Bitcoin has been attempted many times in the past and has failed. The list of Bitcoin hard forks include Bitcoin Cash, Bitcoin Gold, Bitcoin SV, Bitcoin XT, Bitcoin Classic and Bitcoin Unlimited. All of these forks either disappeared or only took a small fraction of Bitcoin's market share.
+
+The Bitcoin network is a peer to peer network (P2P) or a decentralised network with no central point of failure or command. All the nodes, or computers, that participate in the network are equal – there is no hierarchy – or no topology as the network is flat. This makes the network resilient, if not anti-fragile.
+
+This is in stark contrast to monetary socialism, where central banks control monetary policy, and often lose their independence and become a political tool for governments. This results in large amounts of "misallocations" of capital and resources, which distort asset prices, which makes the economy more fragile.
+
+![](images/fragile-anti-fragile-structure-diagram.png)
 
 ## Bitcoin is a lifeboat
 
