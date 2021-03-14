@@ -5,7 +5,7 @@ This is a quick reference guide for crypto investors. I've prepared this guide t
 ## Contents
 * [The traditional financial system](#The-traditional-financial-system)
 * [The decentralized financial system](#The-decentralized-financial-system)
-* [Why does Bitcoin exist?](#Why-does-Bitcoin-exist?)
+* [Why does Bitcoin exist](#Why-does-Bitcoin-exist)
 * [Common misconceptions about Bitcoin](#Common-misconceptions-about-Bitcoin)
 * [Converting Fiat to Bitcoin](#Converting-Fiat-to-Bitcoin)
 * [Crypto-to-Crypto Decentralized Exchanges](#Crypto-to-Crypto-Decentralized-Exchanges)
