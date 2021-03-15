@@ -476,7 +476,7 @@ Are on-chain metrics indicating confidence in the project?
 
 # Bitcoin Price Forecast
 
-Bitcoin has a 4 year halving cycle, with 2 years of bull market and 2 years of bear market. As with any asset class, it is not immune to speculative mania and leverage, which causes the its price to overextend before a steep correction.
+Bitcoin has a 4 year halving cycle, with 1-2 years of bull market and 2-3 years of bear market. As with any asset class, it is not immune to speculative mania and leverage, which causes the its price to overextend before a steep correction.
 
 The Stock-To-Flow (S2F) ratio provides a fundamental basis in which to value Bitcoin.
 
@@ -523,9 +523,9 @@ In the linear chart below, Bitcoin looks like a bubble about to crash.
 
 ![](images/btcusd-linear-20210314.png)
 
-But in a log chart, each unit in the Y axis is proportion to the percentage change in the asset. So, instead of each unit of the axis representing $4,000, it represents a percentage increase from the previous price point. in the chart below, this is a 50-60% increase. In Plan B's S2FX model, each Y-axis unit represents a 900% increase (which is 10x the previous price).
+But in a log chart, each unit in the Y axis is proportional to the percentage change in the asset. So, instead of each unit of the axis representing $4,000, it represents a percentage increase from the previous price point. in the chart below, this is a 50-60% increase. In Plan B's S2FX model, each Y-axis unit represents a 900% increase (which is 10x the previous price).
 
-You can see clearly on the log chart that Bitcoin has trending upwards and has 4 year cycles. The price increases about 100x from the bottom to the top, and decreases 80% from the top to the next bottom. This correlates closely with Bitcoin's pre-programmed halving event every 210,000 blocks (which is on average 4 years).
+You can see clearly on the log chart that Bitcoin is trending upwards and has 4 year cycles. The price increases about 100x from the bottom to the top, and decreases 80% from the top to the next bottom. This correlates closely with Bitcoin's pre-programmed halving event every 210,000 blocks (which is on average 4 years).
 
 ![](images/btcusd-log-20200314.png)
 
