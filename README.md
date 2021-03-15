@@ -274,8 +274,6 @@ You cannot build a decentralised culture with code or with a worshipped leader. 
 
 ## Bitcoin does not scale and transaction fees will be too expensive
 
-## When all 21M bitcoins are mined, the network will collapse
-
 ## Bitcoin might have undiscovered vulnerabilities which can cause catastrophic failure
 
 Bitcoin is 40 years in the making, and has been running live since January 2009 with no downtime.
@@ -443,6 +441,8 @@ I occassionally trade a small amount of "questionable" coins, which Bitcoin maxi
 [Bybit](https://www.bybit.com/en-US/) - Futures Trading for BTC, ETH, LINK, XTZ, LTC and other cryptos.
 
 # Project Evaluation
+
+When evaluating how much to invest in an altcoin project, you should ask yourself the following questions:
 
 Is the product already working?
 
