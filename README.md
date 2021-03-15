@@ -474,6 +474,8 @@ Are on-chain metrics indicating confidence in the project?
 
 [Bitcoinity](https://data.bitcoinity.org/) - Bitcoin blockchain and market data.
 
+[Digitalik](https://digitalik.net/btc/) - Bitcoin stock to flow model live chart.
+
 # Bitcoin Price Forecast
 
 Bitcoin has a 4 year halving cycle, with 1-2 years of bull market and 2-3 years of bear market. As with any asset class, it is not immune to speculative mania and leverage, which causes the its price to overextend before a steep correction.
@@ -539,7 +541,7 @@ Secondly, you can use ["dollar cost averaging"](https://dcabtc.com/) when determ
 
 # Crypto Influencers
 
-The majority of the crypto community discourse happens on Twitter, also known as Crypto Twitter (CT). It was started by Hal Finney [@halfin](https://twitter.com/halfin) when he first began running his Bitcoin node in January 2009.
+The majority of the crypto community discussion happens on Twitter, also known as Crypto Twitter (CT). It was started by Hal Finney [@halfin](https://twitter.com/halfin) when he first began running his Bitcoin node in January 2009.
 
 ![](images/halfin-running-bitcoin.png)
 
