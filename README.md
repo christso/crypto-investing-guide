@@ -403,7 +403,7 @@ On-chain staking:
 
 ## Portfolio Allocation
 
-This is my portfolio allocation. I hold the majority in Bitcoin. I would only buy other coins if they are likely to outperform Bitcoin.
+This is my portfolio allocation. I hold the majority in Bitcoin. I would only buy other coins if they are likely to outperform Bitcoin. If I don't have a percentage for a coin, it might still comprise over 10% of my portfolio, but only for a short period of time such as 1-2 months.
 
 * Bitcoin (BTC) = 70% to 100%
 * Ethereum (ETH) <= 30%
@@ -411,10 +411,10 @@ This is my portfolio allocation. I hold the majority in Bitcoin. I would only bu
 * 0x (ZRX) <= 5%
 * Secret (SCRT) <= 5%
 * Storj (STORJ) <= 5%
-* POWR <= 2%
-* LINK <= 2%
-* DOT <= 2%
-* MANA <= 1%
+* Power Ledger (POWR) <= 2%
+* Chainlink (LINK) <= 2%
+* Polkadot (DOT) <= 2%
+* Decentraland (MANA) <= 1%
 * Band Protocol (BAND)
 * Bancor (BNT)
 * yearn.finance (YFI)
