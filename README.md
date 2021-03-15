@@ -22,6 +22,7 @@ If you would like to request any changes to the document, please go to [Issues](
 * [Lending and Staking](#Lending-and-Staking)
 * [Altcoin Investing](#Altcoin-Investing)
 * [Project Evaluation](#Project-Evaluation)
+* [Data Analysis Tools](#Data-Analysis-Tools)
 * [Bitcoin Price Forecast](#Bitcoin-Price-Forecast)
 * [What price to buy Bitcoin and what amount?](#What-price-to-buy-Bitcoin-and-what-amount)
 * [Crypto Influencers](#Crypto-Influencers)
