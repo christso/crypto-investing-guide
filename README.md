@@ -360,13 +360,15 @@ If your hardware wallet is lost or broken, you can restore access to all your cr
 
 [What are cryptocurrency custody solutions - Investopedia](https://www.investopedia.com/news/what-are-cryptocurrency-custody-solutions/)
 
-If you are an insitutional investor who does not want to deal with the complexities of self-custody, you can use a regulated custodian.
+If you are a high net worth investor who does not want to deal with the complexities of self-custody, you can use a regulated custodian.
 
 [Coinbase](https://custody.coinbase.com/)
 
 [NYDIG](https://nydig.com/)
 
 [Independent Reserve](https://www.independentreserve.com/products/high-net-worth)
+
+[Unchained Capital](https://unchained-capital.com/) - Bitcoin multisig collaborative custody and lending. You can borrow dollars at 2:1 dollar-to-Bitcoin collateralized.
 
 # Bitcoin Lightning Wallets
 
