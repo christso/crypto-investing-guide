@@ -368,6 +368,8 @@ If you are a high net worth investor who does not want to deal with the complexi
 
 [Independent Reserve](https://www.independentreserve.com/products/high-net-worth)
 
+If you want to best of both worlds, you can use a collaborative custody solution where you still hold one of the keys.
+
 [Unchained Capital](https://unchained-capital.com/) - Bitcoin multisig collaborative custody and lending. You can borrow dollars at 2:1 dollar-to-Bitcoin collateralized.
 
 # Bitcoin Lightning Wallets
