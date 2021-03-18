@@ -306,7 +306,7 @@ Regulated Fiat/Crypto Exchanges
 
 P2P non-KYC/AML Fiat/Crypto Exchanges
 * [Bisq](https://bisq.network/)
-* [Hodl Hodl](https://www.hodlhodl.com/)
+* [Hodl Hodl](https://www.hodlhodl.com/) - this is also a P2P lending platform which uses a 2-3 multi-sig escrow that holds the collateral.
 
 # Crypto-to-Crypto Decentralized Exchanges
 
