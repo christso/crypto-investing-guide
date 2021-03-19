@@ -1,10 +1,12 @@
 # CRYPTO INVESTING GUIDE
 
-This is a quick reference guide for crypto investors. I've prepared this guide to help educate my friends about how the financial system is evolving, so they can use this knowledge to protect their wealth. The financial system is changing rapidly since 2016, and it's difficult to keep pace. I will continue to update this guide with my learnings. You will still need to do your own research (DYOR) as this guide is intended to point you to the source of information, rather than be your primary source of information.
+This is a quick reference guide for crypto investors. I've prepared this guide to help educate my friends about how the financial system is evolving, so they can use this knowledge to protect their wealth. The financial system is changing rapidly since 2016, and it's difficult to keep pace. I will continue to update this guide with my learnings. You will still need to do your own research (DYOR) as this guide is intended to point you to the source of information, rather than be your primary source of information. 
 
 If you would like to discuss anything crypto-related, please go to [Discussions](https://github.com/christso/crypto-investing-guide/discussions/).
 
 If you would like to request any changes to the document, please go to [Issues](https://github.com/christso/crypto-investing-guide/issues) and create an issue.
+
+You can follow me on Twitter [@christso](https://twitter.com/christso) for real time updates.
 
 ## Contents
 * [The traditional financial system](#The-traditional-financial-system)
@@ -186,7 +188,9 @@ In block 674570, the difficulty was 21.4 trillion, and a nonce of 560,033,564 wa
 
 It's important to understand the common misconceptions about Bitcoin, as these are what drives a lot of the FUD (fear, uncertainty and doubt) in mainstream media, which causes uninformed investors to sell their Bitcoin at a steep discount, and avoid Bitcoin until the end of the bull run when those investors are optimistic again and end up buying at a too high price. Following mainstream media is the quickest way to lose money.
 
-All of the misconceptions have been debunked either through common sense, or directly by people such as Lyn Alden's newsletter - [7 Misconceptions About Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/).
+All of the misconceptions have been debunked either through common sense, or directly by people such as:
+* [7 Misconceptions About Bitcoin - Lyn Alden](https://www.lynalden.com/misconceptions-about-bitcoin/).
+* [Bitcoin Mythology - Square Crypto](https://bitcoinmythology.org/)
 
 ## Bitcoin uses too much energy
 
@@ -430,7 +434,7 @@ This is my portfolio allocation. I hold the majority in Bitcoin. I would only bu
 * Polkadot (DOT)
 * Binance Coin (BNB) - fuel for Binance Smart Chain (BSC)
 
-I occassionally trade a small amount of "questionable" coins, which Bitcoin maxis commonly refer to as "shitcoins". I do not recommend holding these coins for longer than a month or holding any amount that you cannot afford to lose completely. The price is driven mostly by speculation and marketing rather than any working decentralized product. However, sometimes technological progress follows after speculation, so it's still worth keeping an eye on shitcoins. Also, the growth of shitcoins are a good indicator of new retail investors entering the market.
+You might be attracted to trading some "questionable" coins, which Bitcoin maxis commonly refer to as "shitcoins". I do not recommend holding these coins for longer than a month or holding any amount that you cannot afford to lose completely. The price is driven mostly by speculation and does not satisify the [project evaluation criteria](#Project-Evaluation). The growth of shitcoins are a good indicator of new retail investors entering the market.
 
 * Dogecoin (DOGE)
 * Litecoin (LTC)
