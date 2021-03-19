@@ -412,7 +412,7 @@ On-chain staking:
 
 ## Portfolio Allocation
 
-This is my portfolio allocation. I hold the majority in Bitcoin. I would only buy other coins if they are likely to outperform Bitcoin. If I don't have a percentage for a coin, it might still comprise over 10% of my portfolio, but only for a short period of time such as 1-2 months.
+This is my portfolio allocation. I hold the majority in Bitcoin. I would only buy other coins if they are likely to outperform Bitcoin. If I don't have a percentage for a coin, it might still comprise over 10% of my portfolio, but only for a couple of months.
 
 * Bitcoin (BTC) = 70% to 100%
 * Ethereum (ETH) <= 30%
