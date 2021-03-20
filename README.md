@@ -425,6 +425,7 @@ This is my portfolio allocation. I hold the majority in Bitcoin. I would only ho
 * Power Ledger (POWR) <= 2%
 * Chainlink (LINK) <= 2%
 * Decentraland (MANA) <= 1%
+* Golem (GLM)
 * Band Protocol (BAND)
 * Bancor (BNT)
 * yearn.finance (YFI)
