@@ -414,7 +414,7 @@ On-chain staking:
 
 ## Portfolio Allocation
 
-This is my portfolio allocation. I hold the majority in Bitcoin. I would only buy other coins if they are likely to outperform Bitcoin. If I don't have a percentage for a coin, it might still comprise over 10% of my portfolio, but only for a couple of months.
+This is my portfolio allocation. I hold the majority in Bitcoin. I would only hold other coins if they are likely to outperform Bitcoin. If I don't have a percentage for a coin, it might still comprise over 10% of my portfolio, but only for a couple of months.
 
 * Bitcoin (BTC) = 70% to 100%
 * Ethereum (ETH) <= 30%
@@ -424,7 +424,6 @@ This is my portfolio allocation. I hold the majority in Bitcoin. I would only bu
 * Storj (STORJ) <= 5%
 * Power Ledger (POWR) <= 2%
 * Chainlink (LINK) <= 2%
-* Polkadot (DOT) <= 2%
 * Decentraland (MANA) <= 1%
 * Band Protocol (BAND)
 * Bancor (BNT)
@@ -436,7 +435,7 @@ This is my portfolio allocation. I hold the majority in Bitcoin. I would only bu
 * Polkadot (DOT)
 * Binance Coin (BNB) - fuel for Binance Smart Chain (BSC)
 
-You might be attracted to trading some "questionable" coins, which Bitcoin maxis commonly refer to as "shitcoins". I do not recommend holding these coins for longer than a month or holding any amount that you cannot afford to lose completely. The price is driven mostly by speculation and does not satisify the [project evaluation criteria](#Project-Evaluation). The growth of shitcoins are a good indicator of new retail investors entering the market.
+You might be attracted to trading some "questionable" altcoins, which Bitcoin maxis commonly refer to as "shitcoins". I do not recommend holding these coins for longer than a month or holding any amount that you cannot afford to lose completely. The price is driven mostly by speculation, do not yet have enough traction, and do not satisfy the [project evaluation criteria](#Project-Evaluation). The price growth of altcoins are a good indicator of new retail investors entering the market who believe they missed out on BTC, so they buy "cheaper" coins.
 
 * Dogecoin (DOGE)
 * Litecoin (LTC)
