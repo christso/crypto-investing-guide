@@ -344,6 +344,8 @@ These software wallets can also connect to your hardware wallet.
 
 [Electrum](https://electrum.org/) - Bitcoin wallet which connects to the Electrum node.
 
+[Umbrel](https://getumbrel.com/) - Run your personal Bitcoin and Lightning Network node.
+
 # Seed Backup Solutions
 
 Please do not store your seed on any device that may connect to the Internet, even if your file is encrypted. If anyone else knows your seed, then they can access all your crypto wallets that were generated from that seed. I recommend backing up your seed offline in a secure medium.
