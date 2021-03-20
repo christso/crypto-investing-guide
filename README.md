@@ -438,12 +438,12 @@ This is my portfolio allocation. I hold the majority in Bitcoin. I would only ho
 
 You might be attracted to trading some "questionable" altcoins, which Bitcoin maxis commonly refer to as "shitcoins". I do not recommend holding these coins for longer than a month or holding any amount that you cannot afford to lose completely. The price is driven mostly by speculation, do not yet have enough traction, and do not satisfy the [project evaluation criteria](#Project-Evaluation). The price growth of altcoins are a good indicator of new retail investors entering the market who believe they missed out on BTC, so they buy "cheaper" coins.
 
-* Dogecoin (DOGE)
-* Litecoin (LTC)
-* Cardano (ADA)
-* Hedera Hashgraph (HBAR)
-* Nano (NANO)
-* Ripple (XRP)
+* Dogecoin (DOGE) - fork of BTC, created as a joke, no USP, very little development
+* Litecoin (LTC) - fork of BTC
+* Cardano (ADA) - competes with ETH, not open source, lack of decentralization.
+* Hedera Hashgraph (HBAR) - lack of decentralization, and competes with BTC and ETH.
+* Nano (NANO) - competes with BTC.
+* Ripple (XRP) - lack of decentralization
 
 # Crypto Derivatives Trading Platforms
 
