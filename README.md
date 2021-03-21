@@ -123,6 +123,9 @@ Bitcoin is used as a "lifeboat" by people to escape from the fiat system which i
 
 ![](images/bitcoin-lifeboat.jpg)
 
+CMS Intern explains it with a video meme using Noah's Ark as the allegory:
+[@CMS Intern - The Great USD Flood](https://twitter.com/cmsintern/status/1372256950730170375)
+
 If Bitcoin acts like a lifeboat, then national currencies act like a cruise ship. Think of yourself as being on one of these big cruise ships. You're noticing an increasing number of people congregating around lifeboats and some are even jumping into one and never returning. Then suddenly, the captain central banker announces, "Please return to your cabins! The ship is not sinking. We have everything under control and the 2% angle of the decks is not only normal, but necessary for growth and forward movement.".
 
 However, you notice that sometimes the angle increases even further. You're even hearing the same kind of messages from other ships too because they're all sinking. The captain of the Indian ship is saying "a 25% deck angle is perfectly normal". The captain of the Venezuelan ship is saying "a 98% angle is perfectly normal". The captain says that lifeboats are dangerous, only pirates use lifeboats, lifeboats are unstable and not backed by anything, they have no crew and no captain, etc. The captain wants you to not focus on the sinking ship, and instead focus on how deficient the lifeboats are, and will discourage you from using lifeboats.
