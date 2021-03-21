@@ -489,6 +489,8 @@ Are on-chain metrics indicating confidence in the project?
 
 [Blockchain.com](https://www.blockchain.com/explorer) - Bitcoin and Ethereum blockchain explorer.
 
+[Look Into Bitcoin](https://www.lookintobitcoin.com/) - Bitcoin market cycle and on-chain data.
+
 [Bitcoinity](https://data.bitcoinity.org/) - Bitcoin blockchain and market data.
 
 [Digitalik](https://digitalik.net/btc/) - Bitcoin stock to flow model live chart.
@@ -535,7 +537,7 @@ The other outcome (but unlikely until 2027) is we achieve "hyperbitcoinization" 
 
 [Hyperbitcoinization - The path to becoming the world’s dominant form of money](https://www.bitrawr.com/hyperbitcoinization).
 
-It's good to monitor on-chain metrics such as Reserve Risk to confirm where we are in the market cycle.
+It's good to monitor on-chain metrics such as [Reserve Risk](https://www.lookintobitcoin.com/charts/reserve-risk/) to confirm where we are in the market cycle.
 > The last time we had a bull run and Reserve Risk was around this level, BTC was trading around $4k. Seemed crazy at the time. The price went on to push up another 4x when Reserve Risk topped out. If that happened again, we have BTC trading over $200k this year.
 
 -- [@hansthered](https://twitter.com/hansthered), 2021-03-21
