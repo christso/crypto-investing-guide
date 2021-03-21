@@ -32,6 +32,8 @@ You can follow me on Twitter [@christso](https://twitter.com/christso) for real 
 
 # The traditional financial system
 
+If you want to understand why Bitcoin and crypto exists, you need to understand the existing monetary system. Bitcoin was created because of the root problem with conventional currency - all the trust that's required to make it work. But the history of fiat currencies is full of breaches of that trust.
+
 M2 money supply historically has increased around 6% per year, until 2020 when the growth rate was at 23%. Assuming the money supply continues to increase by 20% over the next 10 years, your real wealth (purchasing power) would reduce by 90%, even though the dollar value in your bank account remains the same. The inflation rate is usually higher near the end of the long term debt cycle, which is where we are now. If by some miracle that we revert to 6% inflation per year, your wealth should reduce by around 50% in 10 years.
 
 ![](images/fed-m2-money-stock-20210312.png)
@@ -41,8 +43,8 @@ Lyn Alden provides a good explanation of inflation - [November 2020 Newsletter: 
 The CPI is usually kept below 3% per year because because the way that CPI is reported was changed since the early-1980's. Instead of measuring the cost of maintaining a constant standard of living, we now measure the cost of maintaining a constant level of satisfaction.
 
 There are several ways that CPI can be suppressed using the "constant level of satisfication" measurement method:
-* Reduce your requirements for achieving the same level of satisfaction. For example, previously you might be satisifed with living in a spacious double brick house. Now, you're just as satisified living in a one bedroom apartment, or an old house made of weatherboard. In future, you might be satisified living in a studio apartment made of 3d-printed plastic. Another example is reducing the size of a can of baked beans, replacing organic chicken with processed chicken, increasing the gap between each triangle in your Tobleron chocolate bar, or reducing the number of sultanas in your Sultana Bran cereal.
-* Improvements in technology and infrastructure. For example, replacing naturally grown meat with mass-produced 3d printed meat. This is why most electronic devices reduce in price, or maintains the same price. However, I remember spending $300 on a good set of speakers over a decade ago, and to get the same quality of sound, it's still the same price but the speaker is half the size. I also have a Lenovo laptop which I bought 3 years ago, and the price is still similar but the laptop is slimmer and lighter. I remember 10+ years ago, I would buy a new computer every 1-2 years because it would be much better than the previous one. Today, it seems that there's less technological breakthroughs other than the size of the devices, and moving computing into the cloud due to a better Internet connection.
+* Reduce your requirements for achieving the same level of satisfaction. For example, previously you might be satisifed with living in a spacious double brick house. Now, you're just as satisified living in a one bedroom apartment, or an old house made of weatherboard. In future, you might be satisified living in a studio apartment made of 3d-printed plastic.
+* Improvements in technology and infrastructure. For example, replacing naturally grown meat with mass-produced 3d printed meat. This is why most electronic devices reduce in price, or maintains the same price.
 
 However, while you can suppress CPI, it's difficult to suppress asset prices. Improvements in technology and infrastructure, such as faster Internet speeds, better transport, better manufacturing processes, all get capitalised into the price of land, businesses and other assets. The CPI would begin increasing when people's minimum levels of satisfaction cannot be reduced any further, or technogical improvements cannot keep pace with the money supply growth.
 
@@ -98,6 +100,24 @@ We have "crypto enablement" which consists of centralized and regulated entities
 # Why does Bitcoin exist?
 
 Bitcoin is digital money that preserves its value across space and time. This contrasts with gold and fiat money. Gold is difficult to transport over space and difficult to verify its authenticity. Fiat loses value over time because central banks have a history of losing their independence and debasing their currency. This makes Bitcoin a superior form of money compared with gold and fiat. The Bitcoin network cannot be corrupted without utilizing more energy than an entire country. Also, the blockchain is publicly visible to everyone across the world, and network participants are immediately alerted to any major discrepancies.
+
+[Satoshi Nakamoto, on 2009-02-11](https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/threads/1/) explains why he developed Bitcoin.
+
+> I've developed a new open source P2P e-cash system called Bitcoin. It's completely decentralized, with no central server or trusted parties, because everything is based on crypto proof instead of trust. Give it a try, or take a look at the screenshots and design paper:
+>
+> Download Bitcoin v0.1 at http://www.bitcoin.org
+>
+>The root problem with conventional currency is all the trust that's required to make it work. The central bank must be trusted not to debase the currency, but the history of fiat currencies is full of breaches of that trust. Banks must be trusted to hold our money and transfer it electronically, but they lend it out in waves of credit bubbles with barely a fraction in reserve. We have to trust them with our privacy, trust them not to let identity thieves drain our accounts. Their massive overhead costs make micropayments impossible.
+>
+>A generation ago, multi-user time-sharing computer systems had a similar problem. Before strong encryption, users had to rely on password protection to secure their files, placing trust in the system administrator to keep their information private. Privacy could always be overridden by the admin based on his judgment call weighing the principle of privacy against other concerns, or at the behest of his superiors. Then strong encryption became available to the masses, and trust was no longer required. Data could be secured in a way that was physically impossible for others to access, no matter for what reason, no matter how good the excuse, no matter what.
+>
+>It's time we had the same thing for money. With e-currency based on cryptographic proof, without the need to trust a third party middleman, money can be secure and transactions effortless.
+>
+>One of the fundamental building blocks for such a system is digital signatures. A digital coin contains the public key of its owner. To transfer it, the owner signs the coin together with the public key of the next owner. Anyone can check the signatures to verify the chain of ownership. It works well to secure ownership, but leaves one big problem unsolved: double-spending. Any owner could try to re-spend an already spent coin by signing it again to another owner. The usual solution is for a trusted company with a central database to check for double-spending, but that just gets back to the trust model. In its central position, the company can override the users, and the fees needed to support the company make micropayments impractical.
+>
+>Bitcoin's solution is to use a peer-to-peer network to check for double-spending. In a nutshell, the network works like a distributed timestamp server, stamping the first transaction to spend a coin. It takes advantage of the nature of information being easy to spread but hard to stifle. For details on how it works, see the design paper at http://www.bitcoin.org/bitcoin.pdf
+>
+>The result is a distributed system with no single point of failure. Users hold the crypto keys to their own money and transact directly with each other, with the help of the P2P network to check for double-spending.
 
 The Bitcoin supply curve looks like the inverse of the M2 money supply curve. As of March 2021, 18.6 million bitcoins have been mined. The maximum bitcoins that will ever be mined is 21 million. The only way bitcoins are created is through mining new blocks. When a new block is mined, the miner is rewarded with new bitcoins. As of May 2020, each block would reward the miner with 6.25 bitcoins. This reward will be halved to 3.125 bitcoins after the next 210,000 blocks are mined.
 
