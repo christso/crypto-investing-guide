@@ -501,7 +501,7 @@ The Stock-To-Flow (S2F) ratio provides a fundamental basis in which to value Bit
 
 [Money, Bitcoin and Time: Part 1 of 3](https://breedlove22.medium.com/money-bitcoin-and-time-part-1-of-3-b4f6bb036c04) explains S2F in terms of "hard" and "soft" money.
 
-Hard money is more trustworthy as a store of value precisely because it resists intentional debasements of its value by others and therefore maintains salability across time. The hardness of a monetary good, also known as its soundness, is determined by the stock-to-flow ratio:
+Hard money is more trustworthy as a store of value precisely because it resists intentional debasements of its value by others and therefore maintains salability across time. The hardness of a monetary good, also known as its soundness, is measured by the stock-to-flow ratio:
 
 * 'Stock' is the existing supply of monetary units
 * 'Flow' is the newly created supply over a specified time period, usually one year
@@ -532,6 +532,14 @@ The other outcome (but unlikely until 2027) is we achieve "hyperbitcoinization" 
 
 [Hyperbitcoinization - The path to becoming the world’s dominant form of money](https://www.bitrawr.com/hyperbitcoinization).
 
+It's good to monitor on-chain metrics such as Reserve Risk to confirm where we are in the market cycle.
+> The last time we had a bull run and Reserve Risk was around this level, BTC was trading around $4k. Seemed crazy at the time. The price went on to push up another 4x when Reserve Risk topped out. If that happened again, we have BTC trading over $200k this year.
+
+-- [@hansthered](https://twitter.com/hansthered), 2021-03-21
+
+![](images/reserve-risk-20210321.jfif)
+
+
 # What price to buy Bitcoin and what amount?
 
 "Linear price charts will fool people (w/out a background), into thinking the price move is emotional. It's not, it's a mathematical supply suffocation provided by the protocol."
@@ -558,6 +566,8 @@ First, decide how much of your savings that you can afford to hold for at least 
 Secondly, you can use ["dollar cost averaging"](https://dcabtc.com/) when determining when to buy and the amount of Bitcoin to buy each time. This is because no one can perfectly time the market. This minimises your risk of buying at the market top, since your purchase price will be the average of all the prices you bought Bitcoin over a period of time. In a bull market (e.g. first half of the cycle), you can be more aggressive and buy your initial budget (e.g. 10% of your wealth) within 4 weeks. In a sideways or bear market, there's no rush to buy, so you can buy over 24 months.
 
 Then once you have accumulated your initial budget, you can continue to accumulate more patiently. You can place buy orders when the price is close to the 10 period exponential moving average (EMA) or whenever the price has a 10-30% correction, while maintaining it's upward trend on a longer term time scale. For example, when the price is dipped by 10-30% and now touching the 10 EMA on a daily chart (i.e. 10 day), and is still above 10 EMA on a weekly chart (10 week), it would be a good buy signal. If you want to learn more about price action, you can search for "technical analysis", "trend following", "momentum trading" or "mean reversion trading".
+
+If you have over 50% of your wealth in Bitcoin and crypto near the end of the bull market, it might be worth taking profits (selling) at $200k-$700k, especially if you've bought at a price above $100k. Then buy back at a lower price when the risk of unrealised losses is much lower. This will depend on your financial and tax situation. If you don't need to pay much capital gains tax or you need to the cash, then it might be worth selling 10-50% of your holdings. However, it's difficult to time the exact market top, and there is a risk that you will regret selling too early and buying back at a higher price. Just be aware that your primary goal should be risk minimisation, not profit maximisation.
 
 # Crypto Influencers
 
