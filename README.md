@@ -63,7 +63,7 @@ I predict that by 2030:
 * The global monetary system will be completely reset, after continued devaluations of fiat currencies around the world.
 * The U.S. dollar will either lose its status as a global reserve currency, and/or transform into a different type of currency, such as one backed by gold, commodities, Bitcoin and crypto.
 * Bitcoin will be used as a store of value (like gold), and a global settlement network (like FedWire, SWIFT and CHIPS) for most large transactions between untrusted parties. The world will be on a "Bitcoin Standard".
-* Most Western democracies will no longer pretend to be a democracy, and will openly embrace socialism. I expect most national governments including the U.S. government will adopt similar social and economic policies that China has already adopted.
+* Most Western democracies will no longer pretend to be a democracy, and will openly embrace socialism. I expect most national governments including the U.S. government will adopt similar social and economic policies that China has already adopted. The people will support socialism because of ongoing stimulus checks and eventually universal basic income.
 * Physical cash will be replaced by CBDCs (central bank digital currencies). However, CBDCs will still be inferior to cryptocurrencies, since CBDCs are still fiat currencies but provides even more control to governments over its users.
 * Nations will lose control of some states, and some states will lose control of cities. We've already seen cities pushing for crypto-friendly and free-market policies, which is very different to the policies of national governments. It's likely that these cities will declare independence from any government and we start seeing the disintegration of nation states into a decentralised network of cities. The main struggle will be between centralised entities and decentralised networks, rather than between nations. The "threat" to nation states is no longer another nation, but its own citizens who decide to take the crypto lifeboat and become "sovereign individuals".
 * Housing will become more affordable, and the stock market will return to more reasonable valuations. This is because Bitcoin will be the best store-of-value to protect against inflation. Historically, investors have pushed up the prices of real estate and other higher yielding assets when interest rates were low. Now, investors can simply store their wealth in Bitcoin, and only invest in real estate and the stock market if those assets are likely to offer a higher return than Bitcoin. In other wise, Bitcoin will capture the "monetary premium", the same way that gold captured the monetary premium from "silver", and the silver price dropped to its industrial value.
@@ -87,8 +87,6 @@ You have 2 choices:
 * bailouts and stimulus checks were temporary to help the economy recover.
 * the USA Patriot Act which granted law enforcement wide-reaching surveillance powers was a temporary measure to fight terrorism.
 * the power to declare mandatory lockdowns was a temporary measure to fight COVID.
-
-You choice, along with everyone else, will shape the world our children will live in. It's either going to be a world where people are victims who require ongoing government support, or where people are powerful and governments serve the people, or... a world split into the super-wealthy and the super-poor. Either way, you will be glad you took the lifeboat while everyone was still supporting the sinking ship.
 
 # The decentralized financial system
 
