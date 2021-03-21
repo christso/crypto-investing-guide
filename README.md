@@ -302,11 +302,13 @@ Bitcoin has flourished in countries where it is banned. For example, in Nigeria 
 Regulated Fiat/Crypto Exchanges
 * [Independent Reserve](https://www.independentreserve.com/) - Australian exchange with good SMSF support
 * [BTC Markets](https://www.btcmarkets.net/) - Australian exchange with good SMSF support
-* [Swyftx](https://swyftx.com.au/) - AUD is converted to USD then converted to crypto
 * [Binance](https://www.binance.com/) - the number #1 exchange and evolving into a crypto conglomerate
+* [Coinspot](https://www.coinspot.com.au/) - Australian exchange
+* [Coinjar](https://www.coinjar.com/) - Australian exchange
+* [Swyftx](https://swyftx.com.au/) - Australian broker (note: AUD is converted to USD then converted to crypto)
 * [Kraken](https://www.kraken.com/) - US chartered bank
 * [Bitfinex](https://www.bitfinex.com/) - US-based exchange and issuer of USD Tether
-* [Huobi Australia](https://www.huobi.com.au/)
+* [Huobi Australia](https://www.huobi.com.au/) - Australian exchange
 
 P2P non-KYC/AML Fiat/Crypto Exchanges
 * [Bisq](https://bisq.network/)
@@ -416,34 +418,35 @@ On-chain staking:
 
 This is my portfolio allocation. I hold the majority in Bitcoin. I would only hold other coins if they are likely to outperform Bitcoin. If I don't have a percentage for a coin, it might still comprise over 10% of my portfolio, but only for a couple of months.
 
-* Bitcoin (BTC) = 70% to 100%
-* Ethereum (ETH) <= 30%
-* Enjin (ENJ) <= 10%
-* 0x (ZRX) <= 5%
-* Secret (SCRT) <= 5%
-* Storj (STORJ) <= 5%
-* Power Ledger (POWR) <= 2%
-* Chainlink (LINK) <= 2%
-* Decentraland (MANA) <= 1%
-* Golem (GLM)
-* Band Protocol (BAND)
-* Bancor (BNT)
-* yearn.finance (YFI)
-* Ren (REN)
-* Hegic (HEGIC)
-* Aave (AAVE)
-* Uniswap (UNI)
-* Polkadot (DOT)
-* Binance Coin (BNB) - fuel for Binance Smart Chain (BSC)
+* Bitcoin (BTC) = 70% to 100% - hardest store of value and dominant monetary network.
+* Ethereum (ETH) <= 30% - smart contracts with highest developer mindshare and strong ecosystem
+* Enjin (ENJ) <= 10% - online gaming and NFTs
+* 0x (ZRX) <= 5% - DeFi infrastructure
+* Secret (SCRT) <= 5% - privacy-preserving smart contracts
+* Storj (STORJ) <= 5% - cloud storage
+* Power Ledger (POWR) <= 2% - energy trading
+* Chainlink (LINK) <= 2% - data feeds
+* Decentraland (MANA) <= 1% - online gaming and NFTs
+* Band Protocol (BAND) - DeFi
+* Bancor (BNT) - DeFi
+* yearn.finance (YFI) - DeFi
+* Ren (REN) - DeFi
+* Hegic (HEGIC) - DeFi
+* Aave (AAVE) - DeFi
+* Uniswap (UNI) - DeFi
+* Polkadot (DOT) - smart contracts
+* Origin Protocol (OGN) - e-commerce and NFTs
+* Binance Coin (BNB) - fuel for Binance Smart Chain (BSC), lower fees than ETH for DeFi
+* Golem (GLM) - computing
 
 You might be attracted to trading some "questionable" altcoins, which Bitcoin maxis commonly refer to as "shitcoins". I do not recommend holding these coins for longer than a month or holding any amount that you cannot afford to lose completely. The price is driven mostly by speculation, do not yet have enough traction, and do not satisfy the [project evaluation criteria](#Project-Evaluation). The price growth of altcoins are a good indicator of new retail investors entering the market who believe they missed out on BTC, so they buy "cheaper" coins.
 
-* Dogecoin (DOGE) - fork of BTC, created as a joke, no USP, very little development
+* Hedera Hashgraph (HBAR) - competes with ETH and Bitcoin layer 2
 * Litecoin (LTC) - fork of BTC
 * Cardano (ADA) - competes with ETH, not open source, lack of decentralization.
-* Hedera Hashgraph (HBAR) - lack of decentralization, and competes with BTC and ETH.
-* Nano (NANO) - competes with BTC.
-* Ripple (XRP) - lack of decentralization
+* Dogecoin (DOGE) - fork of BTC, created as a joke, very little development
+* Nano (NANO) - competes with BTC layer 2
+* Ripple (XRP) - competes with BTC layer 2, lacks decentralization
 
 # Crypto Derivatives Trading Platforms
 
@@ -505,7 +508,7 @@ Hard money is more trustworthy as a store of value precisely because it resists 
 * Dividing the stock of a monetary good by its flow equals its stock-to-flow ratio
 * The higher the stock-to-flow ratio, the greater the hardness (or soundness) of money
 
-Taking the growth range of the previous cycles, we can expect the Bitcoin price to peak in mid-2021 at US$387,000, then consolidate around US$286,000.
+Taking the growth range of the previous cycles, we can expect the Bitcoin price to peak in mid-2021 at US$387k (and possibly $700k), then crash to $100k-$200k, then consolidate around US$286k.
 
 ![](images/bitcoin-after-the-3rd-halving.png)
 
@@ -521,7 +524,11 @@ Bitcoin ($1T market value as of March 2021) is going after the "store of value" 
 
 This article explains what is likely to happen at the end of the 2021-2022 bull market: [Don't Get Rekt - The anatomy of the next #Bitcoin bear market - Andy Edstrom (Mar 8, 2021)](https://www.btctimes.com/insight/dont-get-rekt)
 
-The other outcome (but unlikely until 2027) is there is no bear market, and we achieve "hyperbitcoinization" in the current cycle. This involves the majority of corporations holding at least 1% of their cash reserves in Bitcoin instead of bonds and money market funds, traditional infrastructure such as Visa and Mastercard or other provider making it easy for merchants and customers to transact in Bitcoin, and possibly central banks and governments holding and transacting in Bitcoin. This would place the price of one Bitcoin above US$10 million.
+However, 2021 is the year that Bitcoin reached escape velocity with institutions and HNW investors adding Bitcoin to their portfolios, and hitting $1 trillion market cap. This means we may not see the big 80% corrections in the previous cycles.
+
+![](images/coinmetrics-path-50k.jfif)
+
+The other outcome (but unlikely until 2027) is we achieve "hyperbitcoinization" in the current cycle. This involves a number of big corporations holding at least 1% of their cash reserves in Bitcoin, traditional infrastructure such as Visa and Mastercard or other provider making it easy for merchants and customers to transact in Bitcoin, and possibly central banks and governments holding and transacting in Bitcoin. This would place the price of one Bitcoin above US$10 million.
 
 [Hyperbitcoinization - The path to becoming the world’s dominant form of money](https://www.bitrawr.com/hyperbitcoinization).
 
@@ -550,6 +557,8 @@ First, decide how much of your savings that you can afford to hold for at least 
 
 Secondly, you can use ["dollar cost averaging"](https://dcabtc.com/) when determining when to buy and the amount of Bitcoin to buy each time. This is because no one can perfectly time the market. This minimises your risk of buying at the market top, since your purchase price will be the average of all the prices you bought Bitcoin over a period of time. In a bull market (e.g. first half of the cycle), you can be more aggressive and buy your initial budget (e.g. 10% of your wealth) within 4 weeks. In a sideways or bear market, there's no rush to buy, so you can buy over 24 months.
 
+Then once you have accumulated your initial budget, you can continue to accumulate more patiently. You can place buy orders when the price is close to the 10 period exponential moving average (EMA) or whenever the price has a 10-30% correction, while maintaining it's upward trend on a longer term time scale. For example, when the price is dipped by 10-30% and now touching the 10 EMA on a daily chart (i.e. 10 day), and is still above 10 EMA on a weekly chart (10 week), it would be a good buy signal. If you want to learn more about price action, you can search for "technical analysis", "trend following", "momentum trading" or "mean reversion trading".
+
 # Crypto Influencers
 
 The majority of the crypto community discussion happens on Twitter, also known as Crypto Twitter (CT). It was started by Hal Finney [@halfin](https://twitter.com/halfin) when he first began running his Bitcoin node in January 2009.
@@ -557,58 +566,60 @@ The majority of the crypto community discussion happens on Twitter, also known a
 ![](images/halfin-running-bitcoin.png)
 
 Bitcoin:
-* Andreas M. Antonopoulos - [@aantonop](https://twitter.com/aantonop) - Bitcoin expert and author of Mastering Bitcoin.
-* Vijay Boyapati - [@real_vijay](https://twitter.com/real_vijay)
-* Robert Breedlove - [@Breedlove22](https://twitter.com/Breedlove22)
-* Plan B = [@100trillionUSD](https://twitter.com/100trillionUSD)
-* Saifedean Ammous - [@saifedean](https://twitter.com/saifedean)
-* Stephan Livera - [@stephanlivera](https://twitter.com/stephanlivera)
-* Jameson Lopp - [@lopp](https://twitter.com/lopp)
-* [@JeffBooth](https://twitter.com/JeffBooth)
-* [@danheld](https://twitter.com/danheld)
-* [@ecoinometrics](https://twitter.com/ecoinometrics) - data and insights
-* [@matt_odell](https://twitter.com/matt_odell)
-* [@adam3us](https://twitter.com/adam3us)
-* [@PeterMcCormack](https://twitter.com/PeterMcCormack)
-* [@nic__carter](https://twitter.com/nic__carter)
-* [@APompliano](https://twitter.com/APompliano)
-* [@DocumentingBTC](https://twitter.com/DocumentingBTC)
-* [@BTC_Archive](https://twitter.com/BTC_Archive)
-* [@PrestonPysh](https://twitter.com/PrestonPysh)
-* [@BitcoinMagazine](https://twitter.com/BitcoinMagazine)
-* [@maxkeiser](https://twitter.com/maxkeiser)
-* [@coryklippsten](https://twitter.com/coryklippsten)
-* [@alistairmilne](https://twitter.com/alistairmilne)
-* [@CoinCornerDanny](https://twitter.com/CoinCornerDanny)
-* [@_benkaufman](https://twitter.com/_benkaufman)
+* Adam Back, CEO of Blockstream - [@adam3us](https://twitter.com/adam3us)
+* Andreas M. Antonopoulos, Bitcoin expert and author - [@aantonop](https://twitter.com/aantonop)
+* Vijay Boyapati, Austrian economics researcher - [@real_vijay](https://twitter.com/real_vijay)
+* Robert Breedlove, CEO of Parallax Digital - [@Breedlove22](https://twitter.com/Breedlove22)
+* Plan B, Bitcoin quant - [@100trillionUSD](https://twitter.com/100trillionUSD)
+* Saifedean Ammous, Bitcoin economist - [@saifedean](https://twitter.com/saifedean)
+* Stephan Livera, Bitcoin podcaster - [@stephanlivera](https://twitter.com/stephanlivera)
+* Jameson Lopp, Casa Co-founder & CTO - [@lopp](https://twitter.com/lopp)
+* Jeff Both, technology entrepreneur - [@JeffBooth](https://twitter.com/JeffBooth)
+* Dan Held, Head of Growth at Kraken - [@danheld](https://twitter.com/danheld)
+* Ecoinometrics, Bitcoin quant - [@ecoinometrics](https://twitter.com/ecoinometrics) - data and insights
+* Matt Odell, Bitcoin entrepreneur - [@matt_odell](https://twitter.com/matt_odell)
+* Peter McCormack, Bitcoin podcaster - [@PeterMcCormack](https://twitter.com/PeterMcCormack)
+* Nic Carter, Founder of CoinMetrics.io - [@nic__carter](https://twitter.com/nic__carter)
+* Anthony Pompliano, Growth Lead and Investor - [@APompliano](https://twitter.com/APompliano)
+* Preston Pysh, Podcaster - [@PrestonPysh](https://twitter.com/PrestonPysh)
+* Cory Klippensten, Founder of Swan Bitcoin - [@coryklippsten](https://twitter.com/coryklippsten)
+* Documenting Bitcoin - [@DocumentingBTC](https://twitter.com/DocumentingBTC)
+* Bitcoin Archive - [@BTC_Archive](https://twitter.com/BTC_Archive)
+* Bitcoin Magazine - [@BitcoinMagazine](https://twitter.com/BitcoinMagazine)
+* Max Keiser - [@maxkeiser](https://twitter.com/maxkeiser)
+* Alistair Milne - [@alistairmilne](https://twitter.com/alistairmilne)
+* Danny Scott, CEO of CoinCorner - [@CoinCornerDanny](https://twitter.com/CoinCornerDanny)
+* Ben Kaufman, software developer - [@_benkaufman](https://twitter.com/_benkaufman)
 
 Crypto:
-* [@SpartanBlack_1](https://twitter.com/SpartanBlack_1)
-* [@zhusu](https://twitter.com/zhusu)
-* [@Bloqbot](https://twitter.com/Bloqbot)
-* [@glassnode](https://twitter.com/glassnode)
-* [@woonomic](https://twitter.com/woonomic)
-* [@ki_young_ju](https://twitter.com/ki_young_ju)
+* Kelvin Koh, Partner at The Spartan Group - [@SpartanBlack_1](https://twitter.com/SpartanBlack_1)
+* Zhu Su, CEO/CIO at Three Arrows Capital - [@zhusu](https://twitter.com/zhusu)
+* Bloqport - [@Bloqbot](https://twitter.com/Bloqbot)
+* Glassnode - [@glassnode](https://twitter.com/glassnode)
+* Woonomic - [@woonomic](https://twitter.com/woonomic)
+* Ki Young Ju - [@ki_young_ju](https://twitter.com/ki_young_ju)
 
 Corporate and HNW Investors:
 * Tim Draper - venture capitalist - [@TimDraper](https://twitter.com/TimDraper)
 * Stanley Druckenmiller, former Chairman and CEO of Duquesne Family Office
-* Jack Dorsey, CEO of Twitter - [@jack](https://twitter.com/jack)
-* Dan Tapiero, Co-Founder-10T Holdings (2020), DTAP Capital (2004) - [@DTAPCAP](https://twitter.com/DTAPCAP)
 * Michael Saylor, CEO of Microstrategy - [@michael_saylor](https://twitter.com/michael_saylor)
-* Chamath Palihapitiya - [@chamath](https://twitter.com/chamath)
-* Michael Novogratz, CEO of Galaxy Investment Partners - [@novogratz](https://twitter.com/novogratz)
-* Barry Silbert, Founder and CEO of Digital Currency Group - [@BarrySilbert](https://twitter.com/BarrySilbert)
+* Tahinis Restaurants - [@TheRealTahinis](https://twitter.com/TheRealTahinis)
+* Dan Tapiero, Co-Founder-10T Holdings (2020), DTAP Capital (2004) - [@DTAPCAP](https://twitter.com/DTAPCAP)
+* Jack Dorsey, CEO of Twitter - [@jack](https://twitter.com/jack)
 * Tyler Winklevoss, Gemini co-founder - [@tyler](https://twitter.com/tyler)
 * Cameron Winklevoss, Gemini co-founder - [@cameron](https://twitter.com/cameron)
+* Michael Novogratz, CEO of Galaxy Investment Partners - [@novogratz](https://twitter.com/novogratz)
+* Chamath Palihapitiya - [@chamath](https://twitter.com/chamath)
+* Barry Silbert, Founder and CEO of Digital Currency Group - [@BarrySilbert](https://twitter.com/BarrySilbert)
 * Raoul Pal, CEO of RealVision Group - [@RaoulGMI](https://twitter.com/RaoulGMI)
-* Tahinis Restaurants - [@TheRealTahinis](https://twitter.com/TheRealTahinis)
+* Ray Dalio - [@RayDalio](https://twitter.com/RayDalio)
 * Mark Cuban - [@mcuban](https://twitter.com/mcuban)
+* Elon Musk - [@elonmusk](https://twitter.com/elonmusk)
 
 Investing:
-* [@LynAldenContact](https://twitter.com/LynAldenContact)
-* [@GeorgeGammon](https://twitter.com/GeorgeGammon)
-* [@MarkMoss](https://twitter.com/1MarkMoss)
+* Lyn Alden - [@LynAldenContact](https://twitter.com/LynAldenContact)
+* George Gammon - [@GeorgeGammon](https://twitter.com/GeorgeGammon)
+* Mark Moss - [@MarkMoss](https://twitter.com/1MarkMoss)
 
 # Additional Resources
 
