@@ -298,6 +298,8 @@ You cannot build a decentralised culture with code or with a worshipped leader. 
 
 ## Bitcoin's wealth distribution is too concentrated
 
+[Bitcoin’s Distribution was Fair - Dan Held, 2019-01-06](https://www.danheld.com/blog/2019/1/6/bitcoins-distribution-was-fair)
+
 ## Bitcoin does not scale and transaction fees will be too expensive
 
 ## Bitcoin might have undiscovered vulnerabilities which can cause catastrophic failure
@@ -460,7 +462,7 @@ This is my portfolio allocation. I hold the majority in Bitcoin. I would only ho
 * Binance Coin (BNB) - fuel for Binance Smart Chain (BSC), lower fees than ETH for DeFi
 * Golem (GLM) - computing
 
-You might be attracted to trading some "questionable" altcoins, which Bitcoin maxis commonly refer to as "shitcoins". I do not recommend holding these coins for longer than a month or holding any amount that you cannot afford to lose completely. The price is driven mostly by speculation, do not yet have enough traction, and do not satisfy the [project evaluation criteria](#Project-Evaluation). The price growth of altcoins are a good indicator of new retail investors entering the market who believe they missed out on BTC, so they buy "cheaper" coins.
+You might be attracted to trading some "questionable" altcoins, which Bitcoin maxis commonly refer to as "shitcoins". I do not recommend holding these coins for longer than a month or holding any amount that you cannot afford to lose completely. The price is driven mostly by speculation, do not yet have enough traction, and do not satisfy the [project evaluation criteria](#Project-Evaluation). The price growth of shitcoins are a good indicator of new retail investors entering the market who believe they missed out on Bitcoin, so they buy "cheaper" coins that are advertised as "the next Bitcoin" or "the next Ethereum". However Bitcoin has already dominated the store-of-value market, Ethereum has dominated the smart contracts market. It is unlikely that any altcoin will replace Bitcoin or Ethereum. They will need to enter a completely different market, i.e. a "blue ocean".
 
 * Hedera Hashgraph (HBAR) - competes with ETH and Bitcoin layer 2
 * Litecoin (LTC) - fork of BTC
