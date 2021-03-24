@@ -445,9 +445,9 @@ This is my portfolio allocation. I hold the majority in Bitcoin. I would only ho
 * 0x (ZRX) <= 5% - DeFi infrastructure
 * Secret (SCRT) <= 5% - privacy-preserving smart contracts
 * Storj (STORJ) <= 5% - cloud storage
+* Decentraland (MANA) <= 5% - online gaming and NFTs
 * Power Ledger (POWR) <= 2% - energy trading
 * Chainlink (LINK) <= 2% - data feeds
-* Decentraland (MANA) <= 1% - online gaming and NFTs
 * Band Protocol (BAND) - DeFi
 * Bancor (BNT) - DeFi
 * yearn.finance (YFI) - DeFi
