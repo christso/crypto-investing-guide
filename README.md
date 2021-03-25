@@ -241,7 +241,7 @@ Setee is a company controlled by Norway's 2nd richest man, Kjell Inge Røkke. Th
 
 ## Bitcoin has no intrinsic value
 
-The intrinsic value of Bitcoin is a censorship-resistant, self-sovereign way to hold, store and transfer your wealth, without relying on any third party middleman such as banks or nation states. Your wealth is stored in provably scarce units that can only be created with time. It cannot be created out of thin air, from more efficient mining (see "difficulty adjustment") or from new discoveries of deposits (21 million hard cap).
+The intrinsic value of Bitcoin is a censorship-resistant, self-sovereign way to hold, store and transfer your wealth, without relying on any third party middleman such as banks or nation states. Your wealth is stored in provably scarce units that can only be created with time at a diminishing rate until the maximum supply is reached. It cannot be created out of thin air, from more efficient mining (see "difficulty adjustment") or from new discoveries of deposits (due to 21 million hard cap and network effect).
 
 Bitcoin is a digital commodity, as Satoshi envisioned it:
 > As a thought experiment, imagine there was a base metal as scarce as gold but with the following properties:
