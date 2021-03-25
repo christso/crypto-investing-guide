@@ -215,9 +215,18 @@ All of the misconceptions have been debunked either through common sense, or dir
 
 ## Bitcoin uses too much energy
 
-[Bitcoin uses more electricity than Argentina - 9News](https://www.9news.com.au/technology/bitcoin-uses-more-electricity-than-argentina-norway-study-finds/eb51703b-db82-4fd3-ab2a-c79b96523455)
+[Bitcoin uses more electricity than Argentina - 9News](https://www.9news.com.au/technology/bitcoin-uses-more-electricity-than-argentina-norway-study-finds/eb51703b-db82-4fd3-ab2a-c79b96523455) (FUD article)
 
 What the FUD articles assume is that there is zero value in securing a monetary network, and therefore any electricity used for the purpose is wasteful. It also ignores that the majority of Bitcoin mining is being powered by renewal energy or excess energy, and is moving towards that direction.
+
+[Why Bitcoin's energy use is not environmentally harmful, Tomer Strolight](https://tomerstrolight.medium.com/why-bitcoins-energy-use-is-not-environmentally-harmful-6fbba54911ed)
+> Not All Energy Use is Harmful to the Environment.
+> The part of Bitcoin that uses electricity, mining, is an intensely competitive business and by necessity uses the cheapest sources of energy available. A quick Internet search will reveal that the cheapest sources of electricity come from clean energy.
+> Given the incentive to use the cheapest energy, Bitcoin mining migrates towards clean energy, since clean energy is the cheapest source of electricity.
+
+> Bitcoin is a Very Good Use of Energy. Because Bitcoin increases in value over time it incentivizes more saving and reduced spending. Bitcoin stands to correct unnecessary consumption, which includes significant energy misuse and waste.
+
+> Bitcoin Incentivizes the Development of Abundant, Clean Energy. This is a forward looking point. Bitcoin’s energy use actually incentivizes the invention of cheaper ways of generating energy than we now have.
 
 [The Last Word on Bitcoin’s Energy Consumption, Nic Carter](https://www.coindesk.com/the-last-word-on-bitcoins-energy-consumption) explains why Bitcoin consumes so much energy.
 > Part of the reason Bitcoin consumes so much electricity is because China lowered the clearing price of energy by overbuilding hydro capacity due to sloppy central planning. In a non-Bitcoin world, this excess energy would either have been used to smelt aluminum or would simply have been wasted.
@@ -441,6 +450,7 @@ Centralized finance (CeFi) platforms allow people to earn interest with Bitcoin 
 
 Centralized platforms:
 * [BlockFi](https://www.blockfi.com/)
+* [Ledn](https://www.ledn.io/)
 * [Celsius Network](https://celsius.network/)
 * [Nexo Finance](https://nexo.io/)
 * [Binance Earn](https://www.binance.com/en/earn)
