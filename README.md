@@ -261,6 +261,10 @@ Bitcoin is a digital commodity, as Satoshi envisioned it:
 
 [The next Bitcoin? Investors flock to new cryptocurrency 'ADA' - 9News](https://www.9news.com.au/national/bitcoin-news-investors-hunt-for-next-big-cryptocurrency-as-ada-explodes/5cf444f8-c01f-4059-a9a5-ec673d6a6999)
 
+This is called "unit bias". We often get retail investors avoiding Bitcoin because of the hefty tag because one unit costs $1000, or $10,000, or $100,000 depending on which cycle you refer to. People dislike buying fractions of something and prefer to buy whole numbers of something. When you buy 0.01 Bitcoin, you feel unfulfilled. You feel better having 1 whole Bitcoin. However, the unit price of an asset is irrelevant. Bitcoin can be divided into 100 million units (called satoshis) on the base layer, and can be infinitely divided in other layers. If one bitcoin is $100,000, then one satoshi is $0.001, which is very cheap! It's less than one dollar!
+
+What you should be looking at is the market capitalisation of an asset and how is that going to change in future.
+
 ## Bitcoin could dissappear like MySpace
 
 A similar misconception is that "Bitcoin is not scarce. Anyone can create their own cryptocurrency which can potentially replace Bitcoin if the technology is superior."
