@@ -416,6 +416,9 @@ It's ok to store your hardware wallet PIN in your password manager (such as Bitw
 
 If your hardware wallet is lost or broken, you can restore access to all your crypto accounts by entering your 24-word seed and passphrase into the same brand of hardware wallet or a software wallet. If you want to change to a different brand of hardware wallet (e.g. from Ledger to Trezor), you might find that some crypto assets are not visible. This is because different manufacturers may use different derivation paths. If that is the case, you will need to first enter your seed into a software wallet, then transfer your crypto assets into an address that is visible to your new hardware wallet.
 
+A cheaper solution is to store your seed in tamper-evident bags.
+[Coinkite Security Bag Kit](https://store.coinkite.com/store/sec-bag-kit)
+
 # Crypto Custody Solutions
 
 [What are cryptocurrency custody solutions - Investopedia](https://www.investopedia.com/news/what-are-cryptocurrency-custody-solutions/)
