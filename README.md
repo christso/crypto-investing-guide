@@ -6,7 +6,7 @@ If you would like to discuss anything crypto-related, please go to [Discussions]
 
 If you would like to request any changes to the document, please go to [Issues](https://github.com/christso/crypto-investing-guide/issues) and create an issue.
 
-You can follow me on Twitter [@christso](https://twitter.com/christso) for real time updates.
+You can message me directly on Twitter [@christso](https://twitter.com/christso).
 
 ## Contents
 * [The traditional financial system](#The-traditional-financial-system)
@@ -241,6 +241,22 @@ Setee is a company controlled by Norway's 2nd richest man, Kjell Inge Røkke. Th
 
 ## Bitcoin has no intrinsic value
 
+The intrinsic value of Bitcoin is a censorship-resistant, self-sovereign way to hold, store and transfer your wealth, without relying on any third party middleman such as banks or nation states. Your wealth is stored in provably scarce units that can only be created with time. It cannot be created out of thin air, from more efficient mining (see "difficulty adjustment") or from new discoveries of deposits (21 million hard cap).
+
+Bitcoin is a digital commodity, as Satoshi envisioned it:
+> As a thought experiment, imagine there was a base metal as scarce as gold but with the following properties:
+> * boring grey in colour
+> * not a good conductor of electricity
+> * not particularly strong, but not ductile or easily malleable either
+> * not useful for any practical or ornamental purpose
+>
+> and one special, magical property:
+> * can be transported over a communications channel
+>
+> If it somehow acquired any value at all for whatever reason, then anyone wanting to transfer wealth over a long distance could buy some, transmit it, and have the recipient sell it.
+
+-Satoshi Nakamoto, August 2010
+
 ## The other coins are more affordable
 
 [The next Bitcoin? Investors flock to new cryptocurrency 'ADA' - 9News](https://www.9news.com.au/national/bitcoin-news-investors-hunt-for-next-big-cryptocurrency-as-ada-explodes/5cf444f8-c01f-4059-a9a5-ec673d6a6999)
@@ -462,6 +478,7 @@ This is my portfolio allocation. I hold the majority in Bitcoin. I would only ho
 * Binance Coin (BNB) - fuel for Binance Smart Chain (BSC), lower fees than ETH for DeFi
 * Golem (GLM) - computing
 * Theta (THETA) - video streaming
+* BarnBridge (BOND) - DeFi
 
 You might be attracted to trading some "questionable" altcoins, which Bitcoin maxis commonly refer to as "shitcoins". I do not recommend holding these coins for longer than a month or holding any amount that you cannot afford to lose completely. The price is driven mostly by speculation and do not satisfy the [project evaluation criteria](#Project-Evaluation). The price growth of shitcoins are a good indicator of new retail investors entering the market who believe they missed out on Bitcoin, so they buy "cheaper" coins that are advertised as "the next Bitcoin" or "the next Ethereum". However Bitcoin has already dominated the store-of-value market, Ethereum has dominated the smart contracts market. It is unlikely that any altcoin will replace Bitcoin or Ethereum. They will need to enter a completely different market, i.e. a "blue ocean".
 
