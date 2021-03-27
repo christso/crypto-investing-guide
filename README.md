@@ -477,12 +477,15 @@ This is my portfolio allocation. I hold the majority in Bitcoin. I would only ho
 * Bitcoin (BTC) = 70% to 100% - hardest store of value and dominant monetary network.
 * Ethereum (ETH) <= 30% - smart contracts with highest developer mindshare and strong ecosystem
 * Enjin (ENJ) <= 10% - online gaming and NFTs
-* 0x (ZRX) <= 5% - DeFi infrastructure
+* 0x (ZRX) <= 5% - DeFi infrastructure for P2P exchange
 * Secret (SCRT) <= 5% - privacy-preserving smart contracts
 * Storj (STORJ) <= 5% - cloud storage
 * Decentraland (MANA) <= 5% - online gaming and NFTs
-* Power Ledger (POWR) <= 2% - energy trading
-* Chainlink (LINK) <= 2% - data feeds
+* Power Ledger (POWR) <= 2% - energy trading - xGrid and µGrid
+* Chainlink (LINK) <= 1% - data feeds
+* Cosmos (ATOM) <= 1% - data feeds
+* Origin Protocol (OGN) <= 1% - e-commerce and NFTs
+* Basic Attention Token (BAT) <= 1% - online advertising - rewarding attention of users - part of the Brave Browser.
 * Band Protocol (BAND) - DeFi
 * Bancor (BNT) - DeFi
 * yearn.finance (YFI) - DeFi
@@ -491,18 +494,21 @@ This is my portfolio allocation. I hold the majority in Bitcoin. I would only ho
 * Aave (AAVE) - DeFi
 * Uniswap (UNI) - DeFi
 * Polkadot (DOT) - smart contracts
-* Origin Protocol (OGN) - e-commerce and NFTs
-* Binance Coin (BNB) - fuel for Binance Smart Chain (BSC), lower fees than ETH for DeFi
+* Tezos (XTZ) - smart contracts
+* Harmony (ONE) - smart contracts
+* GoChain (GO) - enterprise blockchain using Proof-of-Reputation consensus
 * Golem (GLM) - computing
 * Theta (THETA) - video streaming
+* Alpha Finance Lab (ALPHA) - DeFi
 * BarnBridge (BOND) - DeFi
+* Binance Coin (BNB) - fuel for Binance Smart Chain (BSC), lower fees than ETH for DeFi
 
 You might be attracted to trading some "questionable" altcoins, which Bitcoin maxis commonly refer to as "shitcoins". I do not recommend holding these coins for longer than a month or holding any amount that you cannot afford to lose completely. The price is driven mostly by speculation and do not satisfy the [project evaluation criteria](#Project-Evaluation). The price growth of shitcoins are a good indicator of new retail investors entering the market who believe they missed out on Bitcoin, so they buy "cheaper" coins that are advertised as "the next Bitcoin" or "the next Ethereum". However Bitcoin has already dominated the store-of-value market, Ethereum has dominated the smart contracts market. It is unlikely that any altcoin will replace Bitcoin or Ethereum. They will need to enter a completely different market, i.e. a "blue ocean".
 
 * Hedera Hashgraph (HBAR) - competes with ETH and Bitcoin layer 2
-* Litecoin (LTC) - fork of BTC
+* Litecoin (LTC) - spin-off of BTC
 * Cardano (ADA) - competes with ETH, not open source, lack of decentralization.
-* Dogecoin (DOGE) - fork of BTC, created as a joke, very little development
+* Dogecoin (DOGE) - spin-off of BTC, created as a joke, very little development
 * Nano (NANO) - competes with BTC layer 2
 * Ripple (XRP) - competes with BTC layer 2, lacks decentralization
 
