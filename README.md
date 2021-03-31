@@ -490,6 +490,7 @@ This is my portfolio allocation. I hold the majority in Bitcoin. I would only ho
 * Band Protocol (BAND) - DeFi
 * Bancor (BNT) - DeFi
 * yearn.finance (YFI) - DeFi
+* Frax Finance (FXS) - DeFi
 * Ren (REN) - DeFi
 * Hegic (HEGIC) - DeFi
 * Aave (AAVE) - DeFi
