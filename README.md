@@ -540,6 +540,10 @@ Are on-chain metrics indicating confidence in the project?
 
 [CoinMarketCap](https://coinmarketcap.com/) - directory of cryptocurrencies.
 
+[Messari](https://messari.io/) - insights and analysis
+
+[Binance Research](https://research.binance.com/) - insights and analysis
+
 [TradingView](https://www.tradingview.com/) - price charts
 
 [DeFi Pulse](https://defipulse.com/) - directory of DeFi protocols.
