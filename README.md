@@ -35,7 +35,7 @@ You can message me directly on Twitter [@christso](https://twitter.com/christso)
 
 If you want to understand why Bitcoin and crypto exists, you need to understand the existing monetary system. Bitcoin was created because of the root problem with conventional currency - all the trust that's required to make it work. But the history of fiat currencies is full of breaches of that trust.
 
-M2 money supply historically has increased around 6% per year, until 2020 when the growth rate was at 23%. Assuming the money supply continues to increase by 20% over the next 10 years, your real wealth (purchasing power) would reduce by 90%, even though the dollar value in your bank account remains the same. The inflation rate is usually higher near the end of the long term debt cycle, which is where we are now. If by some miracle that we revert to 6% inflation per year, your wealth should reduce by around 50% in 10 years.
+M2 money supply historically has increased around 6% per year, until 2020 when the growth rate was at 23%. Assuming the money supply continues to increase by 20% over the next 10 years, your real wealth (purchasing power) would reduce by 90%, even though the dollar value in your bank account remains the same. The inflation rate is usually higher near the end of the [long term debt cycle](https://www.principles.com/the-changing-world-order/#chapter2LongTermDebtCycle), which is where we are now. If by some miracle that we revert to 6% inflation per year, your wealth should reduce by around 50% in 10 years.
 
 ![](images/fed-m2-money-stock-20210312.png)
 
@@ -57,8 +57,6 @@ From 1945 until 1971, the U.S. dollar was backed by gold as part of the Bretton 
 
 The fiat monetary system is based on Keynesian economics, which is based on [Hitler's Economics](https://mises.org/library/hitlers-economics). What were Hitler's economic policies?
 > He suspended the gold standard, embarked on huge public-works programs like autobahns, protected industry from foreign competition, expanded credit, instituted jobs programs, bullied the private sector on prices and production decisions, vastly expanded the military, enforced capital controls, instituted family planning, penalized smoking, brought about national healthcare and unemployment insurance, imposed education standards, and eventually ran huge deficits. The Nazi interventionist program was essential to the regime's rejection of the market economy and its embrace of socialism in one country.
-
-We are nearing the end of the long-term cycle in 2020 (refer [The Changing World Order - Ray Dalio](https://www.linkedin.com/pulse/big-cycles-over-last-500-years-ray-dalio/)).
 
 I predict that by 2030:
 * The global monetary system will be completely reset, after continued devaluations of fiat currencies around the world.
