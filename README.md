@@ -153,7 +153,7 @@ The captain also distracts you by pointing to the other fiat currency ships, and
 
 # How does the Bitcoin blockchain work?
 
-[Bitcoin: A Peer-to-Peer Electronic Cash System](https://nakamotoinstitute.org/bitcoin/) is a whitepaper published by Satoshi Nakamoto in October 2008, which explains how Bitcoin works.
+[Bitcoin: A Peer-to-Peer Electronic Cash System](https://nakamotoinstitute.org/bitcoin/) is the whitepaper published by Satoshi Nakamoto in October 2008, which explains how Bitcoin works on a high-level.
 
 First, we should understand what problem that Bitcoin solves.
 
