@@ -643,12 +643,20 @@ If you have over 50% of your wealth in Bitcoin and crypto near the end of the bu
 
 This section contains significant news about crypto adoption.
 
-2021-03-24 - Tesla accepts Bitcoin as payment. Tesla is using only internal & open source software & operates Bitcoin nodes directly. Bitcoin paid to Tesla will be retained as Bitcoin, not converted to fiat currency.
--[@elonmusk](https://twitter.com/elonmusk/status/1374619379929772034)
-
-2021-03-26 - [Microsoft’s ION Digital ID Network Is Live on Bitcoin](https://www.coindesk.com/micorosfts-ion-digital-id-network-live-bitcoin)
-
-2021-03-30 - [PayPal launches crypto checkout service](https://www.reuters.com/article/us-crypto-currency-paypal-exclusive-idUSKBN2BM10N)
+| Date       | Description | Source | Sentiment |
+|------------| --------------- | ----------------- | ------ |
+| 2021-01-28 | Guggenheim CIO Says Institutional Demand Not There to Sustain Bitcoin Above $30K | [CoinDesk](https://www.coindesk.com/guggenheim-minerd-bitcoin-institutional-demand-price) | --
+| 2021-02-02 | Coinbase purchase of 14,000 bitcoins worth about $500 million probably belonged to Guggenheim. | [CoinGape](https://coingape.com/did-the-massive-coinbase-outflow-of-14000-bitcoin-belong-to-guggenheim/) | ++ |
+| 2021-02-03 | Guggenheim CIO Says Bitcoin Could Eventually Climb to $600,000 | [CoinDesk](https://www.coindesk.com/guggenheim-cio-says-bitcoin-could-eventually-climb-to-600000) | ++ |
+| 2021-02-08 | Tesla bought $1.5B in bitcoin and expects to accept Bitcoin as a form of payment in the near future | [SEC](https://www.sec.gov/Archives/edgar/data/0001318605/000156459021004599/tsla-10k_20201231.htm) | ++ |
+| 2021-03-01 | Bitcoin is at a tipping point and could become ‘currency of choice’ for global trade, Citi claims | [CNBC](https://www.cnbc.com/2021/03/01/bitcoin-btc-is-at-a-tipping-point-citi-says.html), [Citibank](https://www.citivelocity.com/citigps/bitcoin/) | ++ |
+| 2021-03-24 | Tesla accepts Bitcoin as payment. Tesla is using only internal & open source software & operates Bitcoin nodes directly. Bitcoin paid to Tesla will be retained as Bitcoin, not converted to fiat currency. | [@elonmusk](https://twitter.com/elonmusk/status/1374619379929772034) | ++ |
+| 2021-03-25 | New Zealand retirement fund reportedly allocates 5% to Bitcoin in October 2020. | [CoinTelegraph](https://cointelegraph.com/news/new-zealand-retirement-fund-reportedly-allocates-5-to-bitcoin) | ++ |
+| 2021-03-29 | Visa now settles payments in USDC stablecoin on Ethereum blockchain | [The Block](https://www.theblockcrypto.com/post/99639/visa-now-settles-payments-in-usdc-stablecoin-ethereum) | ++ |
+| 2021-03-26 | Microsoft’s ION Digital ID Network Is Live on Bitcoin | [Microsoft](https://techcommunity.microsoft.com/t5/identity-standards-blog/ion-we-have-liftoff/ba-p/1441555), [CoinDesk](https://www.coindesk.com/micorosfts-ion-digital-id-network-live-bitcoin) | ++ |
+| 2021-03-30 | PayPal launches crypto checkout service. | [Reuters](https://www.reuters.com/article/us-crypto-currency-paypal-exclusive-idUSKBN2BM10N) | ++ |
+| 2021-04-02 | The SEC has declared Coinbase's S-1 registration statement effective. Coinbase will go public on April 14th. It was valued at about $90 billion in its final week of trading on Nasdaq’s private market. | [Coinbase](https://blog.coinbase.com/coinbase-announces-effectiveness-of-registration-statement-and-anticipated-listing-date-of-its-1509b281f760) | ++ |
+| 2021-04-02 | Morgan Stanley Registers Funds With Up to 25% Bitcoin Allocation. | [CryptoBriefing](https://cryptobriefing.com/morgan-stanley-registers-funds-25-bitcoin-allocation/) | ++ |
 
 # Crypto Influencers
 
