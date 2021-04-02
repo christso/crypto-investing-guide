@@ -208,7 +208,7 @@ In block 674570, the difficulty was 21.4 trillion, and a nonce of 560,033,564 wa
 
 It's important to understand the common misconceptions about Bitcoin, as these are what drives a lot of the FUD (fear, uncertainty and doubt) in mainstream media, which causes uninformed investors to sell their Bitcoin at a steep discount, and avoid Bitcoin until the end of the bull run when those investors are optimistic again and end up buying at a too high price. Following mainstream media is the quickest way to lose money.
 
-All of the misconceptions have been debunked either through common sense, or directly by people such as:
+All of the misconceptions have been debunked many times already. See:
 * [7 Misconceptions About Bitcoin - Lyn Alden](https://www.lynalden.com/misconceptions-about-bitcoin/).
 * [Bitcoin Mythology - Square Crypto](https://bitcoinmythology.org/)
 
@@ -643,20 +643,45 @@ If you have over 50% of your wealth in Bitcoin and crypto near the end of the bu
 
 This section contains significant news about crypto adoption.
 
-| Date       | Description | Source | Sentiment |
-|------------| --------------- | ----------------- | ------ |
-| 2021-01-28 | Guggenheim CIO Says Institutional Demand Not There to Sustain Bitcoin Above $30K | [CoinDesk](https://www.coindesk.com/guggenheim-minerd-bitcoin-institutional-demand-price) | --
-| 2021-02-02 | Coinbase purchase of 14,000 bitcoins worth about $500 million probably belonged to Guggenheim. | [CoinGape](https://coingape.com/did-the-massive-coinbase-outflow-of-14000-bitcoin-belong-to-guggenheim/) | ++ |
-| 2021-02-03 | Guggenheim CIO Says Bitcoin Could Eventually Climb to $600,000 | [CoinDesk](https://www.coindesk.com/guggenheim-cio-says-bitcoin-could-eventually-climb-to-600000) | ++ |
-| 2021-02-08 | Tesla bought $1.5B in bitcoin and expects to accept Bitcoin as a form of payment in the near future | [SEC](https://www.sec.gov/Archives/edgar/data/0001318605/000156459021004599/tsla-10k_20201231.htm) | ++ |
-| 2021-03-01 | Bitcoin is at a tipping point and could become ‘currency of choice’ for global trade, Citi claims | [CNBC](https://www.cnbc.com/2021/03/01/bitcoin-btc-is-at-a-tipping-point-citi-says.html), [Citibank](https://www.citivelocity.com/citigps/bitcoin/) | ++ |
-| 2021-03-24 | Tesla accepts Bitcoin as payment. Tesla is using only internal & open source software & operates Bitcoin nodes directly. Bitcoin paid to Tesla will be retained as Bitcoin, not converted to fiat currency. | [@elonmusk](https://twitter.com/elonmusk/status/1374619379929772034) | ++ |
-| 2021-03-25 | New Zealand retirement fund reportedly allocates 5% to Bitcoin in October 2020. | [CoinTelegraph](https://cointelegraph.com/news/new-zealand-retirement-fund-reportedly-allocates-5-to-bitcoin) | ++ |
-| 2021-03-29 | Visa now settles payments in USDC stablecoin on Ethereum blockchain | [The Block](https://www.theblockcrypto.com/post/99639/visa-now-settles-payments-in-usdc-stablecoin-ethereum) | ++ |
-| 2021-03-26 | Microsoft’s ION Digital ID Network Is Live on Bitcoin | [Microsoft](https://techcommunity.microsoft.com/t5/identity-standards-blog/ion-we-have-liftoff/ba-p/1441555), [CoinDesk](https://www.coindesk.com/micorosfts-ion-digital-id-network-live-bitcoin) | ++ |
-| 2021-03-30 | PayPal launches crypto checkout service. | [Reuters](https://www.reuters.com/article/us-crypto-currency-paypal-exclusive-idUSKBN2BM10N) | ++ |
-| 2021-04-02 | The SEC has declared Coinbase's S-1 registration statement effective. Coinbase will go public on April 14th. It was valued at about $90 billion in its final week of trading on Nasdaq’s private market. | [Coinbase](https://blog.coinbase.com/coinbase-announces-effectiveness-of-registration-statement-and-anticipated-listing-date-of-its-1509b281f760) | ++ |
-| 2021-04-02 | Morgan Stanley Registers Funds With Up to 25% Bitcoin Allocation. | [CryptoBriefing](https://cryptobriefing.com/morgan-stanley-registers-funds-25-bitcoin-allocation/) | ++ |
+| Date       | Description | Source |
+|------------| --------------- | ----------------- |
+| 2019-02-15 | Wyoming becomes first state to give Bitcoin owners full property rights | [Bitcoinist](https://bitcoinist.com/wyoming-bitcoin-full-property-rights/) |
+| 2020-05-07 | Paul Tudor Jones buys bitcoin as an inflation hedge, compares crypto to 70s gold trade | [CNBC](https://www.cnbc.com/2020/05/07/paul-tudor-jones-reportedly-buys-bitcoin-as-an-inflation-hedge-compares-crypto-to-70s-gold-trade.html) |
+| 2020-07-23 | Banks in US Can Now Offer Crypto Custody Services, Regulator Says | [CoinDesk](https://www.coindesk.com/banks-in-us-can-now-offer-crypto-custody-services-regulator-says) |
+| 2020-08-11 | MicroStrategy Adopts Bitcoin as Primary Treasury Reserve Asset and has purchased 21,454 bitcoins at an aggregate purchase price of $250 million. | [BusinessWire](https://www.businesswire.com/news/home/20200811005331/en/) |MicroStrategy-Adopts-Bitcoin-Primary-Treasury-Reserve-Asset)
+| 2020-09-15 | On September 14, 2020, MicroStrategy completed its acquisition of 16,796 additional bitcoins at an aggregate purchase price of $175 million. To date, we have purchased a total of 38,250 bitcoins at an aggregate purchase price of $425 million. | [@michael_saylor](https://twitter.com/michael_saylor/status/1305850568531947520) |
+| 2020-10-24 | JPMorgan turns bullish on Bitcoin citing 'potential long-term upside' | [CoinTelegraph](https://cointelegraph.com/news/jpmorgan-turns-bullish-on-bitcoin-citing-potential-long-term-upside) |
+| 2020-10-29 | Iran's New Crypto Law Requires Miners to Sell Bitcoin Directly to Central Bank to Fund Imports | [Bitcoin.com](https://news.bitcoin.com/iran-crypto-law-miners-bitcoin-central-bank/) |
+| 2020-11-17 | A Hedge Fund Billionaire, Stanley Druckenmiller, Just Flipped To Bitcoin—Calling It 'Better' Than Gold | [Forbes](https://www.forbes.com/sites/billybambrough/2020/11/12/a-legendary-hedge-fund-billionaire-just-flipped-to-bitcoin-calling-it-better-than-gold/) |
+| 2020-11-30 | Venezuelan Army Starts Mining Bitcoin for 'Unblockable Income' | [Bitcoin.com](https://news.bitcoin.com/venezuela-army-mining-bitcoin-for-unblockable-income/) |
+| 2020-12-22 | MicroStrategy has purchased an additional 29,646 bitcoins for $650 million at an average price of $21,925 per bitcoin and now hodl an aggregate of 70,470 bitcoins purchased for $1.125 billion at an average price of $15,964 per bitcoin. | [MicroStrategy](https://www.microstrategy.com/en/company/company-videos/microstrategy-announces-over-1b-in-total-bitcoin-purchases-in-2020) |
+| 2021-01-05 | US Treasury OCC, the largest US banking regulator, provides guidance allowing US banks to use public blockchains and dollar stablecoins as a settlement infrastructure in the US financial system. | [OCC](https://www.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-2.html) |
+| 2021-01-07 | Strike Global launches in the U.S. to enable sending money anywhere, at any time, in seconds, and at no cost, using the Bitcoin network and Lightning network. | [Jack Mallers](https://jimmymow.medium.com/announcing-strike-global-2392b908f611) |
+| 2021-01-23 | Pakistan is Now Using Government Funds to Mine Bitcoin | [Decrypt](https://decrypt.co/53918/pakistan-is-now-using-government-funds-to-mine-bitcoin?utm_source=reddit&utm_medium=social&utm_campaign=sm) |
+| 2021-01-29 | Ray Dalio Calls Bitcoin ‘One Hell of an Invention,’ Considers It for New Funds | [Bloomberg](https://www.bloomberg.com/news/articles/2021-01-28/bridgewater-s-dalio-calls-bitcoin-one-hell-of-an-invention) |
+| 2021-01-08 | MetLife, an investment firm with over $651 billion in assets, expresses interest in investing in Bitcoin | [MetLife](https://investments.metlife.com/content/dam/metlifecom/us/investments/insights/research-topics/macro-strategy/pdf/MIM-GEMS-The-Blockchain-Blockbuster_Yapese-Stones-to-Central-Bank-Digital-Currencies.pdf) |
+| 2021-02-02 | Coinbase purchase of 14,000 bitcoins worth about $500 million probably belonged to Guggenheim. | [CoinGape](https://coingape.com/did-the-massive-coinbase-outflow-of-14000-bitcoin-belong-to-guggenheim/) |
+| 2021-02-12 | Miami Going Full Bitcoin: City Supports Efforts to Hold Bitcoin in Treasury, Allow Tax Payments in BTC | [Bitcoin.com](https://news.bitcoin.com/miami-bitcoin-city-supports-hold-bitcoin-in-treasury-tax-payments-btc/) |
+| 2021-02-26 | JPMorgan Says Investors Could Make Bitcoin 1% of Portfolios | [Bloomberg](https://www.bloomberg.com/news/articles/2021-02-25/investors-could-add-up-to-1-of-bitcoin-to-mix-jpmorgan-says) |
+| 2021-03-06 | South Korea passed new legislation that will provide a framework for the regulation and legalization of cryptocurrencies and crypto exchanges | [TechCrunch](https://techcrunch.com/2020/03/05/south-korea-passes-one-of-the-worlds-first-comprehensive-cryptocurrency-laws/) |
+| 2021-02-02 | Coinbase purchase of 14,000 bitcoins worth about $500 million probably belonged to Guggenheim. | [CoinGape](https://coingape.com/did-the-massive-coinbase-outflow-of-14000-bitcoin-belong-to-guggenheim/) |
+| 2021-02-08 | Tesla bought $1.5B in bitcoin and expects to accept Bitcoin as a form of payment in the near future | [SEC](https://www.sec.gov/Archives/edgar/data/0001318605/000156459021004599/tsla-10k_20201231.htm) |
+| 2021-03-01 | Citibank have released a 106-page report on Bitcoin. BTC's attributes "could spur it to become the currency of choice for international trade... Bitcoin is at a tipping point and we could be at the start of a massive transformation of cryptocurrency into the mainstream." | [CNBC](https://www.cnbc.com/2021/03/01/bitcoin-btc-is-at-a-tipping-point-citi-says.html), [Citibank](https://www.citivelocity.com/citigps/bitcoin/) |
+| 2021-03-02 | The most respected economist at Fidelity says bitcoin should be "treated as a form of digital gold." | [Fidelity](https://institutional.fidelity.com/app/literature/item/9901337.html) |
+| 2021-03-04 | Deloitte publishes three part series in the WSJ CFO Journal to review rationale & best practices for incorporating Bitcoin into the corporate treasury. | [WSJ](https://deloitte.wsj.com/cfo/2021/03/02/does-bitcoin-belong-on-your-balance-sheet/) |
+| 2021-03-11 | Ted Mathas, Chairman and CEO of New York Life, one of the world's largest insurance companies, has joined the board of Bitcoin financial services firm NYDIG. Mathas is also the chairman of the American Council of Life Insurers. | [PR Newswire](https://www.prnewswire.com/news-releases/nydig-announces-appointment-of-new-york-life-chairman-and-ceo-ted-mathas-to-its-board-of-directors-301244301.html) |
+| 2021-03-24 | Tesla accepts Bitcoin as payment. Tesla is using only internal & open source software & operates Bitcoin nodes directly. Bitcoin paid to Tesla will be retained as Bitcoin, not converted to fiat currency. | [@elonmusk](https://twitter.com/elonmusk/status/1374619379929772034) |
+| 2021-03-25 | New Zealand retirement fund reportedly allocates 5% to Bitcoin in October 2020. | [CoinTelegraph](https://cointelegraph.com/news/new-zealand-retirement-fund-reportedly-allocates-5-to-bitcoin) |
+| 2021-03-29 | Visa now settles payments in USDC stablecoin on Ethereum blockchain | [The Block](https://www.theblockcrypto.com/post/99639/visa-now-settles-payments-in-usdc-stablecoin-ethereum) |
+| 2021-03-25 | Texas chases after Wyoming with crypto law proposal, but challenges remain | [CoinTelegraph](https://cointelegraph.com/news/texas-chases-after-wyoming-with-crypto-law-proposal-but-challenges-remain) |
+| 2021-03-26 | Microsoft’s ION Digital ID Network Is Live on Bitcoin | [Microsoft](https://techcommunity.microsoft.com/t5/identity-standards-blog/ion-we-have-liftoff/ba-p/1441555), [CoinDesk](https://www.coindesk.com/micorosfts-ion-digital-id-network-live-bitcoin) |
+| 2021-03-28 | Shark Tank's Kevin O'Leary Reverses Stance on Bitcoin, Says Crypto Is Here to Stay, Invests 3% of His Portfolio | [Bitcoin.com](https://news.bitcoin.com/shark-tanks-kevin-oleary-bitcoin-cryptocurrencies-here-to-stay-invests-portfolio/) |
+| 2021-03-30 | PayPal launches crypto checkout service. | [Reuters](https://www.reuters.com/article/us-crypto-currency-paypal-exclusive-idUSKBN2BM10N) |
+| 2021-03-29 | BNY Mellon, the largest custodian bank in the world, compares bitcoin to gold and cites the stock-to-flow ratio in their research report | [Blockworks](https://blockworks.co/bny-mellon-report-takes-on-bitcoin-valuation/) |
+| 2021-03-31 | Billionaire Investor George Soros’ Fund Reveals Bitcoin 'Inflection Point' Bet As Crypto Market Cap Nears $2 Trillion | [Forbes](https://www.forbes.com/sites/billybambrough/2021/03/31/billionaire-investor-george-soros-fund-reveals-bitcoin-inflection-point-bet-as-crypto-market-price-nears-2-trillion) |
+| 2021-03-31 | Goldman Sachs is close to offering bitcoin and other digital assets to its wealth management clients | [CNBC](https://www.cnbc.com/2021/03/31/bitcoin-goldman-is-close-to-offering-bitcoin-to-its-richest-clients.html) |
+| 2021-04-02 | The SEC has declared Coinbase's S-1 registration statement effective. Coinbase will go public on April 14th. It was valued at about $90 billion in its final week of trading on Nasdaq’s private market. | [Coinbase](https://blog.coinbase.com/coinbase-announces-effectiveness-of-registration-statement-and-anticipated-listing-date-of-its-1509b281f760) |
+| 2021-04-02 | Morgan Stanley Registers Funds With Up to 25% Bitcoin Allocation. | [CryptoBriefing](https://cryptobriefing.com/morgan-stanley-registers-funds-25-bitcoin-allocation/) |
 
 # Crypto Influencers
 
