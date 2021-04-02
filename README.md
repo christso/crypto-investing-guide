@@ -690,6 +690,7 @@ This section contains significant news about crypto adoption.
 | 2021-04-01 | Mark Cuban said that his cryptocurrency portfolio allocation is 60% Bitcoin, 30% Ethereum and 10% the rest. According to Cuban, Bitcoin is "a better alternative to gold... That’s why I own bitcoin and why I never sold it." | [CNBC](https://www.cnbc.com/2021/04/01/mark-cuban-on-his-crypto-portfolio-i-own-ethereum-ether-and-bitcoin.html) |
 | 2021-04-02 | The SEC has declared Coinbase's S-1 registration statement effective. Coinbase will go public on April 14th. It was valued at about $90 billion in its final week of trading on Nasdaq’s private market. | [Coinbase](https://blog.coinbase.com/coinbase-announces-effectiveness-of-registration-statement-and-anticipated-listing-date-of-its-1509b281f760) |
 | 2021-04-02 | Morgan Stanley Registers Funds With Up to 25% Bitcoin Allocation. | [CryptoBriefing](https://cryptobriefing.com/morgan-stanley-registers-funds-25-bitcoin-allocation/) |
+| 2021-04-02 | Paris Hilton reveals that she has invested in Bitcoin for a while and is excited about its future | [CNBC](https://www.cnbc.com/video/2021/04/01/paris-hilton-on-getting-into-the-nft-business-and-her-latest-investments.html) |
 
 # Crypto Influencers
 
