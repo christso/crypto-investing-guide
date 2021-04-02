@@ -560,6 +560,8 @@ Are on-chain metrics indicating confidence in the project?
 
 [Digitalik](https://digitalik.net/btc/) - Bitcoin stock to flow model live chart.
 
+[UsefulTulips](https://www.usefultulips.org/) - charts on P2P cryptocurrency usage around the world
+
 # Bitcoin Price Forecast
 
 Bitcoin has a 4 year halving cycle, with 1-2 years of bull market and 2-3 years of bear market. As with any asset class, it is not immune to speculative mania and leverage, which causes the its price to overextend before a steep correction.
