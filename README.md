@@ -714,9 +714,9 @@ Investing:
 
 # Additional Resources
 
-[Bitcoin.org](https://bitcoin.org/en/) - originally registered and owned by Bitcoin's first two developers. This provides a good beginners guide whether you're an individual, business or a developer.
+## Bitcoin and Crypto
 
-[The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.amazon.com.au/Bitcoin-Standard-Decentralized-Alternative-Central-ebook/dp/B07BPM3GZQ) - book explaining the evolution of money over millenia and the social implications of Bitcoin.
+[Bitcoin.org](https://bitcoin.org/en/) - originally registered and owned by Bitcoin's first two developers. This provides a good beginners guide whether you're an individual, business or a developer.
 
 [Mastering Bitcoin, by Andreas M. Antonopoulos](https://github.com/bitcoinbook/bitcoinbook) - technical book on Bitcoin.
 
@@ -726,8 +726,18 @@ Investing:
 
 [Robert Breedlove - Medium](https://breedlove22.medium.com/) - explains the concept of money, Bitcoin and time in a series of essays.
 
-[The Changing World Order - an online series by Ray Dalio](https://www.principles.com/the-changing-world-order/) - a study on the rises and declines of leading empires.
-
 [Bitcoin for Everybody - Saylor Academy](https://learn.saylor.org/course/PRDV151) - free Bitcoin course provided the foundation owned by Michael Saylor, who is the CEO of MicroStrategy.
 
 [Binance Academy](https://academy.binance.com/) - guide on trading and staking on Binance.
+
+## Economics
+
+[The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.amazon.com.au/Bitcoin-Standard-Decentralized-Alternative-Central-ebook/dp/B07BPM3GZQ) - book explaining the evolution of money over millenia and the social implications of Bitcoin.
+
+[The Changing World Order - an online series by Ray Dalio](https://www.principles.com/the-changing-world-order/) - a study on the rises and declines of leading empires.
+
+[The Price of Tomorrow: Why Deflation is the Key to an Abundant Future, Jeff Booth](https://www.amazon.com.au/Price-Tomorrow-Deflation-Abundant-Future/dp/1999257405) - economics book
+
+[Sovereign Individual: Mastering the Transition to the Information Age, James Dale Davidson (1999)](https://www.amazon.com.au/Sovereign-Individual-Mastering-Transition-Inform/dp/0684832720) - economics book
+
+[The Road to Serfdom, Friedrich A. Hayek](https://mises.org/library/road-serfdom-0) - economics book
