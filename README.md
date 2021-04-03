@@ -230,6 +230,8 @@ What the FUD articles assume is that there is zero value in securing a monetary 
 [The Last Word on Bitcoin’s Energy Consumption, Nic Carter](https://www.coindesk.com/the-last-word-on-bitcoins-energy-consumption) explains why Bitcoin consumes so much energy.
 > Part of the reason Bitcoin consumes so much electricity is because China lowered the clearing price of energy by overbuilding hydro capacity due to sloppy central planning. In a non-Bitcoin world, this excess energy would either have been used to smelt aluminum or would simply have been wasted.
 
+[Noahbjectivity on Bitcoin Mining](https://medium.com/@nic__carter/noahbjectivity-on-bitcoin-mining-2052226310cb) - Nic Carter responds to claims by Bloomberg columnist Noah Smith in a March 24 article titled "Bitcoin miners are on a path to self-destruction".
+
 [PoW is Efficient, Dan Held](https://www.danheld.com/blog/2019/1/5/pow-is-efficent) explains that securing economic history is an important public good, and is worth the mining costs. In fact, a side-effect of Bitcoin is that it will encourage a shift towards renewal energy sources that have predictable capacity that is otherwise wasted, like hydro and flared methane.
 
 > Bitcoin’s PoW is the buyer of last resort for all electricity, creating a floor that incentivizes the building of new energy producing plants around disparate energy sources that would have otherwise been left untapped.
