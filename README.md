@@ -351,9 +351,9 @@ Bitcoin has flourished in countries where it is banned. For example, in Nigeria 
 # Converting Fiat to Bitcoin
 
 Regulated Fiat/Crypto Exchanges
-* [Independent Reserve](https://www.independentreserve.com/) - Australian exchange with good SMSF support
+* [Independent Reserve](https://www.independentreserve.com/invite/PQQGEH) - Australian exchange with good SMSF support
 * [BTC Markets](https://www.btcmarkets.net/) - Australian exchange with good SMSF support
-* [Binance](https://www.binance.com/) - the number #1 exchange and evolving into a crypto conglomerate
+* [Binance](https://www.binance.com/en/register?ref=BAU03MPK) - the number #1 exchange and evolving into a crypto conglomerate
 * [Coinspot](https://www.coinspot.com.au/) - Australian exchange
 * [Coinjar](https://www.coinjar.com/) - Australian exchange
 * [Swyftx](https://swyftx.com.au/) - Australian broker (note: AUD is converted to USD then converted to crypto)
