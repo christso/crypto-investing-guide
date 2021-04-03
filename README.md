@@ -791,4 +791,6 @@ Investing:
 
 [Sovereign Individual: Mastering the Transition to the Information Age, James Dale Davidson (1999)](https://www.amazon.com.au/Sovereign-Individual-Mastering-Transition-Inform/dp/0684832720) - economics book
 
+[Layered Money: From Gold and Dollars to Bitcoin and Central Bank Digital Currencies](https://www.amazon.com/Layered-Money-Dollars-Bitcoin-Currencies-ebook/dp/B08PS293NT) - economics book
+
 [The Road to Serfdom, Friedrich A. Hayek](https://mises.org/library/road-serfdom-0) - economics book
