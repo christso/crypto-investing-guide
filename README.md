@@ -548,6 +548,8 @@ Are on-chain metrics indicating confidence in the project?
 
 [TradingView](https://www.tradingview.com/) - price charts
 
+[DeFi Prime](https://defiprime.com/) - curated listing of DeFi products
+
 [DeFi Llama](https://defillama.com/) - DeFi dashboard
 
 [DeFi Pulse](https://defipulse.com/) - DeFi dashboard (ETH-only)
