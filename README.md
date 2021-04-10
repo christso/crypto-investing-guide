@@ -18,6 +18,7 @@ You can message me directly on Twitter [@christso](https://twitter.com/christso)
 * [Crypto-to-Crypto Decentralized Exchanges](#Crypto-to-Crypto-Decentralized-Exchanges)
 * [Hardware Wallets](#Hardware-Wallets)
 * [Software Wallets](#Software-Wallets)
+* [Full Bitcoin Node Setups](#Full-Bitcoin-Node-Setups)
 * [Seed Backup Solutions](#Seed-Backup-Solutions)
 * [Crypto Custody Solutions](#Crypto-Custody-Solutions)
 * [Bitcoin Lightning Wallets](#Bitcoin-Lightning-Wallets)
@@ -399,7 +400,11 @@ These software wallets can also connect to your hardware wallet.
 
 [Electrum](https://electrum.org/) - Bitcoin wallet which connects to the Electrum node.
 
-[Umbrel](https://getumbrel.com/) - Run your personal Bitcoin and Lightning Network node.
+# Full Bitcoin Node Setups
+
+[RaspiBlitz](https://raspiblitz.org/)
+
+[Umbrel](https://getumbrel.com/)
 
 # Seed Backup Solutions
 
