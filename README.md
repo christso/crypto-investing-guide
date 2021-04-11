@@ -327,6 +327,8 @@ You cannot build a decentralised culture with code or with a worshipped leader. 
 
 ## Bitcoin is too volatile
 
+The volatility you see right now is upward volatility associated to its fast exponential climb towards global acceptance. This will become clearer to the world once 1 billion people find exposure in this asset. At current growth, it will be before 2025.
+
 ## Bitcoin's wealth distribution is too concentrated
 
 [Bitcoin’s Distribution was Fair - Dan Held, 2019-01-06](https://www.danheld.com/blog/2019/1/6/bitcoins-distribution-was-fair)
@@ -671,6 +673,7 @@ This section contains significant news about crypto adoption.
 | 2020-10-29 | Iran's New Crypto Law Requires Miners to Sell Bitcoin Directly to Central Bank to Fund Imports | [Bitcoin.com](https://news.bitcoin.com/iran-crypto-law-miners-bitcoin-central-bank/) |
 | 2020-11-17 | A Hedge Fund Billionaire, Stanley Druckenmiller, Just Flipped To Bitcoin—Calling It 'Better' Than Gold | [Forbes](https://www.forbes.com/sites/billybambrough/2020/11/12/a-legendary-hedge-fund-billionaire-just-flipped-to-bitcoin-calling-it-better-than-gold/) |
 | 2020-11-30 | Venezuelan Army Starts Mining Bitcoin for 'Unblockable Income' | [Bitcoin.com](https://news.bitcoin.com/venezuela-army-mining-bitcoin-for-unblockable-income/) |
+| 2020-12-10 | 169-Year-Old MassMutual Invests $100 Million in Bitcoin via NYDIG | [MassMutual](https://www.massmutual.com/about-us/news-and-press-releases/press-releases/2020/12/institutional-bitcoin-provider-nydig-announces-minority-stake-purchase-by-massmutual) |
 | 2020-12-22 | MicroStrategy has purchased an additional 29,646 bitcoins for $650 million at an average price of $21,925 per bitcoin and now hodl an aggregate of 70,470 bitcoins purchased for $1.125 billion at an average price of $15,964 per bitcoin. | [MicroStrategy](https://www.microstrategy.com/en/company/company-videos/microstrategy-announces-over-1b-in-total-bitcoin-purchases-in-2020) |
 | 2021-01-05 | US Treasury OCC, the largest US banking regulator, provides guidance allowing US banks to use public blockchains and dollar stablecoins as a settlement infrastructure in the US financial system. | [OCC](https://www.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-2.html) |
 | 2021-01-07 | Strike Global launches in the U.S. to enable sending money anywhere, at any time, in seconds, and at no cost, using the Bitcoin network and Lightning network. | [Jack Mallers](https://jimmymow.medium.com/announcing-strike-global-2392b908f611) |
@@ -707,6 +710,10 @@ This section contains significant news about crypto adoption.
 | 2021-04-02 | The SEC has declared Coinbase's S-1 registration statement effective. Coinbase will go public on April 14th. It was valued at about $90 billion in its final week of trading on Nasdaq’s private market. | [Coinbase](https://blog.coinbase.com/coinbase-announces-effectiveness-of-registration-statement-and-anticipated-listing-date-of-its-1509b281f760) |
 | 2021-04-02 | Morgan Stanley Registers Funds With Up to 25% Bitcoin Allocation. | [CryptoBriefing](https://cryptobriefing.com/morgan-stanley-registers-funds-25-bitcoin-allocation/) |
 | 2021-04-02 | Paris Hilton reveals that she has invested in Bitcoin for a while and is excited about its future | [CNBC](https://www.cnbc.com/video/2021/04/01/paris-hilton-on-getting-into-the-nft-business-and-her-latest-investments.html) |
+| 2021-04-07 | Ukrainian civil servants together own about 46,351 bitcoin. | [CoinDesk](https://www.coindesk.com/crypto-whale-watching-may-become-popular-at-ukrainian-town-council-meetings) |
+| 2021-04-08 | Peter Thiel warned that Bitcoin could become a Chinese financial weapon against the U.S. Anthony Pompliano responds by explaining that other countries are competing in bitcoin mining and adoption. He recommends that the U.S. should continue to push innovation and take leadership in decentralised protocols such as Bitcoin. | [CNBC](https://www.cnbc.com/video/2021/04/08/anthony-pompliano-on-peter-thiels-warning-about-chinese-weaponizing-bitcoin.html) |
+| 2021-04-09 | SEC Commissioner Hester Peirce says "I don't see how you could ban \[Bitcoin\]. It would be a foolish thing for the government to try. You'd have to shut down the internet. A bigger problem is we'd be missing out on the innovation around Bitcoin" | [Decrypt](https://decrypt.co/65910/government-ban-bitcoin-foolish-sec-hester-peirce) |
+| 2021-04-10 |Third Point LLC, a $17B hedge fund, now holds cryptocurrency from five of its funds with Coinbase, and is open to staking and lending cryptos. | [CoinDesk](https://www.coindesk.com/daniel-loeb-third-point-hedge-fund-coinbase-custody-staking) |
 
 # Crypto Influencers
 
