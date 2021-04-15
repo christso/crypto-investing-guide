@@ -512,7 +512,7 @@ This is my portfolio allocation. I hold the majority in Bitcoin. I would only ho
 * BarnBridge (BOND) - DeFi
 * Binance Coin (BNB) - fuel for Binance Smart Chain (BSC), lower fees than ETH for DeFi
 
-You might be attracted to trading some "questionable" altcoins, which Bitcoin maxis commonly refer to as "shitcoins". I do not recommend holding these coins for longer than a month or holding any amount that you cannot afford to lose completely. The price is driven mostly by speculation and do not satisfy the [project evaluation criteria](#Project-Evaluation). The price growth of shitcoins are a good indicator of new retail investors entering the market who believe they missed out on Bitcoin, so they buy "cheaper" coins that are advertised as "the next Bitcoin" or "the next Ethereum". However Bitcoin has already dominated the store-of-value market, Ethereum has dominated the smart contracts market. It is unlikely that any altcoin will replace Bitcoin or Ethereum. They will need to enter a completely different market, i.e. a "blue ocean".
+You might be attracted to trading some purely speculative altcoins, which are sometimes called "shitcoins". I do not recommend allocating any amount that you cannot afford to lose completely. The price is driven mostly by social media and do not satisfy the [project evaluation criteria](#Project-Evaluation). The price growth of shitcoins are a good indicator of new retail investors entering the market who believe they missed out on Bitcoin, so they buy "cheaper" coins that are advertised as "the next Bitcoin" or "the next Ethereum". However Bitcoin has already dominated the store-of-value market, Ethereum has dominated the smart contracts market. It is unlikely that any altcoin will replace Bitcoin or Ethereum. They will need to enter a completely different market, i.e. a "blue ocean". Here are some altcoins which can be good for short term trading:
 
 * Hedera Hashgraph (HBAR) - competes with ETH and Bitcoin layer 2
 * Litecoin (LTC) - spin-off of BTC
@@ -550,6 +550,8 @@ Are on-chain metrics indicating confidence in the project?
 [CoinGecko](https://www.coingecko.com/) - directory of cryptocurrencies.
 
 [Messari](https://messari.io/) - insights and analysis
+
+[LunarCRUSH](https://lunarcrush.com/) - social media analytics
 
 [Binance Research](https://research.binance.com/) - insights and analysis
 
