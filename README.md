@@ -510,10 +510,10 @@ This is my portfolio allocation. I hold the majority in Bitcoin. I would only ho
 * Alpha Finance Lab (ALPHA) - DeFi
 * BarnBridge (BOND) - DeFi
 * Binance Coin (BNB) - fuel for Binance Smart Chain (BSC), lower fees than ETH for DeFi
-* VeChain (VET) - supply chain
 
-I also have a tiny percentage of my portfolio for highly speculative altcoins. I do not recommend allocating any amount that you cannot afford to lose completely. These altcoins do not satisfy the [project evaluation criteria](#Project-Evaluation). Investing in these altcoins are based purely on social sentiment and price action. The price growth of shitcoins are also a good indicator of new retail investors entering the market who believe they missed out on Bitcoin, so they buy "cheaper" coins that are advertised as "the next Bitcoin" or "the next Ethereum". However Bitcoin has already dominated the store-of-value market, Ethereum has dominated the smart contracts market. It is unlikely that any altcoin will replace Bitcoin or Ethereum. The altcoins will have better success entering a completely different market, i.e. a "blue ocean" with less competition.
+I also have a tiny percentage of my portfolio for highly speculative altcoins. I do not recommend allocating any amount that you cannot afford to lose completely. These altcoins do not satisfy the [project evaluation criteria](#Project-Evaluation). Investing in these altcoins are based purely on social sentiment and price action. The price growth of shitcoins are also a good indicator of new retail investors entering the market.
 
+* VeChain (VET) - supply chain solution still in idea-validation phase
 * Hedera Hashgraph (HBAR) - competes with ETH and Bitcoin layer 2
 * Litecoin (LTC) - spin-off of BTC
 * Cardano (ADA) - competes with ETH, not open source, lack of decentralization.
