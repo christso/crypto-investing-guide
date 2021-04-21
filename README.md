@@ -378,6 +378,8 @@ P2P non-KYC/AML Fiat/Crypto Exchanges
 * [Curve](https://www.curve.fi/) - exchange designed for stablecoins and bitcoin tokens on Ethereum
 * [PancakeSwap](https://pancakeswap.finance/) - yield farm on Binance Smart Chain
 
+To set up Metamask on on Binance Smart Chain, see [Connecting Metamask to Binance Smart Chain](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain).
+
 # Hardware Wallets
 
 Hardware wallets are the preferred cold storage solution. They store your seed and allow you to verify the transaction that you are signing on a separate device.
@@ -773,6 +775,9 @@ Corporate and HNW Investors:
 * Ray Dalio - [@RayDalio](https://twitter.com/RayDalio)
 * Mark Cuban - [@mcuban](https://twitter.com/mcuban)
 * Elon Musk - [@elonmusk](https://twitter.com/elonmusk)
+
+Pro-Bitcoin Political Leaders:
+* Mayor Francis Suarez, Miami Mayor - [@FrancisSuarez](https://twitter.com/FrancisSuarez)
 
 Investing:
 * Lyn Alden - [@LynAldenContact](https://twitter.com/LynAldenContact)
