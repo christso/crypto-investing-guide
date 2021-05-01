@@ -731,6 +731,10 @@ This section contains significant news about crypto adoption.
 | 2021-04-18 | Decentralized finance may lead to a paradigm shift in the financial industry and contribute to a more robust, open and transparent financial infrastructure, according to St. Louis Fed | [St Louis Fed](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets) |
 | 2021-04-19 | In Huge Reversal, China Now Calls Bitcoin "Investment Alternative" After Years Of Crackdowns | [ZeroHedge](https://www.zerohedge.com/markets/huge-reversal-china-now-calls-bitcoin-investment-alternative-after-years-crackdowns) |
 | 2021-04-20 | Customers can now buy, hold and sell cryptocurrency directly within the Venmo app | [PR NewsWire](https://www.prnewswire.com/news-releases/introducing-crypto-on-venmo-301272010.html)
+| 2021-04-21 | The Mayor of Jackson, Tennessee, @MayorConger, is talking with state legislatures about allowing the city to mine #bitcoin and adding it to their balance sheet. | [@MayorConger](https://twitter.com/MayorConger/status/1384691758936825857) |
+| 2021-04-28 | America's Fifth-Largest Banking Institution US Bank to Offer Cryptocurrency Custody | [Bitcoin.com](https://news.bitcoin.com/americas-fifth-largest-banking-institution-us-bank-to-offer-cryptocurrency-custody/) |
+| 2021-04-29 | Germany Opens Up to Institutional Crypto Funds effective on July 1 | [Decrypt](https://decrypt.co/69323/damn-huge-germany-opens-up-to-institutional-crypto-funds) |
+| 2021-04-29 | Turkey plans to establish a central custodian crypto bank to eliminate counterparty risk | [Bitcoin.com](https://news.bitcoin.com/turkey-crypto-regulation-central-bank-no-intention-to-ban-cryptocurrencies/) |
 
 # Crypto Influencers
 
@@ -790,7 +794,8 @@ Corporate and HNW Investors:
 * Elon Musk - [@elonmusk](https://twitter.com/elonmusk)
 
 Pro-Bitcoin Political Leaders:
-* Mayor Francis Suarez, Miami Mayor - [@FrancisSuarez](https://twitter.com/FrancisSuarez)
+* Francis Suarez, Mayor of Miami - [@FrancisSuarez](https://twitter.com/FrancisSuarez)
+* Scott Conger, Mayor of Jackson Tennessee - [@MayorConger](https://twitter.com/MayorConger/status/1384691758936825857)
 
 Investing:
 * Lyn Alden - [@LynAldenContact](https://twitter.com/LynAldenContact)
