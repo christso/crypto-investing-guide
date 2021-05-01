@@ -247,6 +247,10 @@ Setee is a company controlled by Norway's 2nd richest man, Kjell Inge Røkke. Th
 
 > Sec­ond, See­tee will es­tab­lish min­ing op­er­a­tions that trans­fer strand­ed or in­ter­mit­tent elec­tric­i­ty with­out sta­ble de­mand lo­cal­ly—wind, so­lar, hy­dro pow­er— to eco­nom­ic as­sets that can be used any­where. Bit­coin is, in our eyes, a load-bal­anc­ing eco­nom­ic bat­tery, and bat­ter­ies are es­sen­tial to the en­er­gy tran­si­tion re­quired to reach the tar­gets of the Paris Agreement. Our am­bi­tion is to be a valu­able part­ner in new re­new­able projects.
 
+[The Hidden Costs of the Petrodollar, Alex Gladstein](https://bitcoinmagazine.com/culture/the-hidden-costs-of-the-petrodollar)
+> Bitcoin critics often focus on its perceived negative externalities: energy consumption, carbon footprint, lack of centralized control and inability to be regulated. Few critics stop to think comparatively about the negative externalities of the world's current financial system of dollar hegemony.
+> Bitcoin is not a fintech company competing with Visa. It is a decentralized asset competing to be the new global reserve currency, aiming to inherit the role gold once had and the role the dollar holds today.
+
 [The Number Zero and Bitcoin, Robert Breedlove](https://breedlove22.medium.com/the-number-zero-and-bitcoin-4c193336db5b)
 > Tyrannies are less energy-efficient than free markets because they require tyrants to expend resources enforcing compliance with their imposed rulesets and protecting their turf. Voluntary games (free market capitalism) outcompete involuntary games (centrally planned socialism) as they do not accrue these enforcement and protection costs: hence the reason capitalism (freedom) outcompetes socialism (slavery) in the long run. Bitcoin does not require enforced compliance. Economic actors are incentivized to choose the money that best holds its value across time, is most widely accepted, and most clearly conveys market pricing information. Holding the scarcest money is the most energy-efficient strategy a player can employ.
 
