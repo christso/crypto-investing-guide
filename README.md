@@ -824,6 +824,9 @@ Investing:
 
 [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.amazon.com.au/Bitcoin-Standard-Decentralized-Alternative-Central-ebook/dp/B07BPM3GZQ) - book explaining the evolution of money over millenia and the social implications of Bitcoin.
 
+[The Blocksize War: The battle for control over Bitcoin’s protocol rules](https://www.amazon.com.au/Blocksize-War-control-Bitcoins-protocol-ebook/dp/B08Z18GWD6/
+) - written account of one of the most tumultuous periods in Bitcoin's history during 2015-2017.
+
 [The Changing World Order - an online series by Ray Dalio](https://www.principles.com/the-changing-world-order/) - a study on the rises and declines of leading empires.
 
 [The Price of Tomorrow: Why Deflation is the Key to an Abundant Future, Jeff Booth](https://www.amazon.com.au/Price-Tomorrow-Deflation-Abundant-Future/dp/1999257405) - economics book
