@@ -506,11 +506,11 @@ This is my portfolio allocation. I hold the majority in Bitcoin. I would only ho
 * Aave (AAVE) - DeFi
 * Frax Finance (FXS) - DeFi
 * Ren (REN) - DeFi
+* Terra (LUNA) - DeFi, stablecoins
 * Polygon (MATIC) - DeFi, ETH layer 2
 * Hegic (HEGIC) - DeFi
 * Uniswap (UNI) - DeFi
 * THORchain (RUNE) - DeFi
-* Terra (LUNA) - DeFi, stablecoins
 * Solana (SOL) - smart contracts
 * Polkadot (DOT) - smart contracts
 * Tezos (XTZ) - smart contracts
@@ -523,10 +523,10 @@ This is my portfolio allocation. I hold the majority in Bitcoin. I would only ho
 
 I also have a tiny percentage of my portfolio for highly speculative altcoins. I do not recommend allocating any amount that you cannot afford to lose completely. These altcoins do not satisfy the [project evaluation criteria](#Project-Evaluation). Investing in these altcoins are based purely on social sentiment, price action and temporary solutions that will eventually be addressed by Bitcoin or Ethereum. The price growth of these altcoins are also a good indicator of new retail investors entering the market.
 
+* Cardano (ADA) - competes with ETH, no apps built on it yet
 * VeChain (VET) - supply chain solution still in idea-validation phase
 * Hedera Hashgraph (HBAR) - competes with ETH and Bitcoin layer 2
 * Litecoin (LTC) - spin-off of BTC
-* Cardano (ADA) - competes with ETH, not open source, lack of decentralization.
 * Dogecoin (DOGE) - spin-off of BTC, created as a joke, very little development
 * Nano (NANO) - competes with BTC layer 2
 * Ripple (XRP) - competes with BTC layer 2, lacks decentralization
