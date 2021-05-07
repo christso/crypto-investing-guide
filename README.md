@@ -563,8 +563,6 @@ Are on-chain metrics indicating confidence in the project?
 
 [LunarCRUSH](https://lunarcrush.com/) - social media analytics
 
-[Coin Bureau](https://www.coinbureau.com/) - crypto education
-
 [Binance Research](https://research.binance.com/) - insights and analysis
 
 [TradingView](https://www.tradingview.com/) - price charts
@@ -821,6 +819,8 @@ Investing:
 [Bitcoin for Everybody - Saylor Academy](https://learn.saylor.org/course/PRDV151) - free Bitcoin course provided the foundation owned by Michael Saylor, who is the CEO of MicroStrategy.
 
 [Binance Academy](https://academy.binance.com/) - guide on trading and staking on Binance.
+
+[Coin Bureau](https://www.coinbureau.com/) - crypto education
 
 ## Economics
 
