@@ -563,6 +563,8 @@ Are on-chain metrics indicating confidence in the project?
 
 [LunarCRUSH](https://lunarcrush.com/) - social media analytics
 
+[Coin Bureau](https://www.coinbureau.com/) - crypto education
+
 [Binance Research](https://research.binance.com/) - insights and analysis
 
 [TradingView](https://www.tradingview.com/) - price charts
