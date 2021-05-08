@@ -736,6 +736,8 @@ This section contains significant news about crypto adoption.
 | 2021-04-28 | America's Fifth-Largest Banking Institution US Bank to Offer Cryptocurrency Custody | [Bitcoin.com](https://news.bitcoin.com/americas-fifth-largest-banking-institution-us-bank-to-offer-cryptocurrency-custody/) |
 | 2021-04-29 | Germany Opens Up to Institutional Crypto Funds effective on July 1 | [Decrypt](https://decrypt.co/69323/damn-huge-germany-opens-up-to-institutional-crypto-funds) |
 | 2021-04-29 | Turkey plans to establish a central custodian crypto bank to eliminate counterparty risk | [Bitcoin.com](https://news.bitcoin.com/turkey-crypto-regulation-central-bank-no-intention-to-ban-cryptocurrencies/) |
+| 2021-05-06 | ING Bank has released a report analyzing the DeFi space, stating that "DeFi could be more disruptive than Bitcoin to the financial sector" | [ING](https://new.ingwb.com/binaries/content/assets/insights/themes/distributed-ledger-technology/defi_white_paper_v2.0.pdf) |
+| 2021-05-07 | John Dalby leaves Bridgewater Associates to join NYDIG as Chief Financial Officer | [PR News Wire](https://www.prnewswire.com/news-releases/nydig-announces-appointment-of-john-dalby-as-chief-financial-officer-301286384.html) |
 
 # Crypto Influencers
 
@@ -818,6 +820,7 @@ Here are some resources I use for deciding what to invest in when I don't have t
 * [Propertyology](https://www.propertyology.com.au/) - real estate buyers agent in the Australian market. Useful if you are buying multiple properties and don't have time to research yourself.
 
 [Top 15 Crypto YouTubers](https://www.coinbureau.com/analysis/crypto-youtube-channels/)
+[Fin Notes https://www.finnotes.org/asset-classes/bitcoin
 
 ## Bitcoin and Crypto
 
