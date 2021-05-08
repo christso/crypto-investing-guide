@@ -500,6 +500,7 @@ This is my portfolio allocation. I hold the majority in Bitcoin. I would only ho
 * Cosmos (ATOM) <= 1% - data feeds
 * Origin Protocol (OGN) <= 1% - e-commerce and NFTs
 * Basic Attention Token (BAT) <= 1% - online advertising - rewarding attention of users - part of the Brave Browser.
+* Stacks (STX) - DeFi on Bitcoin
 * Band Protocol (BAND) - DeFi
 * Bancor (BNT) - DeFi
 * yearn.finance (YFI) - DeFi
@@ -775,6 +776,7 @@ Crypto:
 * Glassnode - [@glassnode](https://twitter.com/glassnode)
 * Woonomic - [@woonomic](https://twitter.com/woonomic)
 * Ki Young Ju - [@ki_young_ju](https://twitter.com/ki_young_ju)
+* Chris Burniske - [@cburniske](https://twitter.com/cburniske)
 
 Corporate and HNW Investors:
 * Tim Draper - venture capitalist - [@TimDraper](https://twitter.com/TimDraper)
@@ -797,12 +799,22 @@ Pro-Bitcoin Political Leaders:
 * Francis Suarez, Mayor of Miami - [@FrancisSuarez](https://twitter.com/FrancisSuarez)
 * Scott Conger, Mayor of Jackson Tennessee - [@MayorConger](https://twitter.com/MayorConger/status/1384691758936825857)
 
-Investing:
+# Additional Resources
+
+## Investment Advisors
+
+Here are some resources I use to help decide my portfolio allocation.
+
+* Thomas Lee, Fundstrat - [@fundstrat](https://twitter.com/fundstrat)
+* Lark Davis - [@cryptolark](https://twitter.com/cryptolark)
+* Kelvin Koh, Partner at The Spartan Group - [@SpartanBlack_1](https://twitter.com/SpartanBlack_1)
+* Zhu Su, CEO/CIO at Three Arrows Capital - [@zhusu](https://twitter.com/zhusu)
+* Coin Bureau - [YouTube](https://www.youtube.com/channel/UCqK_GSMbpiV8spgD3ZGloSw)
 * Lyn Alden - [@LynAldenContact](https://twitter.com/LynAldenContact)
 * George Gammon - [@GeorgeGammon](https://twitter.com/GeorgeGammon)
 * Mark Moss - [@MarkMoss](https://twitter.com/1MarkMoss)
 
-# Additional Resources
+[Top 15 Crypto YouTubers](https://www.coinbureau.com/analysis/crypto-youtube-channels/)
 
 ## Bitcoin and Crypto
 
