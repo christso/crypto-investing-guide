@@ -803,17 +803,19 @@ Pro-Bitcoin Political Leaders:
 
 ## Investment Advisors
 
-Here are some resources I use to help decide my portfolio allocation.
+Here are some resources I use for deciding what to invest in when I don't have time for my own research:
 
-* Thomas Lee, Fundstrat - [@fundstrat](https://twitter.com/fundstrat)
-* Lark Davis - [@cryptolark](https://twitter.com/cryptolark)
-* Kelvin Koh, Partner at The Spartan Group - [@SpartanBlack_1](https://twitter.com/SpartanBlack_1)
-* Zhu Su, CEO/CIO at Three Arrows Capital - [@zhusu](https://twitter.com/zhusu)
-* Coin Bureau - [YouTube](https://www.youtube.com/channel/UCqK_GSMbpiV8spgD3ZGloSw)
-* Lyn Alden - [@LynAldenContact](https://twitter.com/LynAldenContact)
-* George Gammon - [@GeorgeGammon](https://twitter.com/GeorgeGammon)
-* Mark Moss - [@MarkMoss](https://twitter.com/1MarkMoss)
-* [Port Phillip Publishing](https://www.portphillippublishing.com.au/)
+* Thomas Lee, Fundstrat - [@fundstrat](https://twitter.com/fundstrat) - paid subscription covering all all asset classes
+* Lark Davis - [@cryptolark](https://twitter.com/cryptolark) - cheap paid subscription - crypto investor
+* Kelvin Koh, Partner at The Spartan Group - [@SpartanBlack_1](https://twitter.com/SpartanBlack_1) - crypto investor
+* Zhu Su, CEO/CIO at Three Arrows Capital - [@zhusu](https://twitter.com/zhusu) - crypto investor
+* Coin Bureau - [YouTube](https://www.youtube.com/channel/UCqK_GSMbpiV8spgD3ZGloSw) - crypto investor
+* Lyn Alden - [@LynAldenContact](https://twitter.com/LynAldenContact) - cheap paid subscription - traditional investor
+* George Gammon - [@GeorgeGammon](https://twitter.com/GeorgeGammon) - economic education
+* Mark Moss - [@MarkMoss](https://twitter.com/1MarkMoss) - economic education and macro investor
+* [Port Phillip Publishing](https://www.portphillippublishing.com.au/) - paid subscription
+* [Fat Tail Media](https://fattailmedia.com.au/) - paid subscription
+* [Propertyology](https://www.propertyology.com.au/) - real estate buyers agent in the Australian market. Useful if you are buying multiple properties and don't have time to research yourself.
 
 [Top 15 Crypto YouTubers](https://www.coinbureau.com/analysis/crypto-youtube-channels/)
 
