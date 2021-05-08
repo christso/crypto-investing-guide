@@ -813,6 +813,7 @@ Here are some resources I use to help decide my portfolio allocation.
 * Lyn Alden - [@LynAldenContact](https://twitter.com/LynAldenContact)
 * George Gammon - [@GeorgeGammon](https://twitter.com/GeorgeGammon)
 * Mark Moss - [@MarkMoss](https://twitter.com/1MarkMoss)
+* [Port Phillip Publishing](https://www.portphillippublishing.com.au/)
 
 [Top 15 Crypto YouTubers](https://www.coinbureau.com/analysis/crypto-youtube-channels/)
 
