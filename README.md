@@ -522,7 +522,9 @@ This is my portfolio allocation. I hold the majority in Bitcoin. I would only ho
 * BarnBridge (BOND) - DeFi
 * Binance Coin (BNB) - fuel for Binance Smart Chain (BSC), lower fees than ETH for DeFi
 
-I also have a tiny percentage of my portfolio for highly speculative altcoins. I do not recommend allocating any amount that you cannot afford to lose completely. These altcoins do not satisfy the [project evaluation criteria](#Project-Evaluation). Investing in these altcoins are based purely on social sentiment, price action and temporary solutions that will eventually be addressed by Bitcoin or Ethereum. The price growth of these altcoins are also a good indicator of new retail investors entering the market.
+I also have a tiny percentage of my portfolio for highly speculative altcoins. I do not recommend allocating any amount that you cannot afford to lose completely. These altcoins do not satisfy the [project evaluation criteria](#Project-Evaluation). Investing in these altcoins are based purely on social sentiment, price action and temporary solutions that will eventually be addressed by other crypto assets. The price growth of these altcoins are also a good indicator of new retail investors entering the market.
+
+You can use [LunarCRUSH](https://lunarcrush.com/) to predict which coins are good short term gambles.
 
 * Cardano (ADA) - competes with ETH, no apps built on it yet
 * VeChain (VET) - supply chain solution still in idea-validation phase
