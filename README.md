@@ -477,6 +477,12 @@ Decentralized platforms:
 * [AAVE](https://aave.com/)
 * [Compound](https://compound.finance/)
 * [dYdX](https://dydx.exchange/)
+* [Yearn Finance](https://yearn.finance/)
+* [Bancor Network](https://app.bancor.network/)
+* [Anchor Protocol](https://app.anchorprotocol.com/)
+
+Insurance:
+* [Nexus Mutual](https://app.nexusmutual.io/)
 
 On-chain staking:
 * [Stacks 2.0](https://stacks.org/) - Stacks (STX) are used as fuel for smart contract execution, transaction processing, and digital asset registrations on the Stacks 2.0 blockchain. It's used as fuel for blockchain transactions and enables holders to earn Bitcoin with Stacking. Stacks enables new use cases like Bitcoin NFTs and stablecoins that settle on Bitcoin.
