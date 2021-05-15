@@ -828,7 +828,7 @@ Here are some resources I use for deciding what to invest in when I don't have t
 * [Propertyology](https://www.propertyology.com.au/) - real estate buyers agent in the Australian market. Useful if you are buying multiple properties and don't have time to research yourself.
 
 [Top 15 Crypto YouTubers](https://www.coinbureau.com/analysis/crypto-youtube-channels/)
-[Fin Notes https://www.finnotes.org/asset-classes/bitcoin
+[Fin Notes](https://www.finnotes.org/asset-classes/bitcoin)
 
 ## Bitcoin and Crypto
 
