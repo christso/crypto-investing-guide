@@ -782,6 +782,7 @@ Bitcoin:
 Crypto:
 * Kelvin Koh, Partner at The Spartan Group - [@SpartanBlack_1](https://twitter.com/SpartanBlack_1)
 * Zhu Su, CEO/CIO at Three Arrows Capital - [@zhusu](https://twitter.com/zhusu)
+* [@Phoenix_Ash3s](https://twitter.com/Phoenix_Ash3s)
 * Bloqport - [@Bloqbot](https://twitter.com/Bloqbot)
 * Glassnode - [@glassnode](https://twitter.com/glassnode)
 * Woonomic - [@woonomic](https://twitter.com/woonomic)
