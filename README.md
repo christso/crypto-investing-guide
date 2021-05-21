@@ -816,18 +816,18 @@ Pro-Bitcoin Political Leaders:
 
 Here are some resources I use for deciding what to invest in when I don't have time for my own research:
 
-* Thomas Lee, Fundstrat - [@fundstrat](https://twitter.com/fundstrat) - traditional investor
+* Guy, Coin Bureau - [YouTube](https://www.youtube.com/channel/UCqK_GSMbpiV8spgD3ZGloSw) - crypto investor
+* Benjamin Cowen - [YouTube](https://www.youtube.com/channel/UCRvqjQPSeaWn-uEx-w0XOIg) - price action analysis
 * Ryan Dinse - [@CryptoDataHound](https://twitter.com/CryptoDataHound) - editor of Crypto Flip Trader at Port Phillip Publishing
 * Lark Davis - [@cryptolark](https://twitter.com/cryptolark) - crypto investor
 * Kelvin Koh, Partner at The Spartan Group - [@SpartanBlack_1](https://twitter.com/SpartanBlack_1) - crypto investor
 * Zhu Su, CEO/CIO at Three Arrows Capital - [@zhusu](https://twitter.com/zhusu) - crypto investor
-* Coin Bureau - [YouTube](https://www.youtube.com/channel/UCqK_GSMbpiV8spgD3ZGloSw) - crypto investor
+* Thomas Lee, Fundstrat - [@fundstrat](https://twitter.com/fundstrat) - traditional investor
 * Lyn Alden - [@LynAldenContact](https://twitter.com/LynAldenContact) - traditional investor
 * George Gammon - [@GeorgeGammon](https://twitter.com/GeorgeGammon) - economic education
 * Mark Moss - [@MarkMoss](https://twitter.com/1MarkMoss) - economic education and macro investor
 
 [Top 15 Crypto YouTubers](https://www.coinbureau.com/analysis/crypto-youtube-channels/)
-[Fin Notes](https://www.finnotes.org/asset-classes/bitcoin)
 
 ## Bitcoin and Crypto
 
