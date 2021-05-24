@@ -824,7 +824,7 @@ Here are some resources I use for deciding what to invest in when I don't have t
 * Chris Dunn - [@ChrisDunnTV](https://twitter.com/ChrisDunnTV) - price action analysis
 * Benjamin Cowen - [YouTube](https://www.youtube.com/channel/UCRvqjQPSeaWn-uEx-w0XOIg) - price action analysis
 * Guy, Coin Bureau - [YouTube](https://www.youtube.com/channel/UCqK_GSMbpiV8spgD3ZGloSw) - crypto investor
-* Lark Davis - [@cryptolark](https://twitter.com/TheCryptoLark) - crypto investor
+* Lark Davis - [YouTube](https://www.youtube.com/channel/UCl2oCaw8hdR_kbqyqd2klIA) | [@TheCryptoLark](https://twitter.com/TheCryptoLark) - crypto investor
 * Ryan Dinse - [@CryptoDataHound](https://twitter.com/CryptoDataHound) - editor of Crypto Flip Trader at Port Phillip Publishing
 * Kelvin Koh, Partner at The Spartan Group - [@SpartanBlack_1](https://twitter.com/SpartanBlack_1) - crypto investor
 * Zhu Su, CEO/CIO at Three Arrows Capital - [@zhusu](https://twitter.com/zhusu) - crypto investor
