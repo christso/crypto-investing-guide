@@ -25,6 +25,7 @@ You can message me directly on Twitter [@christso](https://twitter.com/christso)
 * [Lending and Staking](#Lending-and-Staking)
 * [Altcoin Investing](#Altcoin-Investing)
 * [Project Evaluation](#Project-Evaluation)
+* [Crypto Accounting Software](#Crypto-Accounting-Software)
 * [Data Analysis Tools](#Data-Analysis-Tools)
 * [Bitcoin Price Forecast](#Bitcoin-Price-Forecast)
 * [What price to buy Bitcoin and what amount?](#What-price-to-buy-Bitcoin-and-what-amount)
@@ -546,6 +547,10 @@ You can use [LunarCRUSH](https://lunarcrush.com/) to predict which coins are goo
 
 [Bybit](https://www.bybit.com/en-US/) - Futures Trading for BTC, ETH, LINK, XTZ, LTC and other cryptos.
 
+[FTX](https://ftx.com/)
+
+Note that many exchanges such as Binance also support leveraged trading and derivatives.
+
 # Project Evaluation
 
 When evaluating how much to invest in an altcoin project, you should ask yourself the following questions:
@@ -561,6 +566,12 @@ Does the monetary policy reward long-term holders?
 Is the governance decentralised and resistant to attacks?
 
 Are on-chain metrics indicating confidence in the project?
+
+# Crypto Accounting Software
+
+[Koinly](https://koinly.io/?via=147FE8C2)
+
+[Crypto Tax Calculator](https://cryptotaxcalculator.io/)
 
 # Data Analysis Tools
 
