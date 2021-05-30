@@ -821,10 +821,10 @@ Pro-Bitcoin Political Leaders:
 
 Here are some resources I use for deciding what to invest in when I don't have time for my own research:
 
-* Chris Dunn - [@ChrisDunnTV](https://twitter.com/ChrisDunnTV) - price action analysis
-* Benjamin Cowen - [YouTube](https://www.youtube.com/channel/UCRvqjQPSeaWn-uEx-w0XOIg) - price action analysis
 * Guy, Coin Bureau - [YouTube](https://www.youtube.com/channel/UCqK_GSMbpiV8spgD3ZGloSw) - crypto investor
+* Benjamin Cowen - [YouTube](https://www.youtube.com/channel/UCRvqjQPSeaWn-uEx-w0XOIg) - price action analysis
 * Lark Davis - [YouTube](https://www.youtube.com/channel/UCl2oCaw8hdR_kbqyqd2klIA) | [@TheCryptoLark](https://twitter.com/TheCryptoLark) - crypto investor
+* Chris Dunn - [@ChrisDunnTV](https://twitter.com/ChrisDunnTV) - price action analysis
 * Ryan Dinse - [@CryptoDataHound](https://twitter.com/CryptoDataHound) - editor of Crypto Flip Trader at Port Phillip Publishing
 * Kelvin Koh, Partner at The Spartan Group - [@SpartanBlack_1](https://twitter.com/SpartanBlack_1) - crypto investor
 * Zhu Su, CEO/CIO at Three Arrows Capital - [@zhusu](https://twitter.com/zhusu) - crypto investor
