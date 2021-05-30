@@ -616,7 +616,7 @@ Hard money is more trustworthy as a store of value precisely because it resists 
 * Dividing the stock of a monetary good by its flow equals its stock-to-flow ratio
 * The higher the stock-to-flow ratio, the greater the hardness (or soundness) of money
 
-Taking the growth range of the previous cycles, we can expect the Bitcoin price to peak in mid-2021 at US$200k-$400k, then crash to $70k-$200k.
+If we take the average of the previous cycles, we expect Bitcoin price to peak in mid-2021 at US$200k-$400k, then crash to $70k-$200k. However, lengthening cycle theory is true, then this cycle may have a lower peak (e.g. $100k) and smaller correction (e.g. 50% instead of 80%).
 
 ![](images/bitcoin-after-the-3rd-halving.png)
 
@@ -646,7 +646,6 @@ It's good to monitor on-chain metrics such as [Reserve Risk](https://www.lookint
 -- [@hansthered](https://twitter.com/hansthered), 2021-03-21
 
 ![](images/reserve-risk-20210321.jfif)
-
 
 # What price to buy Bitcoin and what amount?
 
