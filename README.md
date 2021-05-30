@@ -516,6 +516,7 @@ This is my portfolio allocation. I hold the majority in Bitcoin. I would only ho
 * Terra (LUNA) - DeFi, stablecoins
 * Polygon (MATIC) - DeFi, ETH layer 2
 * Hegic (HEGIC) - DeFi
+* Loopring (LRC) - DeFi
 * Uniswap (UNI) - DeFi
 * THORchain (RUNE) - DeFi
 * Solana (SOL) - smart contracts
@@ -525,7 +526,6 @@ This is my portfolio allocation. I hold the majority in Bitcoin. I would only ho
 * Golem (GLM) - computing
 * Theta (THETA) - video streaming
 * Alpha Finance Lab (ALPHA) - DeFi
-* BarnBridge (BOND) - DeFi
 * Binance Coin (BNB) - fuel for Binance Smart Chain (BSC), lower fees than ETH for DeFi
 
 I also have a tiny percentage of my portfolio for highly speculative altcoins. I do not recommend allocating any amount that you cannot afford to lose completely. These altcoins do not satisfy the [project evaluation criteria](#Project-Evaluation). Investing in these altcoins are based purely on social sentiment, price action and temporary solutions that will eventually be addressed by other crypto assets. The price growth of these altcoins are also a good indicator of new retail investors entering the market.
