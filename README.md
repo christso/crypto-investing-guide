@@ -863,6 +863,8 @@ Here are some resources I use for deciding what to invest in when I don't have t
 
 [Coin Bureau](https://www.coinbureau.com/) - crypto education
 
+[Sam Rule](https://www.samrule.com/) - Bitcoin researcher
+
 ## Economics
 
 [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.amazon.com.au/Bitcoin-Standard-Decentralized-Alternative-Central-ebook/dp/B07BPM3GZQ) - book explaining the evolution of money over millenia and the social implications of Bitcoin.
