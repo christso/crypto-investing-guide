@@ -496,32 +496,33 @@ On-chain staking:
 
 This is my portfolio allocation. I hold the majority in Bitcoin. I would only hold other coins if they are likely to outperform Bitcoin. If I don't have a percentage for a coin, it might still comprise over 10% of my portfolio, but only for a couple of months.
 
-* Bitcoin (BTC) = 70% to 100% - hardest store of value and dominant monetary network.
+* Bitcoin (BTC) = 60% to 100% - hardest store of value and dominant monetary network.
 * Ethereum (ETH) <= 30% - smart contracts with highest developer mindshare and strong ecosystem
 * Enjin (ENJ) <= 10% - online gaming and NFTs
-* 0x (ZRX) <= 5% - DeFi infrastructure for P2P exchange
-* Secret (SCRT) <= 5% - privacy-preserving smart contracts
-* Storj (STORJ) <= 5% - cloud storage
+* Stacks (STX) <= 10% - DeFi and NFTs on Bitcoin
+* Secret (SCRT) <= 10% - privacy-preserving smart contracts
+* Frax Finance (FXS) <= 10% - DeFi
+* 0x (ZRX) <= 10% - DeFi infrastructure for P2P exchange
+* Storj (STORJ) <= 10% - cloud storage
+* Solana (SOL) <= 10% - smart contracts
+* Ren (REN) <= 10% - DeFi
+* SushiSwap (SUSHI) <= 10% - DeFi
 * Decentraland (MANA) <= 5% - online gaming and NFTs
 * Power Ledger (POWR) <= 2% - energy trading - xGrid and µGrid
 * Chainlink (LINK) <= 1% - data feeds
 * Cosmos (ATOM) <= 1% - data feeds
 * Origin Protocol (OGN) <= 1% - e-commerce and NFTs
 * Basic Attention Token (BAT) <= 1% - online advertising - rewarding attention of users - part of the Brave Browser.
-* Stacks (STX) - DeFi on Bitcoin
 * Band Protocol (BAND) - DeFi
 * Bancor (BNT) - DeFi
 * yearn.finance (YFI) - DeFi
 * Aave (AAVE) - DeFi
-* Frax Finance (FXS) - DeFi
-* Ren (REN) - DeFi
 * Terra (LUNA) - DeFi, stablecoins
 * Polygon (MATIC) - DeFi, ETH layer 2
 * Hegic (HEGIC) - DeFi
 * Loopring (LRC) - DeFi
 * Uniswap (UNI) - DeFi
 * THORchain (RUNE) - DeFi
-* Solana (SOL) - smart contracts
 * Polkadot (DOT) - smart contracts
 * Tezos (XTZ) - smart contracts
 * Harmony (ONE) - smart contracts
@@ -693,6 +694,7 @@ If you have over 50% of your wealth in Bitcoin and crypto near the end of the bu
 NFTs (non-fungible tokens) are tokens cryptographically secured on the blockchain and represents a unique digital asset. This uniqueness gives each token a different price, unlike cryptocurrencies such as Bitcoin where one bitcoin has the same price as another bitcoin.
 
 [Rarity](https://rarity.tools/) - NFT valuation tool
+
 [OpenSea](https://opensea.io/) - NFT marketplace
 
 # Crypto Adoption News
