@@ -29,6 +29,7 @@ You can message me directly on Twitter [@christso](https://twitter.com/christso)
 * [Data Analysis Tools](#Data-Analysis-Tools)
 * [Bitcoin Price Forecast](#Bitcoin-Price-Forecast)
 * [What price to buy Bitcoin and what amount?](#What-price-to-buy-Bitcoin-and-what-amount)
+* [NFTs](#NFTs)
 * [Crypto Adoption News](#Crypto-Adoption-News)
 * [Crypto Influencers](#Crypto-Influencers)
 * [Additional Resources](#Additional-Resources)
@@ -686,6 +687,13 @@ Secondly, you can use ["dollar cost averaging"](https://dcabtc.com/) when determ
 Then once you have accumulated your initial budget, you can continue to accumulate more patiently. You can place buy orders when the price is close to the 10 period exponential moving average (EMA) or whenever the price has a 10-30% correction, while maintaining it's upward trend on a longer term time scale. For example, when the price is dipped by 10-30% and now touching the 10 EMA on a daily chart (i.e. 10 day), and is still above 10 EMA on a weekly chart (10 week), it would be a good buy signal. If you want to learn more about price action, you can search for "technical analysis", "trend following", "momentum trading" or "mean reversion trading".
 
 If you have over 50% of your wealth in Bitcoin and crypto near the end of the bull market, it might be worth taking profits (selling) at $200k-$700k, especially if you've bought at a price above $100k. Then buy back at a lower price when the risk of unrealised losses is much lower. This will depend on your financial and tax situation. If you don't need to pay much capital gains tax or you need to the cash, then it might be worth selling 10-50% of your holdings. However, it's difficult to time the exact market top, and there is a risk that you will regret selling too early and buying back at a higher price. Just be aware that your primary goal should be risk minimisation, not profit maximisation.
+
+# NFTs
+
+NFTs (non-fungible tokens) are tokens cryptographically secured on the blockchain and represents a unique digital asset. This uniqueness gives each token a different price, unlike cryptocurrencies such as Bitcoin where one bitcoin has the same price as another bitcoin.
+
+[Rarity](https://rarity.tools/) - NFT valuation tool
+[OpenSea](https://opensea.io/) - NFT marketplace
 
 # Crypto Adoption News
 
