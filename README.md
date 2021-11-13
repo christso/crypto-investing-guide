@@ -783,13 +783,11 @@ Bitcoin:
 * Andreas M. Antonopoulos, Bitcoin expert and author - [@aantonop](https://twitter.com/aantonop)
 * Vijay Boyapati, Austrian economics researcher - [@real_vijay](https://twitter.com/real_vijay)
 * Robert Breedlove, CEO of Parallax Digital - [@Breedlove22](https://twitter.com/Breedlove22)
-* Plan B, Bitcoin quant - [@100trillionUSD](https://twitter.com/100trillionUSD)
 * Saifedean Ammous, Bitcoin economist - [@saifedean](https://twitter.com/saifedean)
 * Stephan Livera, Bitcoin podcaster - [@stephanlivera](https://twitter.com/stephanlivera)
 * Jameson Lopp, Casa Co-founder & CTO - [@lopp](https://twitter.com/lopp)
 * Jeff Both, technology entrepreneur - [@JeffBooth](https://twitter.com/JeffBooth)
 * Dan Held, Head of Growth at Kraken - [@danheld](https://twitter.com/danheld)
-* Ecoinometrics, Bitcoin quant - [@ecoinometrics](https://twitter.com/ecoinometrics) - data and insights
 * Matt Odell, Bitcoin entrepreneur - [@matt_odell](https://twitter.com/matt_odell)
 * Peter McCormack, Bitcoin podcaster - [@PeterMcCormack](https://twitter.com/PeterMcCormack)
 * Nic Carter, Founder of CoinMetrics.io - [@nic__carter](https://twitter.com/nic__carter)
@@ -805,6 +803,9 @@ Bitcoin:
 * Ben Kaufman, software developer - [@_benkaufman](https://twitter.com/_benkaufman)
 
 Crypto:
+* Jordan Lindsey - [@jclcapital](https://twitter.com/jclcapital)
+* Ecoinometrics, Bitcoin quant - [@ecoinometrics](https://twitter.com/ecoinometrics) - data and insights
+* Plan B, Bitcoin quant - [@100trillionUSD](https://twitter.com/100trillionUSD)
 * Kelvin Koh, Partner at The Spartan Group - [@SpartanBlack_1](https://twitter.com/SpartanBlack_1)
 * Zhu Su, CEO/CIO at Three Arrows Capital - [@zhusu](https://twitter.com/zhusu)
 * [@Phoenix_Ash3s](https://twitter.com/Phoenix_Ash3s)
