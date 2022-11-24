@@ -1,12 +1,12 @@
 # CRYPTO INVESTING GUIDE
 
-This is a quick reference guide for crypto investors. I've prepared this guide to help educate my friends about how the financial system is evolving, so they can use this knowledge to protect their wealth. The financial system is changing rapidly since 2016, and it's difficult to keep pace. I will continue to update this guide with my learnings. You will still need to do your own research (DYOR) as this guide is intended to point you to the source of information, rather than be your primary source of information. 
+This is a quick reference guide for crypto investors. I've prepared this guide in 2021 to help educate my friends about how the financial system is evolving, so they can use this knowledge to protect their wealth. The financial system is changing rapidly since 2016, and it's difficult to keep pace. I will continue to update this guide with my learnings. You will still need to do your own research (DYOR) as this guide is intended to point you to the source of information, rather than be your primary source of information. 
 
 If you would like to discuss anything crypto-related, please go to [Discussions](https://github.com/christso/crypto-investing-guide/discussions/).
 
 If you would like to request any changes to the document, please go to [Issues](https://github.com/christso/crypto-investing-guide/issues) and create an issue.
 
-You can message me directly on Twitter [@christso](https://twitter.com/christso).
+IMPORTANT: Please note that I no longer update this guide. The crypto market changes quickly and this guide maybe out of date before 2023. All I can say is, avoid holding crypto on centralised exchanges, and don't invest more than you can afford to lose because BTC and crypto are still highly volatile assets. Also, 99% of crypto are probably scams as of 2022. The safest bet is to hold your BTC and crypto in cold storage. In terms of alts, maybe some ETH and LINK since they are already a big part of the ecosystem and should still be around in 5+ years.
 
 ## Contents
 * [The traditional financial system](#The-traditional-financial-system)
@@ -467,71 +467,42 @@ Centralized finance (CeFi) platforms allow people to earn interest with Bitcoin 
 
 [DeFi Rate](https://defirate.com/) - interest rates from the top crypto lending protocols and crypto banks.
 
-Centralized platforms:
-* [BlockFi](https://www.blockfi.com/)
+Centralized platforms (not recommended):
 * [Ledn](https://www.ledn.io/)
-* [Celsius Network](https://celsius.network/)
-* [Nexo Finance](https://nexo.io/)
 * [Binance Earn](https://www.binance.com/en/earn)
 * [Bitfinex Lend and Earn](https://www.bitfinex.com/lending-products-start/)
 
 Decentralized platforms:
-* [AAVE](https://aave.com/)
-* [Compound](https://compound.finance/)
-* [dYdX](https://dydx.exchange/)
 * [Yearn Finance](https://yearn.finance/)
-* [Bancor Network](https://app.bancor.network/)
-* [Anchor Protocol](https://app.anchorprotocol.com/)
-
-Insurance:
-* [Nexus Mutual](https://app.nexusmutual.io/)
-
-On-chain staking:
-* [Stacks 2.0](https://stacks.org/) - Stacks (STX) are used as fuel for smart contract execution, transaction processing, and digital asset registrations on the Stacks 2.0 blockchain. It's used as fuel for blockchain transactions and enables holders to earn Bitcoin with Stacking. Stacks enables new use cases like Bitcoin NFTs and stablecoins that settle on Bitcoin.
-* [Ethereum 2.0](https://ethereum.org/en/eth2/staking/) - You can earn rewards by running a eth2 validator node. You will need to lock up 32 ETH, and you cannot withdraw both your deposit and rewards until Phase 1.5 (which can take 1-2 years or longer). Alternatively, you can deposit into a staking pool, custodian or convert to a staking token such as [Binance ETH 2.0 (BETH)](https://www.binance.com/en/eth2). See [Ethereum 2.0 Staking Guide](https://www.stakingrewards.com/journal/ultimate-ethereum-2-0-staking-guide).
+* [AAVE](https://aave.com/)
 
 # Altcoin Investing
 
 ## Portfolio Allocation
 
-This is my portfolio allocation. I hold the majority in Bitcoin. I would only hold other coins if they are likely to outperform Bitcoin. If I don't have a percentage for a coin, it might still comprise over 10% of my portfolio, but only for a couple of months.
+I recommend holding the majority in Bitcoin. I would only hold other coins if they are likely to outperform Bitcoin. If I don't have a percentage for a coin, it might still comprise over 10% of my portfolio, but only for a couple of months.
 
 * Bitcoin (BTC) = 60% to 100% - hardest store of value and dominant monetary network.
-* Ethereum (ETH) <= 30% - smart contracts with highest developer mindshare and strong ecosystem
-* Enjin (ENJ) <= 10% - online gaming and NFTs
-* Stacks (STX) <= 10% - DeFi and NFTs on Bitcoin
-* Secret (SCRT) <= 10% - privacy-preserving smart contracts
-* Frax Finance (FXS) <= 10% - DeFi
-* 0x (ZRX) <= 10% - DeFi infrastructure for P2P exchange
-* Storj (STORJ) <= 10% - cloud storage
-* Solana (SOL) <= 10% - smart contracts
-* Ren (REN) <= 10% - DeFi
-* SushiSwap (SUSHI) <= 10% - DeFi
-* Decentraland (MANA) <= 5% - online gaming and NFTs
-* Power Ledger (POWR) <= 2% - energy trading - xGrid and µGrid
-* Chainlink (LINK) <= 1% - data feeds
-* Cosmos (ATOM) <= 1% - data feeds
-* Origin Protocol (OGN) <= 1% - e-commerce and NFTs
-* Basic Attention Token (BAT) <= 1% - online advertising - rewarding attention of users - part of the Brave Browser.
-* Band Protocol (BAND) - DeFi
-* Bancor (BNT) - DeFi
+* Ethereum (ETH) <= 40% - smart contracts with highest developer mindshare and strong ecosystem
+* Chainlink (LINK) <= 20% - data feeds
+* Polygon (MATIC) <= 10% - DeFi, ETH layer 2
+* The Graph (GRT) <= 10% - queries
+* Frax Finance (FXS) <= 10% - Stablecoin and DeFi
+* Enjin (ENJ) - online gaming and NFTs
+* Stacks (STX) - DeFi and NFTs on Bitcoin
+* Secret (SCRT) - privacy-preserving smart contracts
+* 0x (ZRX) - DeFi infrastructure for P2P exchange
+* Storj (STORJ) - cloud storage
+* Cosmos (ATOM) - data feeds
 * yearn.finance (YFI) - DeFi
 * Aave (AAVE) - DeFi
-* Terra (LUNA) - DeFi, stablecoins
-* Polygon (MATIC) - DeFi, ETH layer 2
 * Hegic (HEGIC) - DeFi
-* Loopring (LRC) - DeFi
 * Uniswap (UNI) - DeFi
-* THORchain (RUNE) - DeFi
 * Polkadot (DOT) - smart contracts
 * Tezos (XTZ) - smart contracts
 * Harmony (ONE) - smart contracts
-* Golem (GLM) - computing
-* Theta (THETA) - video streaming
-* Alpha Finance Lab (ALPHA) - DeFi
-* Binance Coin (BNB) - fuel for Binance Smart Chain (BSC), lower fees than ETH for DeFi
 
-I also have a tiny percentage of my portfolio for highly speculative altcoins. I do not recommend allocating any amount that you cannot afford to lose completely. These altcoins do not satisfy the [project evaluation criteria](#Project-Evaluation). Investing in these altcoins are based purely on social sentiment, price action and temporary solutions that will eventually be addressed by other crypto assets. The price growth of these altcoins are also a good indicator of new retail investors entering the market.
+I might also have a tiny percentage of my portfolio for highly speculative altcoins. I do not recommend allocating any amount that you cannot afford to lose completely. These altcoins do not satisfy the [project evaluation criteria](#Project-Evaluation). Investing in these altcoins are based purely on social sentiment, price action and temporary solutions that will eventually be addressed by other crypto assets. The price growth of these altcoins are also a good indicator of new retail investors entering the market.
 
 You can use [LunarCRUSH](https://lunarcrush.com/) to predict which coins are good short term gambles.
 
@@ -548,8 +519,6 @@ You can use [LunarCRUSH](https://lunarcrush.com/) to predict which coins are goo
 [Derebit](https://www.deribit.com/) - options and futures trading for BTC and ETH
 
 [Bybit](https://www.bybit.com/en-US/) - Futures Trading for BTC, ETH, LINK, XTZ, LTC and other cryptos.
-
-[FTX](https://ftx.com/)
 
 Note that many exchanges such as Binance also support leveraged trading and derivatives.
 
@@ -607,7 +576,7 @@ Are on-chain metrics indicating confidence in the project?
 
 [Bitcoinity](https://data.bitcoinity.org/) - Bitcoin blockchain and market data.
 
-[Digitalik](https://digitalik.net/btc/) - Bitcoin stock to flow model live chart.
+[Buy Bitcoin Worldwide](https://buybitcoinworldwide.com/stats/) - Bitcoin stock to flow model live chart.
 
 [UsefulTulips](https://www.usefultulips.org/) - charts on P2P cryptocurrency usage around the world
 
@@ -627,9 +596,7 @@ Hard money is more trustworthy as a store of value precisely because it resists 
 * 'Stock' is the existing supply of monetary units
 * 'Flow' is the newly created supply over a specified time period, usually one year
 * Dividing the stock of a monetary good by its flow equals its stock-to-flow ratio
-* The higher the stock-to-flow ratio, the greater the hardness (or soundness) of money
-
-If we take the average of the previous cycles, we expect Bitcoin price to peak in mid-2021 at US$200k-$400k, then crash to $70k-$200k. However, lengthening cycle theory is true, then this cycle may have a lower peak (e.g. $100k) and smaller correction (e.g. 50% instead of 80%).
+* The higher the stock-to-flow ratio, the greater the hardness of money (i.e. lower inflation rate)
 
 ![](images/bitcoin-after-the-3rd-halving.png)
 
@@ -649,7 +616,7 @@ However, 2021 is the year that Bitcoin reached escape velocity with institutions
 
 ![](images/coinmetrics-path-50k.jfif)
 
-The other outcome (but unlikely until 2027) is we achieve "hyperbitcoinization" in the current cycle. This involves a number of big corporations holding at least 1% of their cash reserves in Bitcoin, traditional infrastructure such as Visa and Mastercard or other provider making it easy for merchants and customers to transact in Bitcoin, and possibly central banks and governments holding and transacting in Bitcoin. This would place the price of one Bitcoin above US$10 million.
+The other outcome (but unlikely until 2027) is we achieve "hyperbitcoinization". This involves a number of big corporations holding at least 1% of their cash reserves in Bitcoin, traditional infrastructure such as Visa and Mastercard or other provider making it easy for merchants and customers to transact in Bitcoin, and possibly central banks and governments holding and transacting in Bitcoin. This would place the price of one Bitcoin above US$10 million.
 
 [Hyperbitcoinization - The path to becoming the world’s dominant form of money](https://www.bitrawr.com/hyperbitcoinization).
 
@@ -791,70 +758,27 @@ Bitcoin:
 * Matt Odell, Bitcoin entrepreneur - [@matt_odell](https://twitter.com/matt_odell)
 * Peter McCormack, Bitcoin podcaster - [@PeterMcCormack](https://twitter.com/PeterMcCormack)
 * Nic Carter, Founder of CoinMetrics.io - [@nic__carter](https://twitter.com/nic__carter)
-* Anthony Pompliano, Growth Lead and Investor - [@APompliano](https://twitter.com/APompliano)
 * Preston Pysh, Podcaster - [@PrestonPysh](https://twitter.com/PrestonPysh)
 * Cory Klippensten, Founder of Swan Bitcoin - [@coryklippsten](https://twitter.com/coryklippsten)
-* Documenting Bitcoin - [@DocumentingBTC](https://twitter.com/DocumentingBTC)
-* Bitcoin Archive - [@BTC_Archive](https://twitter.com/BTC_Archive)
 * Bitcoin Magazine - [@BitcoinMagazine](https://twitter.com/BitcoinMagazine)
-* Max Keiser - [@maxkeiser](https://twitter.com/maxkeiser)
 * Alistair Milne - [@alistairmilne](https://twitter.com/alistairmilne)
-* Danny Scott, CEO of CoinCorner - [@CoinCornerDanny](https://twitter.com/CoinCornerDanny)
-* Ben Kaufman, software developer - [@_benkaufman](https://twitter.com/_benkaufman)
+* Bloqport - [@Bloqbot](https://twitter.com/Bloqbot)
 
-Crypto:
+Price and On Chain Metrics:
 * Jordan Lindsey - [@jclcapital](https://twitter.com/jclcapital)
 * Ecoinometrics, Bitcoin quant - [@ecoinometrics](https://twitter.com/ecoinometrics) - data and insights
-* Plan B, Bitcoin quant - [@100trillionUSD](https://twitter.com/100trillionUSD)
-* Kelvin Koh, Partner at The Spartan Group - [@SpartanBlack_1](https://twitter.com/SpartanBlack_1)
-* Zhu Su, CEO/CIO at Three Arrows Capital - [@zhusu](https://twitter.com/zhusu)
 * [@Phoenix_Ash3s](https://twitter.com/Phoenix_Ash3s)
-* Bloqport - [@Bloqbot](https://twitter.com/Bloqbot)
 * Glassnode - [@glassnode](https://twitter.com/glassnode)
-* Woonomic - [@woonomic](https://twitter.com/woonomic)
-* Ki Young Ju - [@ki_young_ju](https://twitter.com/ki_young_ju)
 * Chris Burniske - [@cburniske](https://twitter.com/cburniske)
 
-Corporate and HNW Investors:
-* Tim Draper - venture capitalist - [@TimDraper](https://twitter.com/TimDraper)
-* Stanley Druckenmiller, former Chairman and CEO of Duquesne Family Office
-* Michael Saylor, CEO of Microstrategy - [@michael_saylor](https://twitter.com/michael_saylor)
-* Tahinis Restaurants - [@TheRealTahinis](https://twitter.com/TheRealTahinis)
-* Dan Tapiero, Co-Founder-10T Holdings (2020), DTAP Capital (2004) - [@DTAPCAP](https://twitter.com/DTAPCAP)
-* Jack Dorsey, CEO of Twitter - [@jack](https://twitter.com/jack)
-* Tyler Winklevoss, Gemini co-founder - [@tyler](https://twitter.com/tyler)
-* Cameron Winklevoss, Gemini co-founder - [@cameron](https://twitter.com/cameron)
-* Michael Novogratz, CEO of Galaxy Investment Partners - [@novogratz](https://twitter.com/novogratz)
-* Chamath Palihapitiya - [@chamath](https://twitter.com/chamath)
-* Barry Silbert, Founder and CEO of Digital Currency Group - [@BarrySilbert](https://twitter.com/BarrySilbert)
-* Raoul Pal, CEO of RealVision Group - [@RaoulGMI](https://twitter.com/RaoulGMI)
-* Ray Dalio - [@RayDalio](https://twitter.com/RayDalio)
-* Mark Cuban - [@mcuban](https://twitter.com/mcuban)
-* Elon Musk - [@elonmusk](https://twitter.com/elonmusk)
-
-Pro-Bitcoin Political Leaders:
-* Francis Suarez, Mayor of Miami - [@FrancisSuarez](https://twitter.com/FrancisSuarez)
-* Scott Conger, Mayor of Jackson Tennessee - [@MayorConger](https://twitter.com/MayorConger/status/1384691758936825857)
-
-# Additional Resources
-
-## Investment Advisors
-
-Here are some resources I use for deciding what to invest in when I don't have time for my own research:
-
+Investment Analysis
 * Guy, Coin Bureau - [YouTube](https://www.youtube.com/channel/UCqK_GSMbpiV8spgD3ZGloSw) - crypto investor
 * Benjamin Cowen - [YouTube](https://www.youtube.com/channel/UCRvqjQPSeaWn-uEx-w0XOIg) - price action analysis
-* Lark Davis - [YouTube](https://www.youtube.com/channel/UCl2oCaw8hdR_kbqyqd2klIA) | [@TheCryptoLark](https://twitter.com/TheCryptoLark) - crypto investor
-* Chris Dunn - [@ChrisDunnTV](https://twitter.com/ChrisDunnTV) - price action analysis
 * Ryan Dinse - [@CryptoDataHound](https://twitter.com/CryptoDataHound) - editor of Crypto Flip Trader at Port Phillip Publishing
-* Kelvin Koh, Partner at The Spartan Group - [@SpartanBlack_1](https://twitter.com/SpartanBlack_1) - crypto investor
-* Zhu Su, CEO/CIO at Three Arrows Capital - [@zhusu](https://twitter.com/zhusu) - crypto investor
-* Thomas Lee, Fundstrat - [@fundstrat](https://twitter.com/fundstrat) - traditional investor
 * Lyn Alden - [@LynAldenContact](https://twitter.com/LynAldenContact) - traditional investor
 * George Gammon - [@GeorgeGammon](https://twitter.com/GeorgeGammon) - economic education
 * Mark Moss - [@MarkMoss](https://twitter.com/1MarkMoss) - economic education and macro investor
-
-[Top 15 Crypto YouTubers](https://www.coinbureau.com/analysis/crypto-youtube-channels/)
+# Additional Resources
 
 ## Bitcoin and Crypto
 
